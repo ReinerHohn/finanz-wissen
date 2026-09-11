@@ -1,0 +1,29 @@
+{
+  "id": "tracking-difference",
+  "name": "TER ist nicht alles: die Tracking Difference",
+  "aka": ["Nachbildungsgüte", "reale Kosten", "Tracking Difference vs TER"],
+  "category": "Kosten",
+  "evidence_level": "A",
+  "tags": ["tracking-difference", "ter", "kosten", "msci-world", "vergleich"],
+  "summary": "Die TER ist nur das Preisschild. Was du über Jahre wirklich behältst, entscheidet die Tracking Difference: wie weit der ETF tatsächlich hinter seinem Index zurückblieb – nach ALLEN Effekten (Gebühren, Quellensteuer, Wertpapierleihe, Replikationsmethode). Ein ETF mit minimal höherer TER kann in der Realität sogar besser abschneiden. Bei breiten MSCI-World-ETFs liegen die Kosten ohnehin eng beieinander.",
+  "kernidee": "Nicht die niedrigste TER gewinnt, sondern die kleinste reale Abweichung vom Index (Tracking Difference). Bei Welt-ETFs sind die Unterschiede winzig.",
+  "deep_dive": "Die TER (laufende Kosten) wird intern abgezogen, aber ein ETF hat weitere Effekte, die die TER NICHT zeigt: Erträge aus Wertpapierleihe (können Kosten teilweise ausgleichen), unterschiedliche Behandlung der Quellensteuer auf Dividenden (Fondsdomizil Irland ist hier oft im Vorteil) und die Replikationsmethode. Die Tracking Difference misst das Endergebnis: Index-Rendite minus ETF-Rendite über z. B. ein Jahr. Ist sie kleiner als die TER, hat der ETF einen Teil seiner Kosten wieder reingeholt; ist sie größer, war er teurer als das Preisschild. Deshalb ist sie das ehrlichere Maß. Beispiel-Größenordnung MSCI World (ca. 2026, nur Orientierung – auf dem Factsheet prüfen!): Amundi ~0,12 %, SPDR ~0,12 %, HSBC ~0,15 %, Invesco/Xtrackers ~0,19 %, iShares Core ~0,20 %. Der Abstand ist minimal: 0,03 Prozentpunkte auf 10.000 € sind 3 € im Jahr – kein Entscheidungskriterium. Wichtiger als die dritte Nachkommastelle sind: physisch statt synthetisch (einfacher), großes Fondsvolumen (wird nicht geschlossen), thesaurierend/ausschüttend nach Ziel und ob der Broker den ETF kostenlos bespart. Wo prüfen: mehrjährige Tracking Difference z. B. auf trackingdifferences.com oder im offiziellen Factsheet/Jahresbericht.",
+  "key_facts": [
+    {"label": "TER = Preisschild", "value": "Zeigt nur die laufende Gebühr, nicht Quellensteuer-Effekte, Wertpapierleihe und Replikation."},
+    {"label": "Tracking Difference = Rechnung", "value": "Index-Rendite minus ETF-Rendite über ein Jahr – das reale Zurückbleiben nach allen Effekten."},
+    {"label": "Kann kleiner als TER sein", "value": "Durch Wertpapierleihe/Quellensteuer-Vorteile holt ein ETF manchmal Kosten zurück – dann schlägt er ein billigeres Preisschild."},
+    {"label": "MSCI World eng beieinander (ca. 2026)", "value": "Amundi/SPDR ~0,12 %, HSBC ~0,15 %, Invesco/Xtrackers ~0,19 %, iShares Core ~0,20 % – Werte auf dem Factsheet prüfen."},
+    {"label": "0,03 % = 3 €/Jahr auf 10.000 €", "value": "Der TER-Abstand zwischen Top-Welt-ETFs ist praktisch bedeutungslos."},
+    {"label": "Wo prüfen", "value": "Mehrjährige Tracking Difference z. B. auf trackingdifferences.com oder im offiziellen Factsheet."}
+  ],
+  "misconceptions": [
+    "'Der ETF mit der niedrigsten TER ist immer der günstigste.' – Nein, die Tracking Difference kann das umkehren.",
+    "'0,1 % vs 0,2 % TER ist ein großer Unterschied.' – Auf typische Summen sind das wenige Euro im Jahr.",
+    "'Nur die Kosten zählen.' – Physische Replikation, Fondsvolumen und kostenlose Besparbarkeit sind mindestens so wichtig."
+  ],
+  "related": ["ter-und-kosten", "welt-etf-auswaehlen", "thesaurierend-vs-ausschuettend", "broker-depot-auswahl"],
+  "sources": [
+    {"title": "Cheapest MSCI World UCITS ETF 2026 (TER & Tracking)", "url": "https://financialexpertclass.com/cheapest-msci-world-ucits-etf-2026/"},
+    {"title": "Trackingdifferences.com – ETF Tracking Difference", "url": "https://www.trackingdifferences.com/"}
+  ]
+}
