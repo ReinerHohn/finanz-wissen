@@ -2,6 +2,108 @@
 
 > Bildung, keine Anlageberatung. Siehe `dashboard.html` für die durchsuchbare Version.
 
+## Depot & Strategie
+
+### Anlagehorizont: welches Geld gehört wohin?  
+*Evidenz A*
+
+**Kernidee:** Ordne dein Geld nach dem Zeitpunkt, an dem du es brauchst – nicht nach dem Börsenwetter. Zeit, nicht Timing, entscheidet über die passende Anlage.
+
+Nicht jedes Geld gehört in Aktien – entscheidend ist, WANN du es brauchst. Kurzfristig benötigtes Geld (0–3 Jahre) gehört auf sichere Konten, denn Aktien können genau dann tief im Minus stehen. Nur Geld, das du 10+ Jahre nicht anfassen musst, sollte breit in Aktien-ETFs arbeiten. Das ist der eine legitime Grund, NICHT sofort alles in Aktien zu stecken – und er hat nichts mit Timing zu tun.
+
+Ein einfaches Töpfe-Modell hilft: (1) Kurzfristig (0–3 Jahre) – Notgroschen und geplante Ausgaben (Auto, Umzug, Steuer): auf Tagesgeld/Festgeld, kein Kursrisiko (siehe notgroschen-zuerst). (2) Mittelfristig (3–10 Jahre) – Mischung, mit vorsichtigerem Aktienanteil, damit ein Crash kurz vor dem Ziel nicht alles kostet. (3) Langfristig (10+ Jahre) – hier gehören breite Aktien-ETFs hin, weil über so lange Zeiträume die Schwankungen ausgesessen werden können und die reale Rendite wirkt (siehe sind-etfs-sicher). Der Grund für diese Trennung ist das Kursrisiko zum falschen Zeitpunkt: Aktien können -40 bis -55 % stehen; wer das Geld dann braucht, muss den Verlust realisieren. Wichtig: Das ist KEIN Market-Timing. Du wartest nicht auf einen 'guten Moment' (das wäre der teure Reflex, siehe markt-timing-jetzt-ist-schlecht), sondern richtest die Anlage nach deinem festen Zeitbedarf aus. Für dein lange herumliegendes Geld heißt das konkret: Der Teil, den du 10+ Jahre sicher nicht brauchst, sollte HEUTE anfangen zu arbeiten – am besten automatisiert (siehe sparplan-als-automatik) – statt auf besseres Wetter zu warten.
+
+- **0–3 Jahre:** Sicheres Konto (Tagesgeld/Festgeld) – kein Kursrisiko, weil keine Zeit zum Aussitzen bleibt.
+- **3–10 Jahre:** Mischung mit vorsichtigerem Aktienanteil, gegen Ende risikoärmer werden.
+- **10+ Jahre:** Breite Aktien-ETFs – lange genug, um Crashs auszusitzen und reale Rendite zu ernten.
+- **Der Grund:** Aktien können -50 % stehen; wer das Geld dann braucht, realisiert den Verlust.
+- **Kein Timing:** Du richtest dich nach deinem Zeitbedarf, nicht nach dem 'richtigen Moment'.
+
+**Häufige Irrtümer:**
+- 'Alles gehört sofort komplett in Aktien.' – Nur langfristiges Geld; kurzfristiges gehört sicher angelegt.
+- 'Ich warte mit dem Langfrist-Geld auf einen besseren Moment.' – Das ist Timing; bei 10+ Jahren zählt der Einstiegstag kaum.
+- 'Aktien sind für kurzfristige Ziele okay, wenn ich vorsichtig bin.' – Das Kursrisiko trifft dich unabhängig von Vorsicht.
+
+### Anleihen & Tagesgeld: der sichere Gegenpol zu Aktien  
+*Evidenz A*
+
+**Kernidee:** Der sichere Teil ist der Ballast, nicht der Motor. Seine Aufgabe ist Stabilität, damit du den Aktienteil im Crash aushältst.
+
+Der sichere Teil deines Depots hat nicht die Aufgabe, Rendite zu bringen, sondern Ruhe: Er schwankt kaum und federt Aktien-Crashs ab. Für die meisten Privatanleger reichen Tagesgeld und Festgeld (einfach, einlagengesichert). Anleihen sind Kredite an Staaten/Firmen – als ETF möglich, aber mit eigenen Feinheiten (Zinsänderungsrisiko).
+
+Tagesgeld: täglich verfügbar, Zins variabel, in der EU bis 100.000 € je Bank/Kunde gesetzlich gesichert – ideal für Notgroschen (siehe notgroschen-zuerst) und den sicheren Depotteil. Festgeld: fester Zins für feste Laufzeit, ebenfalls einlagengesichert, dafür während der Laufzeit gebunden. Anleihen: Du leihst einem Staat oder Unternehmen Geld und bekommst Zinsen (Kupon) plus am Ende den Nennwert zurück. Zwei Risiken: (1) Bonität – Staatsanleihen guter Länder gelten als sehr sicher, Unternehmens-/Schwellenländeranleihen zahlen mehr Zins, sind aber riskanter. (2) Zinsänderungsrisiko – steigen die Marktzinsen, fallen die Kurse bereits laufender Anleihen (2022 war so ein Jahr, in dem selbst 'sichere' Anleihen-ETFs deutlich fielen). Faustregel: Je länger die Restlaufzeit ('Duration'), desto stärker dieser Effekt. Für den sicheren Teil wählt man deshalb kurze Laufzeiten oder gleich Tagesgeld/Festgeld. Warum überhaupt sicher beimischen? Der sichere Teil bricht im Aktien-Crash nicht mit ein – das dämpft das Gesamtminus und gibt dir Mittel, um im Tief nachzukaufen oder einfach ruhig zu bleiben. Für Einsteiger gilt: Tagesgeld + Festgeld sind völlig ausreichend; ein Anleihen-ETF ist optional und lohnt eher bei größeren Vermögen.
+
+- **Aufgabe:** Stabilität, nicht Rendite – Ballast, der Aktien-Crashs abfedert.
+- **Tagesgeld/Festgeld:** Einfach, in der EU bis 100.000 €/Bank gesichert; Tagesgeld täglich verfügbar, Festgeld fest gebunden.
+- **Anleihe = Kredit:** Du leihst Staat/Firma Geld gegen Zins; Bonität und Laufzeit bestimmen das Risiko.
+- **Zinsänderungsrisiko:** Steigende Zinsen drücken Kurse laufender Anleihen (2022: auch 'sichere' Anleihen-ETFs fielen deutlich); kurze Laufzeit = geringeres Risiko.
+- **Für Einsteiger:** Tagesgeld + Festgeld reichen; ein Anleihen-ETF ist Kür, eher für größere Vermögen.
+
+**Häufige Irrtümer:**
+- 'Anleihen sind immer sicher.' – Zinsanstiege und schlechte Schuldner können Verluste bringen; 2022 fielen Anleihen-ETFs deutlich.
+- 'Der sichere Teil soll auch gut Rendite machen.' – Nein, seine Aufgabe ist Stabilität; Rendite kommt vom Aktienteil.
+- 'Tagesgeld ist rausgeworfenes Geld.' – Es ist der Puffer, der dir erlaubt, den Aktienteil im Crash zu halten.
+
+### Das eigene Depot rebalancieren  
+*Evidenz B*
+
+**Kernidee:** Nicht das Depot verkauft automatisch (das war der ETF) – DU stellst deine gewählte Aktien/sicher-Mischung wieder her, damit das Risiko nicht davonläuft.
+
+Rebalancing heißt: die ursprünglich gewählte Aufteilung (z. B. 70 % Aktien / 30 % sicher) regelmäßig wiederherstellen. Weil Aktien meist stärker steigen, wächst ihr Anteil mit der Zeit über das Ziel – und dein Depot wird riskanter, als du wolltest. Rebalancing bringt es zurück und ist vor allem ein Risiko-Werkzeug, kein Rendite-Trick.
+
+Wichtig zur Abgrenzung: Der ETF gewichtet seine Firmen intern automatisch (siehe marktkapitalisierung-gewichtung). Beim Rebalancing geht es dagegen um DEINE Aufteilung zwischen den Töpfen Aktien und sicher (siehe depot-aufteilung-assetallokation). Beispiel: Du startest 70/30. Nach einer guten Börsenphase stehst du bei 80/20 – dein Depot ist jetzt riskanter, als du eingestellt hattest. Beim Rebalancing bringst du es zurück auf 70/30. Zwei gängige Methoden: (1) Kalender – z. B. einmal im Jahr prüfen und anpassen. (2) Schwelle – nur eingreifen, wenn ein Topf mehr als z. B. 5 Prozentpunkte vom Ziel abweicht. Beides ist okay; einmal jährlich ist für die meisten ausreichend. Der steuer- und kostenschonendste Weg ist, NICHT zu verkaufen, sondern mit frischem Geld (Sparplanraten, Zuflüsse) gezielt den zu kleinen Topf aufzufüllen – so vermeidest du Verkaufsgewinne, die in Deutschland Abgeltungsteuer auslösen (siehe vorabpauschale-steuern-de). Effekt: Rebalancing hält dein Risiko konstant und erzwingt antizyklisches Verhalten (du verkaufst tendenziell das Teure, kaufst das Billige) – der Renditebeitrag ist aber meist klein; der Hauptnutzen ist Risikokontrolle und Disziplin.
+
+- **Was:** Deine Aktien/sicher-Zielmischung wiederherstellen, wenn sie verrutscht ist.
+- **Warum:** Aktien steigen meist stärker → ihr Anteil wächst über das Ziel → Depot wird ungewollt riskanter.
+- **Wie oft:** Kalender (z. B. 1×/Jahr) oder Schwelle (z. B. bei >5 Prozentpunkten Abweichung). Einmal jährlich reicht meist.
+- **Steuerschonend:** Statt zu verkaufen mit frischem Geld den zu kleinen Topf auffüllen – vermeidet steuerpflichtige Verkaufsgewinne.
+- **Nutzen:** Vor allem Risikokontrolle + Disziplin (antizyklisch); der Renditebeitrag ist meist gering.
+
+**Häufige Irrtümer:**
+- 'Rebalancing steigert die Rendite deutlich.' – Der Hauptnutzen ist Risikokontrolle; der Renditeeffekt ist meist klein.
+- 'Ich muss ständig umschichten.' – Einmal im Jahr oder bei größerer Abweichung genügt.
+- 'Rebalancing heißt immer verkaufen.' – Besser: mit neuen Einzahlungen auffüllen, um Steuern/Kosten zu sparen.
+
+### Depot-Aufteilung: der risikoreiche und der sichere Teil  
+*Evidenz A*
+
+**Kernidee:** Erst das Verhältnis Aktien/sicher festlegen, dann die Produkte. Die Aufteilung ist die eigentliche Stellschraube für dein Risiko.
+
+Die wichtigste Entscheidung ist nicht WELCHER ETF, sondern WIE VIEL in risikoreiche (Aktien) und wie viel in sichere Anlagen (Tagesgeld/Anleihen) geht. Diese Aufteilung – die Asset-Allokation – bestimmt den Großteil deiner Schwankung und deines Nachtschlafs. Grundmodell: ein risikoreicher Topf (Welt-ETF) plus ein sicherer Topf (Tagesgeld/kurze Anleihen).
+
+Studien zeigen: Ein sehr großer Teil der Schwankung eines Portfolios kommt aus der Aufteilung zwischen Anlageklassen, nicht aus der Einzelauswahl. Praktisch reicht ein einfaches Zwei-Topf-Modell: (1) Risikoteil = ein breiter Welt-Aktien-ETF (siehe welt-etf-auswaehlen) – liefert die Rendite, schwankt aber stark (-40 bis -55 % möglich). (2) Sicherheitsteil = Tagesgeld/Festgeld oder kurzlaufende Staatsanleihen (siehe anleihen-und-tagesgeld) – kaum Rendite, aber Ballast, der das Gesamtdepot ruhiger macht. Wie hoch der Aktienanteil sein sollte, hängt von zwei Dingen ab: deinem Anlagehorizont (siehe anlagehorizont) und deiner Risikotoleranz (wie viel Minus hältst du aus, ohne zu verkaufen?). Faustregeln als Startpunkt, nicht als Gesetz: 'sicherer Teil in % ungefähr wie dein Alter' oder klassische Mischungen wie 70/30 oder 60/40 (Aktien/sicher). Ehrlicher Test: Stell dir -50 % auf dem Aktienteil vor. Bei welchem Aktienanteil kannst du da noch ruhig schlafen und NICHT verkaufen? Genau der ist für dich richtig – ein Depot, das du im Crash durchhältst, schlägt ein 'optimales', das du panisch auflöst. Wer es maximal einfach will: EIN Welt-ETF plus Tagesgeld genügt völlig; mehr Bausteine sind Kür, nicht Pflicht.
+
+- **Wichtigste Entscheidung:** Das Verhältnis Aktien/sicher bestimmt den Großteil der Schwankung – mehr als die Produktauswahl.
+- **Zwei-Topf-Modell:** Risikoteil (Welt-ETF) + Sicherheitsteil (Tagesgeld/kurze Anleihen). Reicht für die meisten völlig.
+- **Faustregeln:** Startpunkte: sicherer Teil ~ Alter in %, oder 70/30 bzw. 60/40 – anpassen an Horizont und Nerven.
+- **Der ehrliche Test:** Bei welchem Aktienanteil hältst du -50 % aus, ohne zu verkaufen? Der ist für dich richtig.
+- **Durchhalten schlägt Optimieren:** Ein Depot, das du im Crash behältst, ist besser als ein 'optimales', das du panisch auflöst.
+
+**Häufige Irrtümer:**
+- 'Die Produktauswahl ist das Wichtigste.' – Nein, die Aufteilung Aktien/sicher zählt weit mehr.
+- 'Mehr Aktien = immer besser.' – Nur wenn du die Schwankung wirklich aushältst; sonst verkaufst du im Tief.
+- 'Ich brauche viele verschiedene Bausteine.' – Ein Welt-ETF plus Tagesgeld genügt; Komplexität bringt selten Mehrwert.
+
+### Die Entnahmephase: wie man später Geld wieder rauszieht  
+*Evidenz B*
+
+**Kernidee:** Beim Entsparen ist die Reihenfolge der Renditen entscheidend, nicht nur der Durchschnitt. Ein Crash am Anfang tut viel mehr weh als später – dagegen hilft ein Cash-Puffer.
+
+Irgendwann willst du vom Ersparten leben, nicht nur ansparen. Dann kehrt sich die Logik um: Statt einzuzahlen, entnimmst du regelmäßig. Bekannte Orientierung ist die '4-Prozent-Regel' (jährlich ~4 % des Startvermögens entnehmen). Die größte Gefahr heißt Sequenzrisiko: Ein Crash gleich zu Beginn der Entnahme kann das Vermögen dauerhaft beschädigen.
+
+Die '4-Prozent-Regel' stammt aus der Trinity-Studie: Wer zu Rentenbeginn 4 % des Depots entnimmt und die Entnahme jährlich an die Inflation anpasst, kam in historischen US-Daten über 30 Jahre meist nicht pleite. Wichtige Einordnung: Das ist eine grobe Orientierung, kein Gesetz – sie beruht auf US-Historie, langen Zeiträumen und bestimmten Aktien/Anleihen-Mischungen; für sehr lange Ruhestände oder andere Länder wird oft eine etwas niedrigere Rate (3,0–3,5 %) genannt. Der zentrale Begriff ist das SEQUENZRISIKO: Nicht nur die Durchschnittsrendite zählt, sondern ihre Reihenfolge. Fällt der Markt gleich in den ersten Entnahmejahren stark, verkaufst du Anteile im Tief, um zu leben – dieses Kapital fehlt dann für die Erholung, und das Depot erholt sich womöglich nie mehr. Fällt derselbe Crash erst spät, ist er meist harmlos. Gegenmittel: (1) Cash-Puffer von 1–3 Jahresausgaben, aus dem du in Crash-Phasen lebst, statt Aktien im Tief zu verkaufen. (2) Flexible Entnahme – in schlechten Jahren weniger entnehmen. (3) In den Jahren vor dem Entnahmestart den sicheren Teil erhöhen (siehe depot-aufteilung-assetallokation). Anders als in der Ansparphase (wo Crashs sogar günstig sind, weil der Sparplan billig kauft) ist Flexibilität hier der Schlüssel. Diese Karte ist eine Orientierung, keine Ruhestandsplanung – bei größeren Summen lohnt individuelle Beratung.
+
+- **4-Prozent-Regel:** Startentnahme ~4 % des Depots, jährlich an Inflation angepasst; grobe Orientierung aus der Trinity-Studie (US, 30 Jahre). _(Quelle: Trinity Study 1998)_
+- **Eher konservativ:** Für lange Ruhestände/andere Länder werden oft 3,0–3,5 % genannt; 4 % ist keine Garantie.
+- **Sequenzrisiko:** Ein Crash zu BEGINN der Entnahme schadet dauerhaft; derselbe Crash spät ist meist harmlos.
+- **Cash-Puffer:** 1–3 Jahresausgaben in Sicherheit, um in Crash-Phasen daraus zu leben statt Aktien im Tief zu verkaufen.
+- **Flexibilität:** In schlechten Börsenjahren weniger entnehmen – der wirksamste Schutz gegen frühes Sequenzrisiko.
+
+**Häufige Irrtümer:**
+- '4 % sind immer sicher.' – Nur eine historische Orientierung; je nach Dauer/Land kann weniger nötig sein.
+- 'In der Entnahme zählt nur die Durchschnittsrendite.' – Nein, die Reihenfolge (Sequenzrisiko) ist entscheidend.
+- 'Crashs sind immer schlecht.' – Beim Ansparen sind sie günstig (billiger Kauf); nur beim Entnehmen am Anfang sind sie gefährlich.
+
 ## ETF-Grundlagen
 
 ### Rebalancing: Wann kauft und verkauft ein ETF wirklich?  
@@ -166,6 +268,26 @@ Die TER wird laufend intern vom Fondsvermögen abgezogen – du siehst sie nicht
 
 ## Praxis / Erste Schritte
 
+### Broker & Depot auswählen  
+*Evidenz B*
+
+**Kernidee:** Depot = Aufbewahrungsort deiner ETFs. Achte auf Kosten, kostenlose Sparpläne und EU-Regulierung; das Wertpapier selbst ist bei Broker-Pleite geschützt.
+
+Ein Depot ist das Konto, in dem deine ETFs liegen; der Broker ist der Anbieter dieses Kontos. Wichtig bei der Auswahl: niedrige/keine Depotgebühr, günstige oder kostenlose Sparpläne, Regulierung in der EU und – in Deutschland praktisch – automatische Steuerabführung. Deine ETFs sind Sondervermögen und damit vor einer Pleite des Brokers geschützt.
+
+Grob zwei Anbietertypen: (1) Neobroker (App-basiert, sehr günstig, oft 0 € Depotgebühr und kostenlose Sparpläne, teils schlankerer Service). (2) Direktbanken (etwas teurer, dafür breiteres Angebot, Telefon-Service, oft alles unter einem Dach). Beide sind für einen simplen Welt-ETF-Sparplan geeignet. Auswahl-Checkliste: (a) Depotführung kostenlos. (b) ETF-Sparpläne kostenlos oder sehr günstig, und der/die von dir gewünschten ETFs sparplanfähig. (c) Ordergebühren niedrig (für Einmalkäufe). (d) In der EU reguliert (BaFin oder EU-Pass) und mit deutscher Steuerabführung, wenn du dir die Steuererklärung erleichtern willst – bei inländischen Brokern werden Abgeltungsteuer und Vorabpauschale automatisch abgeführt (siehe vorabpauschale-steuern-de), bei ausländischen musst du das selbst in der Steuererklärung erledigen. (e) Bedienbarkeit/App, Freistellungsauftrag einfach einrichtbar. WICHTIG zur Sicherheit: Deine ETFs sind Sondervermögen und gehören bei einer Broker-Pleite weiter dir; sie fallen NICHT unter die 100.000-€-Einlagensicherung (die gilt für Bargeld auf Konten), sondern sind als Wertpapiere getrennt geschützt. Nicht auf Lockangebote (Neukundenprämien) fixieren – wichtiger sind dauerhaft niedrige Kosten und dass dein Wunsch-ETF sparplanfähig ist. Ein Wechsel des Brokers ist später möglich (Depotübertrag), aber lästig – einmal ordentlich wählen spart Ärger.
+
+- **Depot vs Broker:** Depot = Aufbewahrungskonto für Wertpapiere; Broker = Anbieter, über den du kaufst/verkaufst.
+- **Checkliste:** Kostenlose Depotführung · kostenlose/günstige Sparpläne · Wunsch-ETF sparplanfähig · niedrige Ordergebühr · EU-reguliert.
+- **Steuer-Komfort (DE):** Inländische Broker führen Abgeltungsteuer + Vorabpauschale automatisch ab; bei ausländischen musst du das selbst erklären.
+- **Sicherheit:** ETFs sind Sondervermögen – bei Broker-Pleite geschützt; das ist getrennt von der Einlagensicherung für Bargeld.
+- **Nicht von Prämien blenden lassen:** Dauerhaft niedrige Kosten und Sparplan-Fähigkeit zählen mehr als einmalige Neukunden-Boni.
+
+**Häufige Irrtümer:**
+- 'Bei Broker-Pleite ist mein ETF weg.' – Nein, ETFs sind Sondervermögen und bleiben deins.
+- 'Die Einlagensicherung schützt meine ETFs.' – Nein, die 100.000 € gelten für Bargeld/Konten; Wertpapiere sind separat geschützt.
+- 'Der Broker mit der höchsten Neukundenprämie ist am besten.' – Wichtiger sind laufende Kosten und Sparplan-Angebot.
+
 ### Einen breiten Welt-ETF auswählen (Praxis)  
 *Evidenz B*
 
@@ -224,6 +346,88 @@ Der häufigste Grund, warum Menschen mit ETFs Geld verlieren, ist erzwungenes Ve
 **Häufige Irrtümer:**
 - 'Tagesgeld ist Geldverschwendung, alles gehört in den ETF.' – Ohne Puffer wirst du irgendwann im Tief zum Verkauf gezwungen.
 - 'Der Notgroschen soll auch Rendite bringen.' – Nein, seine Aufgabe ist Sicherheit und Verfügbarkeit.
+
+## Psychologie & Verhalten
+
+### Der Sparplan als Automatik gegen die eigene Psyche  
+*Evidenz A*
+
+**Kernidee:** Nimm dir die Entscheidung aus der Hand. Ein Sparplan kauft stur weiter, egal wie die Nachrichten sind – so bleibst du automatisch dabei.
+
+Wenn dein Problem ist, dass du nie 'abdrückst' (immer denkst 'jetzt ist gerade schlecht'), ist die Lösung nicht besseres Timing, sondern das Abschaffen der Entscheidung: ein automatischer ETF-Sparplan kauft jeden Monat einen festen Betrag – ohne dass du zustimmen musst. Damit wird deine Schwäche schlicht irrelevant.
+
+Der häufigste Grund, warum Menschen trotz Wissen nicht investieren, ist der 'Abzug': die einzelne Kaufentscheidung, die sich immer riskant anfühlt. Ein Sparplan löst genau das. Du legst einmal fest: Betrag (z. B. 100–500 € im Monat), ETF (breiter Welt-ETF, siehe welt-etf-auswaehlen) und Ausführungstag. Ab dann kauft die Bank automatisch – ob Crash oder Rekordhoch, ohne Rückfrage. Vorteile: (1) Du bist immer investiert und verpasst die guten Tage nicht (siehe time-in-the-market). (2) Du kaufst mal teurer, mal billiger; der Einstiegskurs mittelt sich, und die Reue 'ich hab am Hoch gekauft' verschwindet (Durchschnittskosteneffekt, siehe sparplan-vs-einmalanlage). (3) Es entkoppelt Sparen vom Gefühl – du musst nie wieder 'jetzt?' denken. Viele Broker führen Sparpläne auf gängige ETFs kostenlos aus. Praktischer Tipp: Ausführung kurz nach dem Gehaltseingang legen ('erst investieren, dann leben'). Wer eine große Summe herumliegen hat, kann kombinieren: einen Teil sofort investieren, den Rest über 6–12 Monate per Sparplan einstreuen. Wichtig: Sparplan einmal einrichten und dann NICHT ständig anfassen oder pausieren, wenn es kriselt – das Nicht-Eingreifen ist der ganze Trick.
+
+- **Prinzip:** Fester Betrag, fester ETF, fester Tag – die Bank kauft automatisch, ohne dass du entscheiden musst.
+- **Löst dein Problem:** Der 'Abzug' entfällt: Nie-Kaufen wird irrelevant, weil die Automatik für dich kauft.
+- **Kosten:** Bei vielen Brokern kostenlos auf gängige Welt-ETFs.
+- **Timing der Ausführung:** Kurz nach Gehaltseingang – erst investieren, dann leben ('pay yourself first').
+- **Regel Nr. 1:** Einrichten und in Ruhe lassen – gerade in Krisen NICHT pausieren, sonst verpasst du die günstigen Käufe.
+
+**Häufige Irrtümer:**
+- 'Ich fange an, wenn die Lage besser ist.' – Genau das verhindert den Start für immer; die Automatik umgeht es.
+- 'In der Krise pausiere ich den Sparplan.' – Dann kaufst du gerade dann NICHT, wenn es billig ist – der teuerste Reflex.
+- 'Sparplan bringt mehr Rendite als Einmalanlage.' – Nein, er senkt Risiko/Reue und sorgt vor allem dafür, dass du überhaupt dabei bist.
+
+### Die häufigsten Anlegerfehler auf einen Blick  
+*Evidenz B*
+
+**Kernidee:** Der größte Gegner des Anlegers ist meist der Anleger selbst. Wer die typischen Fehler kennt und vermeidet, hat den halben Erfolg schon sicher.
+
+Die meiste Rendite geht nicht durch schlechte Märkte verloren, sondern durch das eigene Verhalten: Panikverkäufe, Performance-Jagd, zu viel Handeln, zu hohe Kosten und ständiges Draufschauen. Studien nennen diese Lücke zwischen Fonds-Rendite und tatsächlicher Anleger-Rendite den 'Behavior Gap'.
+
+Untersuchungen (z. B. Morningstar 'Mind the Gap', DALBAR) zeigen regelmäßig: Anleger verdienen spürbar weniger als die Fonds, in die sie investieren – weil sie zum falschen Zeitpunkt ein- und aussteigen. Die häufigsten Fehler: (1) Panikverkauf im Crash – realisiert Verluste und verpasst die Erholung (siehe time-in-the-market). (2) Performance-Jagd – dem heißen Fonds/Trend hinterherlaufen, der danach oft abkühlt (vergangene Rendite sagt wenig, siehe aktiv-vs-passiv). (3) Market-Timing – auf den 'richtigen Moment' warten (siehe markt-timing-jetzt-ist-schlecht). (4) Zu viel Handeln – jeder Trade kostet Gebühren, Steuern und meist Rendite. (5) Kosten ignorieren – hohe TER/Ausgabeaufschläge fressen über Jahrzehnte einen großen Teil weg (siehe ter-und-kosten). (6) Zu enge Streuung / Home Bias – zu viel Heimatmarkt oder Einzelaktien statt breit weltweit (siehe diversifikation-vs-marktrisiko). (7) Zu oft ins Depot schauen – erhöht Angst und die Neigung, unnötig einzugreifen. Die Gegenmittel sind langweilig und wirksam: breiter Welt-ETF, Sparplan-Automatik, niedrige Kosten, lange dabeibleiben, selten draufschauen.
+
+- **Behavior Gap:** Anleger erzielen oft spürbar weniger als ihre eigenen Fonds – durch schlechtes Timing beim Ein-/Aussteigen. _(Quelle: Morningstar 'Mind the Gap')_
+- **Panikverkauf:** Der teuerste Einzelfehler: Verlust realisieren und die Erholung verpassen.
+- **Performance-Jagd:** Dem letztjährigen Gewinner hinterherlaufen – der oft danach zurückfällt.
+- **Zu viel Handeln:** Häufiges Umschichten kostet Gebühren, Steuern und meist Rendite; Nichtstun ist oft besser.
+- **Zu oft schauen:** Wer täglich ins Depot schaut, sieht mehr Verlusttage und neigt eher zu Fehlreaktionen.
+
+**Häufige Irrtümer:**
+- 'Ich muss aktiv reagieren, um erfolgreich zu sein.' – Meist ist diszipliniertes Nichtstun überlegen.
+- 'Der beste Fonds des letzten Jahres ist die beste Wahl.' – Vergangenheitsrendite ist ein schwacher Wegweiser.
+- 'Ich behalte den Überblick, wenn ich oft ins Depot schaue.' – Häufiges Draufschauen erhöht vor allem Stress und Fehlreaktionen.
+
+### Market-Timing: warum 'jetzt ist gerade schlecht' fast immer falsch ist  
+*Evidenz A*
+
+**Kernidee:** Es gibt nie den 'sicheren Moment'. Der einzige Fehler, der auf lange Sicht wirklich zählt, ist, gar nicht investiert zu sein.
+
+Der Versuch, den 'richtigen Moment' zum Kaufen zu erwischen, fühlt sich vorsichtig an, ist aber einer der teuersten Anlegerfehler. Es fühlt sich zu JEDER Zeit gerade schlecht an – es gibt immer eine Krise, hohe Bewertungen oder einen drohenden Crash. Weil niemand den Markt zuverlässig timen kann (auch keine Profis), führt Warten meist nur dazu, gar nicht dabei zu sein.
+
+Rückblickend waren 2009, 2012, 2016 und 2020 großartige Einstiegszeitpunkte – aber DAMALS fühlte sich jeder davon gefährlich an (Finanzkrise, Eurokrise, Brexit, Corona). Genau das ist die Falle: Die Gegenwart fühlt sich immer unsicher an, weil die Zukunft unbekannt ist. Wer auf Sicherheit wartet, wartet ewig. Dass Timing nicht funktioniert, ist gut belegt: Selbst professionelle Fonds, die dafür bezahlt und mit Supercomputern ausgestattet sind, schlagen den simplen Markt langfristig mehrheitlich nicht (siehe aktiv-vs-passiv). Wenn die es nicht können, ist 'jetzt ist gerade schlecht' kein Wissen, sondern ein Gefühl. Statistisch schlägt sofortiges Investieren das Warten in rund zwei von drei Fällen, weil Märkte im Mittel steigen und wartendes Geld die Aufwärtsdrift verpasst (siehe sparplan-vs-einmalanlage). Der Ausweg ist nicht 'besser timen', sondern das Timing-Problem abzuschaffen: automatisch per Sparplan kaufen (siehe sparplan-als-automatik) und die Entscheidung der Bank überlassen. Reframe: Du kaufst nicht den Markt von heute, sondern die nächsten 20 Jahre Wirtschaftsleistung – auf dieser Zeitskala ist der genaue Einstiegstag Rauschen.
+
+- **Es fühlt sich immer schlecht an:** Zu jedem Zeitpunkt gibt es Krisen und Warnungen; die besten Einstiege der Vergangenheit fühlten sich damals gefährlich an.
+- **Timing funktioniert nicht:** Selbst Profifonds schlagen den Markt langfristig mehrheitlich nicht – Timing ist kein zuverlässiges Können. _(Quelle: S&P SPIVA)_
+- **Warten kostet:** Sofort investieren schlug das Warten historisch in ~2 von 3 Fällen. _(Quelle: Vanguard)_
+- **Der teure Fehler:** Nicht der schlechte Einstiegstag ruiniert die Rendite, sondern das Gar-nicht-dabei-Sein.
+- **Lösung:** Nicht besser timen, sondern automatisieren (Sparplan) und den Zeithorizont lang halten.
+
+**Häufige Irrtümer:**
+- 'Ich warte auf den Crash und steige dann günstig ein.' – Den Tiefpunkt trifft fast niemand; meist steigt der Markt vorher davon.
+- 'Vorsichtig warten ist risikoarm.' – Das größte Risiko ist, jahrelang gar nicht investiert zu sein.
+- 'Hohe Kurse heißt, jetzt ist ein schlechter Zeitpunkt.' – Märkte stehen die meiste Zeit nahe Höchstständen, weil sie langfristig steigen.
+
+### Time in the market > timing: die besten Tage & der schlechteste Timer  
+*Evidenz B*
+
+**Kernidee:** Dabeibleiben schlägt Timing. Wer die wenigen besten Tage verpasst – und die kommen in der Panik –, verliert den Großteil der Rendite.
+
+Die stärksten Börsentage kommen fast immer direkt nach den schlimmsten – mitten in der Panik, wenn die meisten draußen sind. Wer aus Angst raus- und wieder reingeht, verpasst genau diese Erholungstage. Deshalb schlägt Dabeibleiben das Rein-und-Raus fast immer, selbst bei schlechtem Timing.
+
+Zwei berühmte Belege. (1) Die besten Tage verpassen: In vielen untersuchten 20-Jahres-Zeiträumen halbiert sich die Rendite grob, wenn man nur die ~10 besten Börsentage verpasst; verpasst man die besten 20–30 Tage, bleibt fast nichts oder ein Minus übrig. Der Haken: Diese besten Tage clustern direkt neben den schlimmsten (oft innerhalb weniger Wochen). Wer im Crash panisch verkauft, ist genau dann draußen, wenn die kräftigste Erholung kommt. (2) 'Bob, der schlechteste Timer der Welt' (Rechnung von Ben Carlson): Ein Anleger investierte über Jahrzehnte immer nur zum absolut schlechtesten Zeitpunkt – jedes Mal kurz vor einem großen Crash (1972, 1987, 1999, 2007). Perfektes Pech. Trotzdem hatte er am Ende ein Vermögen, weil er NIE verkaufte und einfach investiert blieb. Die Lektion: Dabeibleiben war um ein Vielfaches wichtiger als der Einstiegszeitpunkt. Beide Beispiele sind illustrativ und zeitraumabhängig, aber die Richtung ist robust: Die Marktrendite kommt aus wenigen, unvorhersehbaren Schüben – man muss investiert sein, um sie mitzunehmen.
+
+- **Beste Tage verpassen:** In vielen 20-J-Zeiträumen halbiert das Verpassen der ~10 besten Tage grob die Rendite; die besten 20–30 zu verpassen frisst fast alles. _(Quelle: u.a. J.P. Morgan / Putnam-Analysen (illustrativ))_
+- **Erholung kommt in der Panik:** Die besten Tage liegen meist dicht neben den schlimmsten – Panikverkäufer sind genau dann draußen.
+- **Der schlechteste Timer:** Wer immer zum Crash-Hoch kaufte, aber nie verkaufte, endete trotzdem im Plus. _(Quelle: Ben Carlson, 'Worst Market Timer' (Parabel))_
+- **Kernmechanik:** Rendite entsteht in wenigen, unvorhersehbaren Schüben – man muss dabei sein, um sie zu bekommen.
+- **Praktische Folge:** Nicht verkaufen im Crash; im Zweifel gar nicht auf den Depotstand schauen und den Sparplan weiterlaufen lassen.
+
+**Häufige Irrtümer:**
+- 'Ich springe vor dem Crash raus und danach wieder rein.' – Man müsste zweimal richtig liegen; die Erholung wird fast immer verpasst.
+- 'Cash halten und auf den Tiefpunkt warten ist sicher.' – Man verpasst die stärksten Tage, die genau in der Krise kommen.
+- 'Nur wer perfekt timt, wird reich.' – Selbst der schlechteste Timer gewann, weil er dabeiblieb.
 
 ## Risiko & Sicherheit
 

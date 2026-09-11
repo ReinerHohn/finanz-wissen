@@ -1,0 +1,28 @@
+{
+  "id": "broker-depot-auswahl",
+  "name": "Broker & Depot auswählen",
+  "aka": ["Wertpapierdepot", "Neobroker vs Direktbank", "Depoteröffnung"],
+  "category": "Praxis / Erste Schritte",
+  "evidence_level": "B",
+  "tags": ["broker", "depot", "kosten", "sparplan", "sondervermoegen", "praxis"],
+  "summary": "Ein Depot ist das Konto, in dem deine ETFs liegen; der Broker ist der Anbieter dieses Kontos. Wichtig bei der Auswahl: niedrige/keine Depotgebühr, günstige oder kostenlose Sparpläne, Regulierung in der EU und – in Deutschland praktisch – automatische Steuerabführung. Deine ETFs sind Sondervermögen und damit vor einer Pleite des Brokers geschützt.",
+  "kernidee": "Depot = Aufbewahrungsort deiner ETFs. Achte auf Kosten, kostenlose Sparpläne und EU-Regulierung; das Wertpapier selbst ist bei Broker-Pleite geschützt.",
+  "deep_dive": "Grob zwei Anbietertypen: (1) Neobroker (App-basiert, sehr günstig, oft 0 € Depotgebühr und kostenlose Sparpläne, teils schlankerer Service). (2) Direktbanken (etwas teurer, dafür breiteres Angebot, Telefon-Service, oft alles unter einem Dach). Beide sind für einen simplen Welt-ETF-Sparplan geeignet. Auswahl-Checkliste: (a) Depotführung kostenlos. (b) ETF-Sparpläne kostenlos oder sehr günstig, und der/die von dir gewünschten ETFs sparplanfähig. (c) Ordergebühren niedrig (für Einmalkäufe). (d) In der EU reguliert (BaFin oder EU-Pass) und mit deutscher Steuerabführung, wenn du dir die Steuererklärung erleichtern willst – bei inländischen Brokern werden Abgeltungsteuer und Vorabpauschale automatisch abgeführt (siehe vorabpauschale-steuern-de), bei ausländischen musst du das selbst in der Steuererklärung erledigen. (e) Bedienbarkeit/App, Freistellungsauftrag einfach einrichtbar. WICHTIG zur Sicherheit: Deine ETFs sind Sondervermögen und gehören bei einer Broker-Pleite weiter dir; sie fallen NICHT unter die 100.000-€-Einlagensicherung (die gilt für Bargeld auf Konten), sondern sind als Wertpapiere getrennt geschützt. Nicht auf Lockangebote (Neukundenprämien) fixieren – wichtiger sind dauerhaft niedrige Kosten und dass dein Wunsch-ETF sparplanfähig ist. Ein Wechsel des Brokers ist später möglich (Depotübertrag), aber lästig – einmal ordentlich wählen spart Ärger.",
+  "key_facts": [
+    {"label": "Depot vs Broker", "value": "Depot = Aufbewahrungskonto für Wertpapiere; Broker = Anbieter, über den du kaufst/verkaufst."},
+    {"label": "Checkliste", "value": "Kostenlose Depotführung · kostenlose/günstige Sparpläne · Wunsch-ETF sparplanfähig · niedrige Ordergebühr · EU-reguliert."},
+    {"label": "Steuer-Komfort (DE)", "value": "Inländische Broker führen Abgeltungsteuer + Vorabpauschale automatisch ab; bei ausländischen musst du das selbst erklären."},
+    {"label": "Sicherheit", "value": "ETFs sind Sondervermögen – bei Broker-Pleite geschützt; das ist getrennt von der Einlagensicherung für Bargeld."},
+    {"label": "Nicht von Prämien blenden lassen", "value": "Dauerhaft niedrige Kosten und Sparplan-Fähigkeit zählen mehr als einmalige Neukunden-Boni."}
+  ],
+  "misconceptions": [
+    "'Bei Broker-Pleite ist mein ETF weg.' – Nein, ETFs sind Sondervermögen und bleiben deins.",
+    "'Die Einlagensicherung schützt meine ETFs.' – Nein, die 100.000 € gelten für Bargeld/Konten; Wertpapiere sind separat geschützt.",
+    "'Der Broker mit der höchsten Neukundenprämie ist am besten.' – Wichtiger sind laufende Kosten und Sparplan-Angebot."
+  ],
+  "related": ["sparplan-als-automatik", "welt-etf-auswaehlen", "vorabpauschale-steuern-de", "ter-und-kosten"],
+  "sources": [
+    {"title": "Finanztip: Depot-Vergleich & Auswahl", "url": "https://www.finanztip.de/geldanlage/wertpapierdepot/"},
+    {"title": "BaFin: Wertpapierdepot & Anlegerschutz", "url": "https://www.bafin.de/DE/Verbraucher/GeldanlageWertpapiere/geldanlage_node.html"}
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "time-in-the-market",
+  "name": "Time in the market > timing: die besten Tage & der schlechteste Timer",
+  "aka": ["Zeit im Markt", "beste Tage verpassen", "Bob the worst market timer"],
+  "category": "Psychologie & Verhalten",
+  "evidence_level": "B",
+  "tags": ["dabeibleiben", "beste-tage", "erholung", "panikverkauf", "psychologie"],
+  "summary": "Die stärksten Börsentage kommen fast immer direkt nach den schlimmsten – mitten in der Panik, wenn die meisten draußen sind. Wer aus Angst raus- und wieder reingeht, verpasst genau diese Erholungstage. Deshalb schlägt Dabeibleiben das Rein-und-Raus fast immer, selbst bei schlechtem Timing.",
+  "kernidee": "Dabeibleiben schlägt Timing. Wer die wenigen besten Tage verpasst – und die kommen in der Panik –, verliert den Großteil der Rendite.",
+  "deep_dive": "Zwei berühmte Belege. (1) Die besten Tage verpassen: In vielen untersuchten 20-Jahres-Zeiträumen halbiert sich die Rendite grob, wenn man nur die ~10 besten Börsentage verpasst; verpasst man die besten 20–30 Tage, bleibt fast nichts oder ein Minus übrig. Der Haken: Diese besten Tage clustern direkt neben den schlimmsten (oft innerhalb weniger Wochen). Wer im Crash panisch verkauft, ist genau dann draußen, wenn die kräftigste Erholung kommt. (2) 'Bob, der schlechteste Timer der Welt' (Rechnung von Ben Carlson): Ein Anleger investierte über Jahrzehnte immer nur zum absolut schlechtesten Zeitpunkt – jedes Mal kurz vor einem großen Crash (1972, 1987, 1999, 2007). Perfektes Pech. Trotzdem hatte er am Ende ein Vermögen, weil er NIE verkaufte und einfach investiert blieb. Die Lektion: Dabeibleiben war um ein Vielfaches wichtiger als der Einstiegszeitpunkt. Beide Beispiele sind illustrativ und zeitraumabhängig, aber die Richtung ist robust: Die Marktrendite kommt aus wenigen, unvorhersehbaren Schüben – man muss investiert sein, um sie mitzunehmen.",
+  "key_facts": [
+    {"label": "Beste Tage verpassen", "value": "In vielen 20-J-Zeiträumen halbiert das Verpassen der ~10 besten Tage grob die Rendite; die besten 20–30 zu verpassen frisst fast alles.", "source": "u.a. J.P. Morgan / Putnam-Analysen (illustrativ)"},
+    {"label": "Erholung kommt in der Panik", "value": "Die besten Tage liegen meist dicht neben den schlimmsten – Panikverkäufer sind genau dann draußen."},
+    {"label": "Der schlechteste Timer", "value": "Wer immer zum Crash-Hoch kaufte, aber nie verkaufte, endete trotzdem im Plus.", "source": "Ben Carlson, 'Worst Market Timer' (Parabel)"},
+    {"label": "Kernmechanik", "value": "Rendite entsteht in wenigen, unvorhersehbaren Schüben – man muss dabei sein, um sie zu bekommen."},
+    {"label": "Praktische Folge", "value": "Nicht verkaufen im Crash; im Zweifel gar nicht auf den Depotstand schauen und den Sparplan weiterlaufen lassen."}
+  ],
+  "misconceptions": [
+    "'Ich springe vor dem Crash raus und danach wieder rein.' – Man müsste zweimal richtig liegen; die Erholung wird fast immer verpasst.",
+    "'Cash halten und auf den Tiefpunkt warten ist sicher.' – Man verpasst die stärksten Tage, die genau in der Krise kommen.",
+    "'Nur wer perfekt timt, wird reich.' – Selbst der schlechteste Timer gewann, weil er dabeiblieb."
+  ],
+  "related": ["markt-timing-jetzt-ist-schlecht", "sparplan-als-automatik", "sind-etfs-sicher", "anlegerfehler-uebersicht"],
+  "sources": [
+    {"title": "Ben Carlson: The World's Worst Market Timer", "url": "https://awealthofcommonsense.com/2014/02/worlds-worst-market-timer/"},
+    {"title": "J.P. Morgan Guide to Retirement – Impact of missing best days", "url": "https://am.jpmorgan.com/us/en/asset-management/adv/insights/retirement-insights/guide-to-retirement/"}
+  ]
+}

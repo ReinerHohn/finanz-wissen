@@ -1,0 +1,28 @@
+{
+  "id": "anleihen-und-tagesgeld",
+  "name": "Anleihen & Tagesgeld: der sichere Gegenpol zu Aktien",
+  "aka": ["Bonds", "Festgeld", "Staatsanleihen", "sicherer Teil"],
+  "category": "Depot & Strategie",
+  "evidence_level": "A",
+  "tags": ["anleihen", "tagesgeld", "festgeld", "sicherheit", "ballast", "zinsen"],
+  "summary": "Der sichere Teil deines Depots hat nicht die Aufgabe, Rendite zu bringen, sondern Ruhe: Er schwankt kaum und federt Aktien-Crashs ab. Für die meisten Privatanleger reichen Tagesgeld und Festgeld (einfach, einlagengesichert). Anleihen sind Kredite an Staaten/Firmen – als ETF möglich, aber mit eigenen Feinheiten (Zinsänderungsrisiko).",
+  "kernidee": "Der sichere Teil ist der Ballast, nicht der Motor. Seine Aufgabe ist Stabilität, damit du den Aktienteil im Crash aushältst.",
+  "deep_dive": "Tagesgeld: täglich verfügbar, Zins variabel, in der EU bis 100.000 € je Bank/Kunde gesetzlich gesichert – ideal für Notgroschen (siehe notgroschen-zuerst) und den sicheren Depotteil. Festgeld: fester Zins für feste Laufzeit, ebenfalls einlagengesichert, dafür während der Laufzeit gebunden. Anleihen: Du leihst einem Staat oder Unternehmen Geld und bekommst Zinsen (Kupon) plus am Ende den Nennwert zurück. Zwei Risiken: (1) Bonität – Staatsanleihen guter Länder gelten als sehr sicher, Unternehmens-/Schwellenländeranleihen zahlen mehr Zins, sind aber riskanter. (2) Zinsänderungsrisiko – steigen die Marktzinsen, fallen die Kurse bereits laufender Anleihen (2022 war so ein Jahr, in dem selbst 'sichere' Anleihen-ETFs deutlich fielen). Faustregel: Je länger die Restlaufzeit ('Duration'), desto stärker dieser Effekt. Für den sicheren Teil wählt man deshalb kurze Laufzeiten oder gleich Tagesgeld/Festgeld. Warum überhaupt sicher beimischen? Der sichere Teil bricht im Aktien-Crash nicht mit ein – das dämpft das Gesamtminus und gibt dir Mittel, um im Tief nachzukaufen oder einfach ruhig zu bleiben. Für Einsteiger gilt: Tagesgeld + Festgeld sind völlig ausreichend; ein Anleihen-ETF ist optional und lohnt eher bei größeren Vermögen.",
+  "key_facts": [
+    {"label": "Aufgabe", "value": "Stabilität, nicht Rendite – Ballast, der Aktien-Crashs abfedert."},
+    {"label": "Tagesgeld/Festgeld", "value": "Einfach, in der EU bis 100.000 €/Bank gesichert; Tagesgeld täglich verfügbar, Festgeld fest gebunden."},
+    {"label": "Anleihe = Kredit", "value": "Du leihst Staat/Firma Geld gegen Zins; Bonität und Laufzeit bestimmen das Risiko."},
+    {"label": "Zinsänderungsrisiko", "value": "Steigende Zinsen drücken Kurse laufender Anleihen (2022: auch 'sichere' Anleihen-ETFs fielen deutlich); kurze Laufzeit = geringeres Risiko."},
+    {"label": "Für Einsteiger", "value": "Tagesgeld + Festgeld reichen; ein Anleihen-ETF ist Kür, eher für größere Vermögen."}
+  ],
+  "misconceptions": [
+    "'Anleihen sind immer sicher.' – Zinsanstiege und schlechte Schuldner können Verluste bringen; 2022 fielen Anleihen-ETFs deutlich.",
+    "'Der sichere Teil soll auch gut Rendite machen.' – Nein, seine Aufgabe ist Stabilität; Rendite kommt vom Aktienteil.",
+    "'Tagesgeld ist rausgeworfenes Geld.' – Es ist der Puffer, der dir erlaubt, den Aktienteil im Crash zu halten."
+  ],
+  "related": ["depot-aufteilung-assetallokation", "rebalancing-eigenes-depot", "notgroschen-zuerst", "inflation-nominal-vs-real"],
+  "sources": [
+    {"title": "BaFin: Anleihen – Grundlagen", "url": "https://www.bafin.de/DE/Verbraucher/GeldanlageWertpapiere/Anleihen/anleihen_node.html"},
+    {"title": "Verbraucherzentrale: Tagesgeld & Festgeld", "url": "https://www.verbraucherzentrale.de/wissen/geldanlage/sparen-und-anlegen"}
+  ]
+}

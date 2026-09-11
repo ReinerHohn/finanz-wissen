@@ -1,0 +1,28 @@
+{
+  "id": "entnahmephase",
+  "name": "Die Entnahmephase: wie man später Geld wieder rauszieht",
+  "aka": ["Entsparen", "4-Prozent-Regel", "sichere Entnahmerate", "Sequenzrisiko"],
+  "category": "Depot & Strategie",
+  "evidence_level": "B",
+  "tags": ["entnahme", "entsparen", "4-prozent-regel", "sequenzrisiko", "ruhestand"],
+  "summary": "Irgendwann willst du vom Ersparten leben, nicht nur ansparen. Dann kehrt sich die Logik um: Statt einzuzahlen, entnimmst du regelmäßig. Bekannte Orientierung ist die '4-Prozent-Regel' (jährlich ~4 % des Startvermögens entnehmen). Die größte Gefahr heißt Sequenzrisiko: Ein Crash gleich zu Beginn der Entnahme kann das Vermögen dauerhaft beschädigen.",
+  "kernidee": "Beim Entsparen ist die Reihenfolge der Renditen entscheidend, nicht nur der Durchschnitt. Ein Crash am Anfang tut viel mehr weh als später – dagegen hilft ein Cash-Puffer.",
+  "deep_dive": "Die '4-Prozent-Regel' stammt aus der Trinity-Studie: Wer zu Rentenbeginn 4 % des Depots entnimmt und die Entnahme jährlich an die Inflation anpasst, kam in historischen US-Daten über 30 Jahre meist nicht pleite. Wichtige Einordnung: Das ist eine grobe Orientierung, kein Gesetz – sie beruht auf US-Historie, langen Zeiträumen und bestimmten Aktien/Anleihen-Mischungen; für sehr lange Ruhestände oder andere Länder wird oft eine etwas niedrigere Rate (3,0–3,5 %) genannt. Der zentrale Begriff ist das SEQUENZRISIKO: Nicht nur die Durchschnittsrendite zählt, sondern ihre Reihenfolge. Fällt der Markt gleich in den ersten Entnahmejahren stark, verkaufst du Anteile im Tief, um zu leben – dieses Kapital fehlt dann für die Erholung, und das Depot erholt sich womöglich nie mehr. Fällt derselbe Crash erst spät, ist er meist harmlos. Gegenmittel: (1) Cash-Puffer von 1–3 Jahresausgaben, aus dem du in Crash-Phasen lebst, statt Aktien im Tief zu verkaufen. (2) Flexible Entnahme – in schlechten Jahren weniger entnehmen. (3) In den Jahren vor dem Entnahmestart den sicheren Teil erhöhen (siehe depot-aufteilung-assetallokation). Anders als in der Ansparphase (wo Crashs sogar günstig sind, weil der Sparplan billig kauft) ist Flexibilität hier der Schlüssel. Diese Karte ist eine Orientierung, keine Ruhestandsplanung – bei größeren Summen lohnt individuelle Beratung.",
+  "key_facts": [
+    {"label": "4-Prozent-Regel", "value": "Startentnahme ~4 % des Depots, jährlich an Inflation angepasst; grobe Orientierung aus der Trinity-Studie (US, 30 Jahre).", "source": "Trinity Study 1998"},
+    {"label": "Eher konservativ", "value": "Für lange Ruhestände/andere Länder werden oft 3,0–3,5 % genannt; 4 % ist keine Garantie."},
+    {"label": "Sequenzrisiko", "value": "Ein Crash zu BEGINN der Entnahme schadet dauerhaft; derselbe Crash spät ist meist harmlos."},
+    {"label": "Cash-Puffer", "value": "1–3 Jahresausgaben in Sicherheit, um in Crash-Phasen daraus zu leben statt Aktien im Tief zu verkaufen."},
+    {"label": "Flexibilität", "value": "In schlechten Börsenjahren weniger entnehmen – der wirksamste Schutz gegen frühes Sequenzrisiko."}
+  ],
+  "misconceptions": [
+    "'4 % sind immer sicher.' – Nur eine historische Orientierung; je nach Dauer/Land kann weniger nötig sein.",
+    "'In der Entnahme zählt nur die Durchschnittsrendite.' – Nein, die Reihenfolge (Sequenzrisiko) ist entscheidend.",
+    "'Crashs sind immer schlecht.' – Beim Ansparen sind sie günstig (billiger Kauf); nur beim Entnehmen am Anfang sind sie gefährlich."
+  ],
+  "related": ["anlagehorizont", "depot-aufteilung-assetallokation", "anleihen-und-tagesgeld", "sind-etfs-sicher"],
+  "sources": [
+    {"title": "Trinity Study / Bengen: Safe Withdrawal Rates (Überblick)", "url": "https://www.bogleheads.org/wiki/Trinity_study_update"},
+    {"title": "Early Retirement Now: Safe Withdrawal Rate Series", "url": "https://earlyretirementnow.com/safe-withdrawal-rate-series/"}
+  ]
+}

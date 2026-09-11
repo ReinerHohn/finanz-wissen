@@ -1,0 +1,27 @@
+{
+  "id": "sparplan-als-automatik",
+  "name": "Der Sparplan als Automatik gegen die eigene Psyche",
+  "aka": ["Dauerauftrag ins Depot", "automatisch investieren", "Set and forget"],
+  "category": "Psychologie & Verhalten",
+  "evidence_level": "A",
+  "tags": ["sparplan", "automatik", "disziplin", "psychologie", "einstieg"],
+  "summary": "Wenn dein Problem ist, dass du nie 'abdrückst' (immer denkst 'jetzt ist gerade schlecht'), ist die Lösung nicht besseres Timing, sondern das Abschaffen der Entscheidung: ein automatischer ETF-Sparplan kauft jeden Monat einen festen Betrag – ohne dass du zustimmen musst. Damit wird deine Schwäche schlicht irrelevant.",
+  "kernidee": "Nimm dir die Entscheidung aus der Hand. Ein Sparplan kauft stur weiter, egal wie die Nachrichten sind – so bleibst du automatisch dabei.",
+  "deep_dive": "Der häufigste Grund, warum Menschen trotz Wissen nicht investieren, ist der 'Abzug': die einzelne Kaufentscheidung, die sich immer riskant anfühlt. Ein Sparplan löst genau das. Du legst einmal fest: Betrag (z. B. 100–500 € im Monat), ETF (breiter Welt-ETF, siehe welt-etf-auswaehlen) und Ausführungstag. Ab dann kauft die Bank automatisch – ob Crash oder Rekordhoch, ohne Rückfrage. Vorteile: (1) Du bist immer investiert und verpasst die guten Tage nicht (siehe time-in-the-market). (2) Du kaufst mal teurer, mal billiger; der Einstiegskurs mittelt sich, und die Reue 'ich hab am Hoch gekauft' verschwindet (Durchschnittskosteneffekt, siehe sparplan-vs-einmalanlage). (3) Es entkoppelt Sparen vom Gefühl – du musst nie wieder 'jetzt?' denken. Viele Broker führen Sparpläne auf gängige ETFs kostenlos aus. Praktischer Tipp: Ausführung kurz nach dem Gehaltseingang legen ('erst investieren, dann leben'). Wer eine große Summe herumliegen hat, kann kombinieren: einen Teil sofort investieren, den Rest über 6–12 Monate per Sparplan einstreuen. Wichtig: Sparplan einmal einrichten und dann NICHT ständig anfassen oder pausieren, wenn es kriselt – das Nicht-Eingreifen ist der ganze Trick.",
+  "key_facts": [
+    {"label": "Prinzip", "value": "Fester Betrag, fester ETF, fester Tag – die Bank kauft automatisch, ohne dass du entscheiden musst."},
+    {"label": "Löst dein Problem", "value": "Der 'Abzug' entfällt: Nie-Kaufen wird irrelevant, weil die Automatik für dich kauft."},
+    {"label": "Kosten", "value": "Bei vielen Brokern kostenlos auf gängige Welt-ETFs."},
+    {"label": "Timing der Ausführung", "value": "Kurz nach Gehaltseingang – erst investieren, dann leben ('pay yourself first')."},
+    {"label": "Regel Nr. 1", "value": "Einrichten und in Ruhe lassen – gerade in Krisen NICHT pausieren, sonst verpasst du die günstigen Käufe."}
+  ],
+  "misconceptions": [
+    "'Ich fange an, wenn die Lage besser ist.' – Genau das verhindert den Start für immer; die Automatik umgeht es.",
+    "'In der Krise pausiere ich den Sparplan.' – Dann kaufst du gerade dann NICHT, wenn es billig ist – der teuerste Reflex.",
+    "'Sparplan bringt mehr Rendite als Einmalanlage.' – Nein, er senkt Risiko/Reue und sorgt vor allem dafür, dass du überhaupt dabei bist."
+  ],
+  "related": ["markt-timing-jetzt-ist-schlecht", "time-in-the-market", "sparplan-vs-einmalanlage", "welt-etf-auswaehlen", "broker-depot-auswahl"],
+  "sources": [
+    {"title": "Verbraucherzentrale: Mit ETF-Sparplänen Vermögen aufbauen", "url": "https://www.verbraucherzentrale.de/wissen/geldanlage/etf"}
+  ]
+}

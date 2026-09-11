@@ -1,0 +1,27 @@
+{
+  "id": "anlagehorizont",
+  "name": "Anlagehorizont: welches Geld gehört wohin?",
+  "aka": ["Zeithorizont", "Töpfe-Modell", "Buckets", "wann Aktien passen"],
+  "category": "Depot & Strategie",
+  "evidence_level": "A",
+  "tags": ["anlagehorizont", "zeithorizont", "toepfe", "liquiditaet", "planung"],
+  "summary": "Nicht jedes Geld gehört in Aktien – entscheidend ist, WANN du es brauchst. Kurzfristig benötigtes Geld (0–3 Jahre) gehört auf sichere Konten, denn Aktien können genau dann tief im Minus stehen. Nur Geld, das du 10+ Jahre nicht anfassen musst, sollte breit in Aktien-ETFs arbeiten. Das ist der eine legitime Grund, NICHT sofort alles in Aktien zu stecken – und er hat nichts mit Timing zu tun.",
+  "kernidee": "Ordne dein Geld nach dem Zeitpunkt, an dem du es brauchst – nicht nach dem Börsenwetter. Zeit, nicht Timing, entscheidet über die passende Anlage.",
+  "deep_dive": "Ein einfaches Töpfe-Modell hilft: (1) Kurzfristig (0–3 Jahre) – Notgroschen und geplante Ausgaben (Auto, Umzug, Steuer): auf Tagesgeld/Festgeld, kein Kursrisiko (siehe notgroschen-zuerst). (2) Mittelfristig (3–10 Jahre) – Mischung, mit vorsichtigerem Aktienanteil, damit ein Crash kurz vor dem Ziel nicht alles kostet. (3) Langfristig (10+ Jahre) – hier gehören breite Aktien-ETFs hin, weil über so lange Zeiträume die Schwankungen ausgesessen werden können und die reale Rendite wirkt (siehe sind-etfs-sicher). Der Grund für diese Trennung ist das Kursrisiko zum falschen Zeitpunkt: Aktien können -40 bis -55 % stehen; wer das Geld dann braucht, muss den Verlust realisieren. Wichtig: Das ist KEIN Market-Timing. Du wartest nicht auf einen 'guten Moment' (das wäre der teure Reflex, siehe markt-timing-jetzt-ist-schlecht), sondern richtest die Anlage nach deinem festen Zeitbedarf aus. Für dein lange herumliegendes Geld heißt das konkret: Der Teil, den du 10+ Jahre sicher nicht brauchst, sollte HEUTE anfangen zu arbeiten – am besten automatisiert (siehe sparplan-als-automatik) – statt auf besseres Wetter zu warten.",
+  "key_facts": [
+    {"label": "0–3 Jahre", "value": "Sicheres Konto (Tagesgeld/Festgeld) – kein Kursrisiko, weil keine Zeit zum Aussitzen bleibt."},
+    {"label": "3–10 Jahre", "value": "Mischung mit vorsichtigerem Aktienanteil, gegen Ende risikoärmer werden."},
+    {"label": "10+ Jahre", "value": "Breite Aktien-ETFs – lange genug, um Crashs auszusitzen und reale Rendite zu ernten."},
+    {"label": "Der Grund", "value": "Aktien können -50 % stehen; wer das Geld dann braucht, realisiert den Verlust."},
+    {"label": "Kein Timing", "value": "Du richtest dich nach deinem Zeitbedarf, nicht nach dem 'richtigen Moment'."}
+  ],
+  "misconceptions": [
+    "'Alles gehört sofort komplett in Aktien.' – Nur langfristiges Geld; kurzfristiges gehört sicher angelegt.",
+    "'Ich warte mit dem Langfrist-Geld auf einen besseren Moment.' – Das ist Timing; bei 10+ Jahren zählt der Einstiegstag kaum.",
+    "'Aktien sind für kurzfristige Ziele okay, wenn ich vorsichtig bin.' – Das Kursrisiko trifft dich unabhängig von Vorsicht."
+  ],
+  "related": ["notgroschen-zuerst", "depot-aufteilung-assetallokation", "sind-etfs-sicher", "markt-timing-jetzt-ist-schlecht", "entnahmephase"],
+  "sources": [
+    {"title": "Verbraucherzentrale: Anlageziele & Zeithorizont", "url": "https://www.verbraucherzentrale.de/wissen/geldanlage"}
+  ]
+}

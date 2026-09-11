@@ -1,0 +1,28 @@
+{
+  "id": "anlegerfehler-uebersicht",
+  "name": "Die häufigsten Anlegerfehler auf einen Blick",
+  "aka": ["Behavior Gap", "typische Fehler", "Verhaltensfallen"],
+  "category": "Psychologie & Verhalten",
+  "evidence_level": "B",
+  "tags": ["fehler", "psychologie", "behavior-gap", "panikverkauf", "gebuehren"],
+  "summary": "Die meiste Rendite geht nicht durch schlechte Märkte verloren, sondern durch das eigene Verhalten: Panikverkäufe, Performance-Jagd, zu viel Handeln, zu hohe Kosten und ständiges Draufschauen. Studien nennen diese Lücke zwischen Fonds-Rendite und tatsächlicher Anleger-Rendite den 'Behavior Gap'.",
+  "kernidee": "Der größte Gegner des Anlegers ist meist der Anleger selbst. Wer die typischen Fehler kennt und vermeidet, hat den halben Erfolg schon sicher.",
+  "deep_dive": "Untersuchungen (z. B. Morningstar 'Mind the Gap', DALBAR) zeigen regelmäßig: Anleger verdienen spürbar weniger als die Fonds, in die sie investieren – weil sie zum falschen Zeitpunkt ein- und aussteigen. Die häufigsten Fehler: (1) Panikverkauf im Crash – realisiert Verluste und verpasst die Erholung (siehe time-in-the-market). (2) Performance-Jagd – dem heißen Fonds/Trend hinterherlaufen, der danach oft abkühlt (vergangene Rendite sagt wenig, siehe aktiv-vs-passiv). (3) Market-Timing – auf den 'richtigen Moment' warten (siehe markt-timing-jetzt-ist-schlecht). (4) Zu viel Handeln – jeder Trade kostet Gebühren, Steuern und meist Rendite. (5) Kosten ignorieren – hohe TER/Ausgabeaufschläge fressen über Jahrzehnte einen großen Teil weg (siehe ter-und-kosten). (6) Zu enge Streuung / Home Bias – zu viel Heimatmarkt oder Einzelaktien statt breit weltweit (siehe diversifikation-vs-marktrisiko). (7) Zu oft ins Depot schauen – erhöht Angst und die Neigung, unnötig einzugreifen. Die Gegenmittel sind langweilig und wirksam: breiter Welt-ETF, Sparplan-Automatik, niedrige Kosten, lange dabeibleiben, selten draufschauen.",
+  "key_facts": [
+    {"label": "Behavior Gap", "value": "Anleger erzielen oft spürbar weniger als ihre eigenen Fonds – durch schlechtes Timing beim Ein-/Aussteigen.", "source": "Morningstar 'Mind the Gap'"},
+    {"label": "Panikverkauf", "value": "Der teuerste Einzelfehler: Verlust realisieren und die Erholung verpassen."},
+    {"label": "Performance-Jagd", "value": "Dem letztjährigen Gewinner hinterherlaufen – der oft danach zurückfällt."},
+    {"label": "Zu viel Handeln", "value": "Häufiges Umschichten kostet Gebühren, Steuern und meist Rendite; Nichtstun ist oft besser."},
+    {"label": "Zu oft schauen", "value": "Wer täglich ins Depot schaut, sieht mehr Verlusttage und neigt eher zu Fehlreaktionen."}
+  ],
+  "misconceptions": [
+    "'Ich muss aktiv reagieren, um erfolgreich zu sein.' – Meist ist diszipliniertes Nichtstun überlegen.",
+    "'Der beste Fonds des letzten Jahres ist die beste Wahl.' – Vergangenheitsrendite ist ein schwacher Wegweiser.",
+    "'Ich behalte den Überblick, wenn ich oft ins Depot schaue.' – Häufiges Draufschauen erhöht vor allem Stress und Fehlreaktionen."
+  ],
+  "related": ["markt-timing-jetzt-ist-schlecht", "time-in-the-market", "sparplan-als-automatik", "aktiv-vs-passiv", "ter-und-kosten"],
+  "sources": [
+    {"title": "Morningstar: Mind the Gap (Investor Returns)", "url": "https://www.morningstar.com/lp/mind-the-gap"},
+    {"title": "Carl Richards: The Behavior Gap", "url": "https://behaviorgap.com/"}
+  ]
+}

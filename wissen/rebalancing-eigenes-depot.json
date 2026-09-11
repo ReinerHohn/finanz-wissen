@@ -1,0 +1,27 @@
+{
+  "id": "rebalancing-eigenes-depot",
+  "name": "Das eigene Depot rebalancieren",
+  "aka": ["Rebalancing", "Wiederherstellen der Zielaufteilung", "Umschichten"],
+  "category": "Depot & Strategie",
+  "evidence_level": "B",
+  "tags": ["rebalancing", "assetallokation", "risiko", "disziplin", "steuern"],
+  "summary": "Rebalancing heißt: die ursprünglich gewählte Aufteilung (z. B. 70 % Aktien / 30 % sicher) regelmäßig wiederherstellen. Weil Aktien meist stärker steigen, wächst ihr Anteil mit der Zeit über das Ziel – und dein Depot wird riskanter, als du wolltest. Rebalancing bringt es zurück und ist vor allem ein Risiko-Werkzeug, kein Rendite-Trick.",
+  "kernidee": "Nicht das Depot verkauft automatisch (das war der ETF) – DU stellst deine gewählte Aktien/sicher-Mischung wieder her, damit das Risiko nicht davonläuft.",
+  "deep_dive": "Wichtig zur Abgrenzung: Der ETF gewichtet seine Firmen intern automatisch (siehe marktkapitalisierung-gewichtung). Beim Rebalancing geht es dagegen um DEINE Aufteilung zwischen den Töpfen Aktien und sicher (siehe depot-aufteilung-assetallokation). Beispiel: Du startest 70/30. Nach einer guten Börsenphase stehst du bei 80/20 – dein Depot ist jetzt riskanter, als du eingestellt hattest. Beim Rebalancing bringst du es zurück auf 70/30. Zwei gängige Methoden: (1) Kalender – z. B. einmal im Jahr prüfen und anpassen. (2) Schwelle – nur eingreifen, wenn ein Topf mehr als z. B. 5 Prozentpunkte vom Ziel abweicht. Beides ist okay; einmal jährlich ist für die meisten ausreichend. Der steuer- und kostenschonendste Weg ist, NICHT zu verkaufen, sondern mit frischem Geld (Sparplanraten, Zuflüsse) gezielt den zu kleinen Topf aufzufüllen – so vermeidest du Verkaufsgewinne, die in Deutschland Abgeltungsteuer auslösen (siehe vorabpauschale-steuern-de). Effekt: Rebalancing hält dein Risiko konstant und erzwingt antizyklisches Verhalten (du verkaufst tendenziell das Teure, kaufst das Billige) – der Renditebeitrag ist aber meist klein; der Hauptnutzen ist Risikokontrolle und Disziplin.",
+  "key_facts": [
+    {"label": "Was", "value": "Deine Aktien/sicher-Zielmischung wiederherstellen, wenn sie verrutscht ist."},
+    {"label": "Warum", "value": "Aktien steigen meist stärker → ihr Anteil wächst über das Ziel → Depot wird ungewollt riskanter."},
+    {"label": "Wie oft", "value": "Kalender (z. B. 1×/Jahr) oder Schwelle (z. B. bei >5 Prozentpunkten Abweichung). Einmal jährlich reicht meist."},
+    {"label": "Steuerschonend", "value": "Statt zu verkaufen mit frischem Geld den zu kleinen Topf auffüllen – vermeidet steuerpflichtige Verkaufsgewinne."},
+    {"label": "Nutzen", "value": "Vor allem Risikokontrolle + Disziplin (antizyklisch); der Renditebeitrag ist meist gering."}
+  ],
+  "misconceptions": [
+    "'Rebalancing steigert die Rendite deutlich.' – Der Hauptnutzen ist Risikokontrolle; der Renditeeffekt ist meist klein.",
+    "'Ich muss ständig umschichten.' – Einmal im Jahr oder bei größerer Abweichung genügt.",
+    "'Rebalancing heißt immer verkaufen.' – Besser: mit neuen Einzahlungen auffüllen, um Steuern/Kosten zu sparen."
+  ],
+  "related": ["depot-aufteilung-assetallokation", "anleihen-und-tagesgeld", "vorabpauschale-steuern-de", "marktkapitalisierung-gewichtung"],
+  "sources": [
+    {"title": "Vanguard: Rebalancing – Prinzipien", "url": "https://corporate.vanguard.com/content/dam/corp/research/pdf/BestPracticesForPortfolioRebalancing.pdf"}
+  ]
+}

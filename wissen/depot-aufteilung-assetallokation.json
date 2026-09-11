@@ -1,0 +1,28 @@
+{
+  "id": "depot-aufteilung-assetallokation",
+  "name": "Depot-Aufteilung: der risikoreiche und der sichere Teil",
+  "aka": ["Asset-Allokation", "Vermögensaufteilung", "Risikoteil/Sicherheitsteil", "Core-Satellite"],
+  "category": "Depot & Strategie",
+  "evidence_level": "A",
+  "tags": ["assetallokation", "aufteilung", "risiko", "strategie", "70-30"],
+  "summary": "Die wichtigste Entscheidung ist nicht WELCHER ETF, sondern WIE VIEL in risikoreiche (Aktien) und wie viel in sichere Anlagen (Tagesgeld/Anleihen) geht. Diese Aufteilung – die Asset-Allokation – bestimmt den Großteil deiner Schwankung und deines Nachtschlafs. Grundmodell: ein risikoreicher Topf (Welt-ETF) plus ein sicherer Topf (Tagesgeld/kurze Anleihen).",
+  "kernidee": "Erst das Verhältnis Aktien/sicher festlegen, dann die Produkte. Die Aufteilung ist die eigentliche Stellschraube für dein Risiko.",
+  "deep_dive": "Studien zeigen: Ein sehr großer Teil der Schwankung eines Portfolios kommt aus der Aufteilung zwischen Anlageklassen, nicht aus der Einzelauswahl. Praktisch reicht ein einfaches Zwei-Topf-Modell: (1) Risikoteil = ein breiter Welt-Aktien-ETF (siehe welt-etf-auswaehlen) – liefert die Rendite, schwankt aber stark (-40 bis -55 % möglich). (2) Sicherheitsteil = Tagesgeld/Festgeld oder kurzlaufende Staatsanleihen (siehe anleihen-und-tagesgeld) – kaum Rendite, aber Ballast, der das Gesamtdepot ruhiger macht. Wie hoch der Aktienanteil sein sollte, hängt von zwei Dingen ab: deinem Anlagehorizont (siehe anlagehorizont) und deiner Risikotoleranz (wie viel Minus hältst du aus, ohne zu verkaufen?). Faustregeln als Startpunkt, nicht als Gesetz: 'sicherer Teil in % ungefähr wie dein Alter' oder klassische Mischungen wie 70/30 oder 60/40 (Aktien/sicher). Ehrlicher Test: Stell dir -50 % auf dem Aktienteil vor. Bei welchem Aktienanteil kannst du da noch ruhig schlafen und NICHT verkaufen? Genau der ist für dich richtig – ein Depot, das du im Crash durchhältst, schlägt ein 'optimales', das du panisch auflöst. Wer es maximal einfach will: EIN Welt-ETF plus Tagesgeld genügt völlig; mehr Bausteine sind Kür, nicht Pflicht.",
+  "key_facts": [
+    {"label": "Wichtigste Entscheidung", "value": "Das Verhältnis Aktien/sicher bestimmt den Großteil der Schwankung – mehr als die Produktauswahl."},
+    {"label": "Zwei-Topf-Modell", "value": "Risikoteil (Welt-ETF) + Sicherheitsteil (Tagesgeld/kurze Anleihen). Reicht für die meisten völlig."},
+    {"label": "Faustregeln", "value": "Startpunkte: sicherer Teil ~ Alter in %, oder 70/30 bzw. 60/40 – anpassen an Horizont und Nerven."},
+    {"label": "Der ehrliche Test", "value": "Bei welchem Aktienanteil hältst du -50 % aus, ohne zu verkaufen? Der ist für dich richtig."},
+    {"label": "Durchhalten schlägt Optimieren", "value": "Ein Depot, das du im Crash behältst, ist besser als ein 'optimales', das du panisch auflöst."}
+  ],
+  "misconceptions": [
+    "'Die Produktauswahl ist das Wichtigste.' – Nein, die Aufteilung Aktien/sicher zählt weit mehr.",
+    "'Mehr Aktien = immer besser.' – Nur wenn du die Schwankung wirklich aushältst; sonst verkaufst du im Tief.",
+    "'Ich brauche viele verschiedene Bausteine.' – Ein Welt-ETF plus Tagesgeld genügt; Komplexität bringt selten Mehrwert."
+  ],
+  "related": ["anleihen-und-tagesgeld", "rebalancing-eigenes-depot", "anlagehorizont", "welt-etf-auswaehlen", "diversifikation-vs-marktrisiko"],
+  "sources": [
+    {"title": "Verbraucherzentrale: Geldanlage – Risiko streuen", "url": "https://www.verbraucherzentrale.de/wissen/geldanlage"},
+    {"title": "Kommer: Souverän investieren (Asset-Allokation)", "url": "https://gerd-kommer.de/"}
+  ]
+}

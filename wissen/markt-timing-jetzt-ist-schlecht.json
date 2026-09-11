@@ -1,0 +1,28 @@
+{
+  "id": "markt-timing-jetzt-ist-schlecht",
+  "name": "Market-Timing: warum 'jetzt ist gerade schlecht' fast immer falsch ist",
+  "aka": ["Timing", "auf den richtigen Moment warten", "Analyse-Lähmung"],
+  "category": "Psychologie & Verhalten",
+  "evidence_level": "A",
+  "tags": ["market-timing", "psychologie", "einstieg", "warten", "fehler"],
+  "summary": "Der Versuch, den 'richtigen Moment' zum Kaufen zu erwischen, fühlt sich vorsichtig an, ist aber einer der teuersten Anlegerfehler. Es fühlt sich zu JEDER Zeit gerade schlecht an – es gibt immer eine Krise, hohe Bewertungen oder einen drohenden Crash. Weil niemand den Markt zuverlässig timen kann (auch keine Profis), führt Warten meist nur dazu, gar nicht dabei zu sein.",
+  "kernidee": "Es gibt nie den 'sicheren Moment'. Der einzige Fehler, der auf lange Sicht wirklich zählt, ist, gar nicht investiert zu sein.",
+  "deep_dive": "Rückblickend waren 2009, 2012, 2016 und 2020 großartige Einstiegszeitpunkte – aber DAMALS fühlte sich jeder davon gefährlich an (Finanzkrise, Eurokrise, Brexit, Corona). Genau das ist die Falle: Die Gegenwart fühlt sich immer unsicher an, weil die Zukunft unbekannt ist. Wer auf Sicherheit wartet, wartet ewig. Dass Timing nicht funktioniert, ist gut belegt: Selbst professionelle Fonds, die dafür bezahlt und mit Supercomputern ausgestattet sind, schlagen den simplen Markt langfristig mehrheitlich nicht (siehe aktiv-vs-passiv). Wenn die es nicht können, ist 'jetzt ist gerade schlecht' kein Wissen, sondern ein Gefühl. Statistisch schlägt sofortiges Investieren das Warten in rund zwei von drei Fällen, weil Märkte im Mittel steigen und wartendes Geld die Aufwärtsdrift verpasst (siehe sparplan-vs-einmalanlage). Der Ausweg ist nicht 'besser timen', sondern das Timing-Problem abzuschaffen: automatisch per Sparplan kaufen (siehe sparplan-als-automatik) und die Entscheidung der Bank überlassen. Reframe: Du kaufst nicht den Markt von heute, sondern die nächsten 20 Jahre Wirtschaftsleistung – auf dieser Zeitskala ist der genaue Einstiegstag Rauschen.",
+  "key_facts": [
+    {"label": "Es fühlt sich immer schlecht an", "value": "Zu jedem Zeitpunkt gibt es Krisen und Warnungen; die besten Einstiege der Vergangenheit fühlten sich damals gefährlich an."},
+    {"label": "Timing funktioniert nicht", "value": "Selbst Profifonds schlagen den Markt langfristig mehrheitlich nicht – Timing ist kein zuverlässiges Können.", "source": "S&P SPIVA"},
+    {"label": "Warten kostet", "value": "Sofort investieren schlug das Warten historisch in ~2 von 3 Fällen.", "source": "Vanguard"},
+    {"label": "Der teure Fehler", "value": "Nicht der schlechte Einstiegstag ruiniert die Rendite, sondern das Gar-nicht-dabei-Sein."},
+    {"label": "Lösung", "value": "Nicht besser timen, sondern automatisieren (Sparplan) und den Zeithorizont lang halten."}
+  ],
+  "misconceptions": [
+    "'Ich warte auf den Crash und steige dann günstig ein.' – Den Tiefpunkt trifft fast niemand; meist steigt der Markt vorher davon.",
+    "'Vorsichtig warten ist risikoarm.' – Das größte Risiko ist, jahrelang gar nicht investiert zu sein.",
+    "'Hohe Kurse heißt, jetzt ist ein schlechter Zeitpunkt.' – Märkte stehen die meiste Zeit nahe Höchstständen, weil sie langfristig steigen."
+  ],
+  "related": ["time-in-the-market", "sparplan-als-automatik", "sparplan-vs-einmalanlage", "aktiv-vs-passiv", "anlegerfehler-uebersicht"],
+  "sources": [
+    {"title": "Vanguard: Cost averaging vs lump-sum investing", "url": "https://corporate.vanguard.com/content/dam/corp/research/pdf/cost_averaging_invest_now_or_temporarily_hold_your_cash.pdf"},
+    {"title": "S&P SPIVA Scorecards", "url": "https://www.spglobal.com/spdji/en/research-insights/spiva/"}
+  ]
+}
