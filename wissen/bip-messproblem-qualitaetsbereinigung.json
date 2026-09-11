@@ -1,0 +1,28 @@
+{
+  "id": "bip-messproblem-qualitaetsbereinigung",
+  "name": "Das Messproblem: teureres iPhone – wo ist das Wachstum?",
+  "aka": ["Qualitätsbereinigung", "hedonische Methode", "Inflation vs Verbesserung"],
+  "category": "Wirtschaft & Wachstum",
+  "evidence_level": "B",
+  "tags": ["messung", "qualitaetsbereinigung", "hedonisch", "bip", "inflation", "gewinn"],
+  "summary": "Bei jeder Preiserhöhung müssen Statistiker trennen: Ist das Inflation (dasselbe kostet mehr) oder reales Wachstum (man bekommt ein besseres Produkt)? Das Werkzeug heißt hedonische Qualitätsbereinigung. Ist ein neues Produkt teurer, ohne mehr zu können, gilt es korrekt gemessen als reine Inflation – kein Wachstum. Diese Trennung ist genuin schwierig und umstritten. Für dich als Anleger ist der bessere Maßstab ohnehin nicht das BIP, sondern der Gewinn – über den der Markt abstimmt.",
+  "kernidee": "Teurer + gleiche Leistung = Inflation, kein Wachstum. Die Messung dieser Grenze ist unsauber – aber als Anleger zählt der Gewinn, nicht die BIP-Statistik.",
+  "deep_dive": "Hedonische Bereinigung zerlegt ein Produkt in Eigenschaften (Speicher, Kamera, Tempo) und schätzt deren Wert. Kostet ein neues iPhone 10 % mehr, kann aber 30 % mehr, wird das effektiv als Preissenkung pro Leistung verbucht = reales Wachstum. Kostet es 10 % mehr und kann nichts mehr, zählen die vollen 10 % als reine Inflation = KEIN Wachstum. In genau diesem Fall ist die Skepsis 'wo ist das Wachstum?' also berechtigt – korrekt gemessen gibt es keins. Die ehrliche Wahrheit: Die Messung ist wirklich unsauber und umstritten. Mal wird zu VIEL Wachstum gutgeschrieben (Mini-Verbesserungen, die niemand nutzt, zählen als Fortschritt). Mal wird zu WENIG gezählt: Google Maps ersetzte ein 200-€-Navi gratis, Wikipedia eine ganze Enzyklopädie – riesiger realer Nutzen, der im BIP kaum auftaucht, weil er nichts kostet. BIP und Inflation sind also gute, aber unvollkommene Schätzungen. Der entscheidende Perspektivwechsel für Anleger: Du verdienst nicht 'BIP' und nicht 'bessere Features', sondern GEWINN. Teureres iPhone, das nichts mehr kann, aber trotzdem gekauft wird -> Apples Gewinn steigt real -> dein Anteil steigt (echter Zugewinn, egal ob 'besser'). Wird es den Leuten nicht wert sein -> weniger Verkäufe -> Gewinn fällt -> Aktie fällt. Der Markt korrigiert das selbst. Und im breiten ETF sammelt sich Gewicht automatisch dort, wo real Gewinn entsteht – du musst die iPhone-Frage nicht selbst beantworten.",
+  "key_facts": [
+    {"label": "Die Kernfrage", "value": "Jede Preiserhöhung muss in 'Inflation' vs 'bessere Leistung' zerlegt werden – das ist die ganze Schwierigkeit."},
+    {"label": "Hedonische Methode", "value": "Produkt in Eigenschaften zerlegen und deren Wert schätzen; mehr Leistung pro Euro = reales Wachstum."},
+    {"label": "Dein Fall", "value": "Teurer + kann nichts mehr = korrekt gemessen reine Inflation, KEIN Wachstum. Skepsis berechtigt."},
+    {"label": "Umstritten in beide Richtungen", "value": "Mal zu viel Wachstum (Mini-Features), mal zu wenig (Gratis-Dienste wie Maps/Wikipedia fehlen im BIP)."},
+    {"label": "Anleger-Maßstab: Gewinn", "value": "Du verdienst Gewinn, nicht Features. Der Markt stimmt über den Kurs ab, ob eine Preiserhöhung echten Wert schafft."}
+  ],
+  "misconceptions": [
+    "'Teureres Produkt = automatisch Wachstum.' – Nur wenn es real mehr leistet; sonst ist es Inflation.",
+    "'Das BIP misst Fortschritt exakt.' – Es ist ein guter, aber unvollkommener Näherungswert (Gratis-Dienste fehlen, Mini-Features werden überschätzt).",
+    "'Als Anleger muss ich beurteilen, ob ein Produkt besser ist.' – Nein, der Markt und die Index-Gewichtung erledigen das über den Gewinn."
+  ],
+  "related": ["wirtschaftswachstum-real", "inflation-nominal-vs-real", "warum-aktien-langfristig-steigen", "marktkapitalisierung-gewichtung"],
+  "sources": [
+    {"title": "BLS: Hedonic Quality Adjustment in the CPI", "url": "https://www.bls.gov/cpi/quality-adjustment/"},
+    {"title": "Our World in Data: What is GDP and what does it (not) measure?", "url": "https://ourworldindata.org/what-is-gdp"}
+  ]
+}

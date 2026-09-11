@@ -1,0 +1,27 @@
+{
+  "id": "verkauft-ein-etf-aktien",
+  "name": "Verkauft ein ETF überhaupt Aktien?",
+  "aka": ["Handelt ein ETF?", "Kauf und Verkauf im ETF", "Umschlag"],
+  "category": "ETF-Grundlagen",
+  "evidence_level": "A",
+  "tags": ["verkauf", "handel", "rebalancing", "creation-redemption", "kosten"],
+  "summary": "Ja – aber selten und regelbasiert, nie als Reaktion auf fallende Kurse. Ein ETF verkauft (und kauft) nur in zwei Fällen: wenn die Index-Liste sich ändert (Rebalancing) und wenn per Saldo Anleger-Geld rein- oder rausfließt. Ansonsten ist er fast reines Kaufen-und-Halten – genau das macht ihn so billig.",
+  "kernidee": "Ein ETF handelt kaum. Verkauft wird nur, wenn sich der Index ändert oder Anleger ein-/aussteigen – nicht weil ein Kurs fällt.",
+  "deep_dive": "Es gibt keinen Manager, der nach Meinung verkauft. Zwei Auslöser für echte Transaktionen: (1) Index-Umbau/Rebalancing – fällt eine Firma aus dem Index, wird sie verkauft; kommt eine neu rein, wird sie gekauft. Das passiert zu festen Terminen (bei großen Indizes meist quartalsweise). (2) Mittelflüsse – kaufen per Saldo mehr Anleger Anteile, kommt frisches Geld rein und der ETF hält mehr Aktien; verkaufen per Saldo mehr, muss er Aktien abgeben. In der Praxis läuft das über einen Großhandels-Mechanismus (Creation/Redemption über 'Authorized Participants'), sodass der ETF selbst wenig direkt handeln muss. Was ein ETF NICHT tut: wegen eines fallenden Kurses aktiv verkaufen. Der Anteil einer abstürzenden Firma schrumpft von selbst über den Kurs (siehe rechenbeispiel-etf-verlust); aktiv verkauft wird sie erst, wenn sie ganz aus dem Index fliegt – dann ist ihr Gewicht meist schon winzig. Wenig Handel = wenig Kosten, das ist der Grund für die niedrige TER.",
+  "key_facts": [
+    {"label": "Verkauft, wenn …", "value": "eine Firma aus dem Index fällt (Rebalancing) oder per Saldo Anleger aussteigen."},
+    {"label": "Kauft, wenn …", "value": "eine Firma neu in den Index kommt oder per Saldo frisches Anleger-Geld reinfließt."},
+    {"label": "Verkauft NICHT, weil …", "value": "ein Kurs fällt – das Gewicht sinkt dann automatisch, ohne Transaktion."},
+    {"label": "Creation/Redemption", "value": "Ein Großhandels-Mechanismus (Authorized Participants) sorgt dafür, dass der ETF selbst wenig direkt handeln muss."},
+    {"label": "Wenig Handel = billig", "value": "Der geringe Umschlag ist der Hauptgrund für die sehr niedrigen laufenden Kosten (TER)."}
+  ],
+  "misconceptions": [
+    "'Der ETF verkauft eine Firma, sobald ihr Kurs fällt.' – Nein, erst beim Rauswurf aus dem Index (dann Gewicht ~0).",
+    "'Der ETF handelt ständig wie ein aktiver Fonds.' – Nein, er ist überwiegend Kaufen-und-Halten.",
+    "'Ein Manager entscheidet über Käufe/Verkäufe.' – Nein, nur die Index-Regel und die Mittelflüsse."
+  ],
+  "related": ["rechenbeispiel-etf-verlust", "index-aufnahme-und-ausschluss", "marktkapitalisierung-gewichtung", "ter-und-kosten"],
+  "sources": [
+    {"title": "BaFin: Wie funktionieren ETFs?", "url": "https://www.bafin.de/DE/Verbraucher/GeldanlageWertpapiere/Investmentfonds/ETF/etf_node.html"}
+  ]
+}

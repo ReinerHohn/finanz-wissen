@@ -1,0 +1,27 @@
+{
+  "id": "warum-aktien-langfristig-steigen",
+  "name": "Warum steigen Aktien langfristig? Die Wette dahinter",
+  "aka": ["Equity Risk Premium", "produktive Sachwerte", "die eigentliche Wette"],
+  "category": "Wirtschaft & Wachstum",
+  "evidence_level": "B",
+  "tags": ["rendite", "wachstum", "produktivitaet", "dividenden", "zinseszins", "wette"],
+  "summary": "Ein breiter Aktien-ETF steigt langfristig nicht durch Zauberei, sondern weil er ein Anteil an produktiven Firmen ist, die reale Werte schaffen. Die Rendite kommt aus vier Quellen: reinvestierte Gewinne, Produktivitäts-/Innovationswachstum, Dividenden und dem Weitergeben der Inflation. Garantiert ist das nicht – aber es ist eine begründete Wette darauf, dass die Menschheit weiter produziert und wirtschaftet.",
+  "kernidee": "Du wettest nicht auf einzelne Firmen, sondern darauf, dass Menschen langfristig mehr und Besseres produzieren. Aktien sind der Anteil an dieser Produktion.",
+  "deep_dive": "Eine Aktie ist ein Anteil an einem echten Unternehmen mit Fabriken, Marken, Patenten, Kunden und Mitarbeitern – ein Sachwert, der laufend etwas produziert. Vier Renditequellen: (1) Reinvestierte Gewinne – Firmen behalten einen Teil des Gewinns ein und investieren ihn (neue Anlagen, Forschung); sie wachsen aus sich selbst, ein Zinseszins auf Unternehmensebene. (2) Produktivität & Innovation – mit besseren Werkzeugen/Wissen wird pro Arbeitsstunde real mehr hergestellt (siehe wirtschaftswachstum-real). (3) Dividenden – ein Teil des Gewinns wird direkt ausgeschüttet. (4) Inflationsweitergabe – steigen die Preise, steigen Umsatz und Gewinn nominal mit, anders als bei Bargeld (siehe inflation-nominal-vs-real). Historisch ergab das für breite Weltaktien grob 5–7 % pro Jahr real (nach Inflation). Verstärkt wird das durch die Selbsterneuerung des Index: Verlierer schrumpfen automatisch heraus, neue Gewinner wachsen hinein – du musst nie umschichten. Wichtig: Das ist eine begründete Erwartung ('Equity Risk Premium' als Lohn fürs Aushalten der Schwankung), kein Naturgesetz. Kurzfristig kann es -40 bis -55 % nach unten gehen; einzelne Länder können Jahrzehnte stagnieren (Japan). Deshalb: weltweit streuen und lange dabeibleiben.",
+  "key_facts": [
+    {"label": "Vier Renditequellen", "value": "Reinvestierte Gewinne + Produktivität/Innovation + Dividenden + Inflationsweitergabe."},
+    {"label": "Reale Rendite", "value": "Breite Weltaktien lieferten langfristig grob ~5–7 % pro Jahr real (nach Inflation), im Schnitt – nicht garantiert, nicht gleichmäßig.", "source": "Dimson/Marsh/Staunton, UBS Yearbook"},
+    {"label": "Risikoprämie", "value": "Die Mehrrendite gegenüber sicherem Geld ist der Lohn dafür, die Schwankungen auszuhalten ('Equity Risk Premium')."},
+    {"label": "Selbsterneuerung", "value": "Der Index tauscht Verlierer automatisch gegen neue Gewinner – die Wette gilt der Wirtschaft insgesamt, nicht einzelnen Firmen."},
+    {"label": "Keine Garantie", "value": "Begründete Erwartung, kein Gesetz: -50 % kurzfristig möglich, einzelne Regionen können Jahrzehnte stagnieren."}
+  ],
+  "misconceptions": [
+    "'Aktien steigen einfach immer.' – Nein, nur langfristig und wahrscheinlich; kurzfristig sind heftige Verluste normal.",
+    "'Die Rendite kommt nur aus steigenden Kursen.' – Ein großer Teil kommt aus reinvestierten Gewinnen und Dividenden.",
+    "'Wenn eine große Firma stirbt, stirbt die Wette.' – Der Index erneuert sich; die Wette gilt der Gesamtwirtschaft."
+  ],
+  "related": ["wirtschaftswachstum-real", "inflation-nominal-vs-real", "sind-etfs-sicher", "marktkapitalisierung-gewichtung"],
+  "sources": [
+    {"title": "UBS Global Investment Returns Yearbook (Dimson/Marsh/Staunton)", "url": "https://www.ubs.com/global/en/investment-bank/in-focus/2023/global-investment-returns-yearbook.html"}
+  ]
+}

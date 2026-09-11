@@ -1,0 +1,29 @@
+{
+  "id": "wirtschaftswachstum-real",
+  "name": "Was reales Wirtschaftswachstum wirklich ist (kein Nullsummenspiel)",
+  "aka": ["Produktivität", "reales BIP", "der Kuchen wächst"],
+  "category": "Wirtschaft & Wachstum",
+  "evidence_level": "A",
+  "tags": ["wachstum", "produktivitaet", "bip", "real", "nullsummenspiel", "wohlstand"],
+  "summary": "Wenn der Umsatz nur wegen Inflation steigt, ist das tatsächlich ein Nullsummenspiel – niemand wird reicher. Reales Wirtschaftswachstum ist etwas anderes: Es bedeutet, dass physisch MEHR und BESSERE Güter und Dienstleistungen entstehen, vor allem durch Produktivität (mehr Output pro Arbeitsstunde). Weil der 'Kuchen' dabei wirklich größer wird, ist es kein Nullsummenspiel.",
+  "kernidee": "Inflation = höhere Preise (Wash). Reales Wachstum = mehr echte Dinge. Nur das Zweite schafft neuen Wohlstand – und es nimmt niemandem etwas weg.",
+  "deep_dive": "Der Inflationsanteil am Umsatzwachstum ist ein Nullsummenspiel: Verdoppeln sich Preise UND Löhne, kann man sich gleich viel kaufen. Reales Wachstum dagegen heißt: mehr Menge und Qualität bei gleichem oder weniger Aufwand. Motor ist die Produktivität. Beispiel Landwirtschaft: 1900 bearbeitete ein Bauer mit Pferd ~1 Hektar/Tag, heute einer mit Traktor ~50 Hektar/Tag – 50× mehr Nahrung vom gleichen Menschen. Diese zusätzliche Nahrung ist real neu, sie entstand durch ein besseres Werkzeug, nicht durch Preiserhöhung. Beispiel Smartphone: kostet real ähnlich wie ein Handy von 1995, kann aber das Tausendfache – mehr echter Wert fürs gleiche Geld. Warum KEIN Nullsummenspiel: Der Traktor nimmt niemandem die 49 zusätzlichen Hektar weg; die Nahrung existiert schlicht zusätzlich. Deshalb konnten die Lebensstandards in 250 Jahren für fast alle gleichzeitig steigen – neu geschaffen, nicht umverteilt. Quellen realen Wachstums: (1) Produktivität/Technik (größter Hebel), (2) mehr Einsatz (Menschen, Kapital), (3) neue Produkte/Märkte (Internet, Medikamente), (4) Spezialisierung & Handel. Gemessen wird es über das REALE BIP (nominales BIP minus Inflation, per Preisindex bereinigt). 'Die Wirtschaft wuchs 2 %' meint immer real. Ehrlich: Reales Wachstum ist kein Naturgesetz – es lief ~250 Jahre robust, ist aber nicht garantiert (Ressourcen, Demografie, Produktivitätsflauten); einzelne Länder können stagnieren.",
+  "key_facts": [
+    {"label": "Nominal = Inflation + real", "value": "Nur der reale Teil (nach Inflation) ist echter Wohlstandszuwachs."},
+    {"label": "Produktivität", "value": "Mehr Output pro Arbeitsstunde durch bessere Werkzeuge/Wissen – der Hauptmotor des Wachstums."},
+    {"label": "Traktor-Beispiel", "value": "1 Hektar/Tag (Pferd, 1900) -> ~50 Hektar/Tag (Traktor): 50× mehr, real neu, nicht durch Preise."},
+    {"label": "Kein Nullsummenspiel", "value": "Der Kuchen wird physisch größer; die Zusatzgüter nehmen niemandem etwas weg."},
+    {"label": "Gemessen als reales BIP", "value": "Nominales BIP wird um die Inflation bereinigt; nur der Rest zählt als Wachstum."},
+    {"label": "Keine Garantie", "value": "Historisch robust über ~250 Jahre, aber kein Gesetz – einzelne Länder/Zeiten stagnieren."}
+  ],
+  "misconceptions": [
+    "'Wachstum ist nur Inflation.' – Der Inflationsteil ist ein Wash; das reale Wachstum ist echter Mehr-Output.",
+    "'Wenn einer gewinnt, verliert ein anderer.' – Reales Wachstum vergrößert den Kuchen, es ist kein Nullsummenspiel.",
+    "'BIP-Wachstum meint mehr Geld.' – Es meint (real) mehr und bessere Güter und Dienstleistungen."
+  ],
+  "related": ["inflation-nominal-vs-real", "bip-messproblem-qualitaetsbereinigung", "warum-aktien-langfristig-steigen"],
+  "sources": [
+    {"title": "OECD: Productivity and long-term growth (Erklärungen)", "url": "https://www.oecd.org/en/topics/productivity.html"},
+    {"title": "Our World in Data: Economic Growth", "url": "https://ourworldindata.org/economic-growth"}
+  ]
+}

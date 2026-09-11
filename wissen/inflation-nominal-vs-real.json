@@ -1,0 +1,28 @@
+{
+  "id": "inflation-nominal-vs-real",
+  "name": "Nominal vs. real: Aktien als Sachwert gegen Inflation",
+  "aka": ["Kaufkraft", "Realrendite", "Sachwert vs Geldwert", "Inflationsschutz"],
+  "category": "Wirtschaft & Wachstum",
+  "evidence_level": "A",
+  "tags": ["inflation", "nominal", "real", "kaufkraft", "sachwert", "bargeld"],
+  "summary": "Nominal = in Euro gerechnet. Real = nach Abzug der Inflation, also in Kaufkraft. Nur die reale Rendite macht dich wirklich reicher. Bargeld verliert durch Inflation garantiert an Kaufkraft; eine Aktie ist ein Sachwert, dessen Umsatz und Gewinn bei Inflation nominal mitsteigen – deshalb trägt sie die Inflation durch, statt an ihr zu verlieren.",
+  "kernidee": "Der reine Preisanstieg (Inflation) ist ein Nullsummenspiel. Was zählt, ist der reale Teil obendrauf – und genau den kann ein Sachwert liefern, Bargeld nicht.",
+  "deep_dive": "Beispiel: Ein Sparbuch bringt 2 % 'Zinsen', die Inflation liegt bei 3 %. Nominal wird dein Guthaben größer, real (in Kaufkraft) schrumpft es um ~1 % pro Jahr. Nominal ist also trügerisch. Warum trägt eine Aktie die Inflation durch? Weil eine Firma ein Sachwert ist: Wird alles teurer, erhöht auch sie ihre Preise -> Umsatz und Gewinn in Euro steigen mit -> der Börsenwert in Euro steigt mit. Bargeld kann das nicht, es ist ein reiner Geldwert und verliert. ABER: Wenn eine Aktie NUR die Inflation abbilden würde, wäre sie real bei null – ein teures Sparbuch. Der echte Gewinn ist der REALE Teil obendrauf: reinvestierte Gewinne, Produktivität, Innovation (siehe wirtschaftswachstum-real und warum-aktien-langfristig-steigen). Historisch: breite Weltaktien ~5–7 % real pro Jahr, also nach Abzug der Inflation. Faustregel: Immer real denken. Eine Rendite von 8 % bei 3 % Inflation sind real ~5 %. Und Vorsicht – Inflationsschutz gilt langfristig; kurzfristig können Aktien in Inflationsschocks (steigende Zinsen) sogar erst fallen.",
+  "key_facts": [
+    {"label": "Nominal vs real", "value": "Nominal = in Euro. Real = nach Inflation, in Kaufkraft. Nur real zählt für echten Vermögenszuwachs."},
+    {"label": "Bargeld verliert garantiert", "value": "Bei 3 % Inflation halbiert sich die Kaufkraft von Bargeld in ~23 Jahren – ganz ohne Crash."},
+    {"label": "Aktie = Sachwert", "value": "Firmen geben Inflation über höhere Preise weiter; Umsatz/Gewinn/Kurs steigen nominal mit."},
+    {"label": "Der reale Teil zählt", "value": "Weltaktien historisch ~5–7 % real pro Jahr – das ist der Zuwachs ÜBER die Inflation hinaus.", "source": "Dimson/Marsh/Staunton"},
+    {"label": "Kurzfrist-Warnung", "value": "In Inflationsschocks mit steigenden Zinsen können Aktien zunächst fallen; der Schutz wirkt langfristig, nicht als Tagesgarantie."}
+  ],
+  "misconceptions": [
+    "'Mein Sparbuch wächst, also werde ich reicher.' – Nominal ja, real oft nein, wenn die Inflation höher ist als der Zins.",
+    "'8 % Rendite sind 8 % mehr Wohlstand.' – Nein, bei 3 % Inflation sind es real nur ~5 %.",
+    "'Aktien schützen sofort vor Inflation.' – Langfristig ja, kurzfristig können sie in Zinsschocks erst fallen."
+  ],
+  "related": ["wirtschaftswachstum-real", "warum-aktien-langfristig-steigen", "sind-etfs-sicher", "notgroschen-zuerst"],
+  "sources": [
+    {"title": "Bundesbank: Inflation und Kaufkraft (Erklärungen)", "url": "https://www.bundesbank.de/de/aufgaben/preisstabilitaet"},
+    {"title": "UBS Global Investment Returns Yearbook", "url": "https://www.ubs.com/global/en/investment-bank/in-focus/2023/global-investment-returns-yearbook.html"}
+  ]
+}

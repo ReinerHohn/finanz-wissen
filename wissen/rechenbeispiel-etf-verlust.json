@@ -1,0 +1,26 @@
+{
+  "id": "rechenbeispiel-etf-verlust",
+  "name": "Rechenbeispiel: Firma stürzt ab – wie viel verliert der ETF?",
+  "aka": ["Nokia-Rechnung", "Gewicht schrumpft ohne Verkauf", "Zahlenbeispiel"],
+  "category": "ETF-Grundlagen",
+  "evidence_level": "A",
+  "tags": ["rechenbeispiel", "verlust", "gewichtung", "nokia", "sektor", "zahlen"],
+  "summary": "Konkrete Zahlen zu zwei Effekten, die oft verwechselt werden: (1) Wenn eine Firma abstürzt, verlierst du nur ihren Anteil am ETF – nicht alles. (2) Der Anteil einer Firma kann relativ schrumpfen, OHNE dass etwas verkauft wird, nur weil andere im Kurs steigen.",
+  "kernidee": "Dein Verlust = nur der Anteil, den die Firma bei dir hatte. Und Anteile schrumpfen meist rein rechnerisch über den Kurs, nicht durch Verkauf.",
+  "deep_dive": "BEISPIEL 1 – Absturz einer Firma. Mini-Index aus 5 Firmen, je 200 €, Gesamtwert 1.000 €; Nokia = 20 % Anteil. Nokia stürzt um 90 % ab (200 € -> 20 €). Der Index rechnet sich automatisch neu: Gesamtwert 820 €, Nokia jetzt nur noch 20/820 = 2,4 %. Dein Verlust: Der Nokia-Teil fiel von 200 € auf 20 € = -180 €. Der Rest (800 €) ist unberührt. ETF: 1.000 € -> 820 € = -18 %. Nokia machte -90 %, dein ETF nur -18 % – weil Nokia ein Fünftel war. In einem echten MSCI World mit ~1.500 Firmen wäre so eine Firma vielleicht 0,3 % groß: Pleite = -0,3 %, kaum spürbar. BEISPIEL 2 – schrumpfen ohne verkaufen. Index aus 2 Sektoren, je 500 €. Tech verdreifacht sich (500 € -> 1.500 €), Öl bleibt bei 500 €. Neuer Gesamtwert 2.000 €: Öl jetzt 500/2.000 = 25 % (vorher 50 %), Tech 75 %. Öl ist immer noch 500 € wert – kein Euro verkauft – aber sein Anteil halbierte sich, nur weil Tech stieg. Genau so wurden alte Ölwerte im Index über die Jahrzehnte 'kleiner': nicht rausgeworfen, sondern relativ überholt.",
+  "key_facts": [
+    {"label": "Verlust = Anteil × Kursverfall", "value": "Bei 20 % Gewicht und -90 % Kurs: -18 % im ETF. Bei 0,3 % Gewicht und -100 %: -0,3 %."},
+    {"label": "Schrumpfen ohne Verkauf", "value": "Öl 500 € bleibt 500 €, fällt aber von 50 % auf 25 % Anteil – allein weil Tech stieg. Keine Transaktion nötig."},
+    {"label": "Automatische Neurechnung", "value": "Anteil = Firmenwert ÷ Summe aller Werte. Ändert sich ein Kurs, ändern sich alle Anteile von selbst."},
+    {"label": "Breite = Schutz", "value": "Je mehr Firmen, desto kleiner jeder Einzelanteil – desto weniger tut eine Pleite weh."}
+  ],
+  "misconceptions": [
+    "'Wenn eine Firma -90 % macht, verliere ich -90 %.' – Nein, nur anteilig (im Beispiel -18 %, real oft Bruchteile eines Prozents).",
+    "'Öl wurde verkauft, um Tech zu kaufen.' – Nein, Öls Anteil sank, weil Techs KURS stieg; verkauft wird nur beim Index-Rauswurf.",
+    "'Ein steigender Sektor bedeutet, der ETF kauft dort nach.' – Das Gewicht steigt automatisch über den Kurs, ohne Nachkauf."
+  ],
+  "related": ["marktkapitalisierung-gewichtung", "index-aufnahme-und-ausschluss", "verkauft-ein-etf-aktien", "diversifikation-vs-marktrisiko"],
+  "sources": [
+    {"title": "MSCI: Index-Methodik (Marktkapitalisierungs-Gewichtung)", "url": "https://www.msci.com/index-methodology"}
+  ]
+}
