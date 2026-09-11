@@ -1,0 +1,27 @@
+{
+  "id": "aktiv-vs-passiv",
+  "name": "Aktive Fonds vs. Index-ETF: Warum 'passiv' meist gewinnt",
+  "aka": ["Aktiv vs Passiv", "Stockpicking", "SPIVA"],
+  "category": "Kosten",
+  "evidence_level": "A",
+  "tags": ["aktiv", "passiv", "spiva", "fondsmanager", "kosten"],
+  "summary": "Ein aktiver Fonds versucht, durch Auswahl 'besserer' Aktien den Markt zu schlagen. Die Daten über Jahrzehnte sind eindeutig: Nach Kosten schafft das nur eine Minderheit, und über lange Zeiträume schlägt fast keiner dauerhaft seinen Vergleichsindex. Ein billiger Index-ETF nimmt einfach den Marktdurchschnitt mit – und liegt damit langfristig vor der Mehrheit der Profis.",
+  "kernidee": "Den Markt zu schlagen ist möglich, aber selten und selten dauerhaft. Der Durchschnitt (Index) zu sein, schlägt nach Kosten die meisten Aktiven.",
+  "deep_dive": "Der Grund ist teils simpel-mathematisch (William Sharpe, 'Arithmetic of Active Management'): Alle Anleger zusammen sind der Markt, also ist die Durchschnittsrendite aller Aktiven vor Kosten gleich dem Markt – und nach ihren höheren Kosten zwangsläufig darunter. Die SPIVA-Studien von S&P bestätigen das seit Jahren: Über 10–15 Jahre schlagen 80–90 % der aktiven Aktienfonds ihren Vergleichsindex NICHT. Dazu kommt: Wer heute vorn liegt, ist es morgen selten noch ('keine Persistenz') – Vergangenheits-Ranglisten helfen kaum bei der Auswahl. Das heißt nicht, dass Können nicht existiert; es ist nur teuer, schwer im Voraus zu erkennen und wird von Gebühren aufgefressen. Für Privatanleger ist die robuste Schlussfolgerung: breit, billig, passiv – statt auf den einen Star-Fonds zu wetten.",
+  "key_facts": [
+    {"label": "Langfrist-Bilanz", "value": "Über 10–15 Jahre schlagen rund 80–90 % der aktiven Aktienfonds ihren Index nicht.", "source": "S&P SPIVA Scorecards"},
+    {"label": "Sharpe-Argument", "value": "Der Durchschnitt aller Aktiven ist vor Kosten = Markt; nach Kosten zwangsläufig darunter.", "source": "Sharpe 1991, 'Arithmetic of Active Management'"},
+    {"label": "Keine Persistenz", "value": "Heutige Top-Fonds bleiben selten oben – Vergangenheitsrenditen sagen kaum Zukunft voraus."},
+    {"label": "Survivorship Bias", "value": "Schlechte Fonds werden geschlossen/verschmolzen; Ranglisten sehen dadurch besser aus als die Realität war."}
+  ],
+  "misconceptions": [
+    "'Profis schlagen doch sicher den Markt.' – Die Mehrheit tut es nach Kosten langfristig nicht.",
+    "'Ich nehme einfach den Fonds mit der besten 5-Jahres-Rendite.' – Kaum ein Prädiktor; Gewinner wechseln ständig.",
+    "'Passiv heißt, ich verzichte auf Rendite.' – Passiv nimmt den Marktschnitt und liegt damit vor den meisten Aktiven."
+  ],
+  "related": ["ter-und-kosten", "was-ist-ein-etf", "welt-etf-auswaehlen"],
+  "sources": [
+    {"title": "S&P SPIVA Scorecards", "url": "https://www.spglobal.com/spdji/en/research-insights/spiva/"},
+    {"title": "Sharpe: The Arithmetic of Active Management (1991)", "url": "https://web.stanford.edu/~wfsharpe/art/active/active.htm"}
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "sparplan-vs-einmalanlage",
+  "name": "Einmal alles anlegen oder gestückelt (Sparplan)?",
+  "aka": ["Lump Sum vs Cost Averaging", "Sparplan", "Durchschnittskosteneffekt"],
+  "category": "Praxis / Erste Schritte",
+  "evidence_level": "B",
+  "tags": ["sparplan", "einmalanlage", "cost-averaging", "psychologie", "timing"],
+  "summary": "Du hast Geld, das lange herumliegt, und fragst dich: alles auf einmal investieren oder über Monate verteilen? Statistisch gewinnt meistens die Einmalanlage, weil Märkte im Schnitt steigen und wartendes Geld Rendite verpasst. Psychologisch ist das gestückelte Einsteigen (z. B. über 6–12 Monate) oft leichter durchzuhalten und schützt vor dem Gefühl, 'genau am Hoch' eingestiegen zu sein.",
+  "kernidee": "Mathe favorisiert leicht die Einmalanlage; Nerven favorisieren das Verteilen. Beide sind vernünftig – Hauptsache, du bleibst dabei.",
+  "deep_dive": "Vanguard und andere haben gezeigt: In der Mehrzahl der historischen Zeiträume (~zwei Drittel) hätte eine sofortige Einmalanlage besser abgeschnitten als gestückeltes Einzahlen – schlicht, weil Aktienmärkte im langfristigen Mittel steigen und jeder Monat 'draußen' im Schnitt Rendite kostet. Der Durchschnittskosteneffekt ('Cost Averaging') ist also KEIN Renditetrick, sondern ein Risiko- und Psychologie-Werkzeug: Er glättet den Einstiegskurs und senkt die Reue, falls kurz nach dem Einstieg ein Crash kommt. Für eine große Summe, die dich nervös macht, ist ein Kompromiss üblich und sinnvoll: einen Teil sofort investieren, den Rest über z. B. 6–12 Monate automatisiert einzahlen. Wichtig: Das ist kein Markt-Timing – du versuchst nicht, den Tiefpunkt zu erraten, sondern nimmst dir nur die Angst vor dem einen falschen Tag. Wer ohnehin monatlich aus dem Einkommen spart, macht sowieso automatisch einen Sparplan.",
+  "key_facts": [
+    {"label": "Statistik", "value": "Einmalanlage schlug gestückeltes Einzahlen historisch in ~2 von 3 Fällen.", "source": "Vanguard: Dollar-Cost Averaging vs Lump Sum"},
+    {"label": "Warum", "value": "Märkte steigen im langen Mittel; wartendes Geld verpasst diese Aufwärtsdrift."},
+    {"label": "Cost Averaging ist Psychologie", "value": "Kein Rendite-Trick, sondern Schutz vor Einstiegs-Reue und ein Weg, überhaupt anzufangen."},
+    {"label": "Praktischer Kompromiss", "value": "Große Summe: z. B. ein Drittel bis Hälfte sofort, Rest automatisiert über 6–12 Monate."},
+    {"label": "Kein Timing", "value": "Nicht auf den 'richtigen Moment' warten – Zeit im Markt schlägt Timing des Marktes."}
+  ],
+  "misconceptions": [
+    "'Sparplan bringt durch den Durchschnittskosteneffekt mehr Rendite.' – Nein, er senkt vor allem Risiko und Reue.",
+    "'Ich warte auf den Crash und steige dann ein.' – Warten kostet im Schnitt Rendite; den Tiefpunkt trifft fast niemand.",
+    "'Alles auf einmal ist immer klüger.' – Statistisch meist, aber wenn dich das lähmt, ist Stückeln besser als gar nicht."
+  ],
+  "related": ["sind-etfs-sicher", "notgroschen-zuerst", "welt-etf-auswaehlen"],
+  "sources": [
+    {"title": "Vanguard: Cost averaging vs lump-sum investing", "url": "https://corporate.vanguard.com/content/dam/corp/research/pdf/cost_averaging_invest_now_or_temporarily_hold_your_cash.pdf"}
+  ]
+}

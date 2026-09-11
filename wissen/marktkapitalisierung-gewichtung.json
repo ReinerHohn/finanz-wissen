@@ -1,0 +1,28 @@
+{
+  "id": "marktkapitalisierung-gewichtung",
+  "name": "Wie ein ETF gewichtet – und warum Verlierer von selbst verschwinden",
+  "aka": ["Marktkapitalisierung", "Cap-weighted", "Selbstreinigung des Index"],
+  "category": "ETF-Grundlagen",
+  "evidence_level": "A",
+  "tags": ["gewichtung", "marktkapitalisierung", "rebalancing", "nokia", "risiko"],
+  "summary": "Ein normaler Index-ETF gewichtet jede Firma nach ihrem Börsenwert (Kurs × Anzahl Aktien), NICHT nach Umsatz oder Gewinn. Das hat eine wichtige Folge: Wenn eine Firma abstürzt, schrumpft ihr Anteil im ETF ganz von selbst mit – der ETF muss nichts aktiv verkaufen, um sie kleiner zu machen. Große Gewinner wachsen automatisch, Verlierer verhungern automatisch.",
+  "kernidee": "Der Kurs steuert das Gewicht automatisch. Eine abstürzende Firma wird nicht 'verkauft' – ihr Anteil sinkt einfach mit dem Kurs Richtung null.",
+  "deep_dive": "Beispiel Nokia: Um 2000 war Nokia die wertvollste Firma Europas und machte mehrere Prozent eines Europa-Index aus. Als das Smartphone-Geschäft einbrach, fiel der Kurs – und damit sank Nokias Anteil im Index automatisch: von ~4 % auf 2 %, auf 0,3 %, auf fast null. Niemand musste eine Entscheidung treffen. Der Verlust wurde dabei NICHT weggezaubert: Wer den Index hielt, hat den Absturz mitgemacht – aber immer nur mit dem Anteil, den Nokia gerade noch hatte. Genau das ist der Schutz: In einem MSCI World mit ~1.500 Firmen ist keine einzelne Firma groß genug, um dich ernsthaft zu ruinieren. Wichtig zur Einordnung: Der Index schaut NICHT auf Umsatz oder Gewinn. Eine Firma mit Rekordumsatz, deren Aktie aber fällt, bekommt automatisch weniger Gewicht – weil nur der Börsenwert zählt. Umgekehrt wächst ein neuer Star (z. B. Nvidia) automatisch in den Index hinein, während er steigt.",
+  "key_facts": [
+    {"label": "Gewicht = Börsenwert", "value": "Anteil einer Firma = ihr Börsenwert ÷ Summe aller Börsenwerte im Index. Kurs runter → Anteil runter, ganz ohne Eingriff."},
+    {"label": "Umsatz zählt NICHT", "value": "Ein cap-gewichteter Index bewertet nach Marktpreis, nicht nach Fundamentaldaten wie Umsatz oder Gewinn. Der Markt 'stimmt' über den Kurs ab."},
+    {"label": "Automatische Selbstreinigung", "value": "Verlierer schrumpfen von selbst gegen null; Gewinner wachsen von selbst. Der ETF folgt nur der Gewichtung."},
+    {"label": "Kein Rundum-Schutz", "value": "Der Verlust einer fallenden Firma wird mitgetragen – aber nur anteilig. Bei breiter Streuung ist der Einzelbeitrag klein."},
+    {"label": "Nokia-Detail", "value": "Nokia ist finnisch und war in Europa-/Welt-Indizes, nicht im US-S&P 100. Das Prinzip ist überall gleich (vgl. Enron, Lehman, Wirecard)."}
+  ],
+  "misconceptions": [
+    "'Der ETF verkauft eine abstürzende Firma sofort, um mich zu schützen.' – Nein, der Anteil schrumpft passiv mit dem Kurs; verkauft wird erst beim Rausschmiss aus dem Index (siehe index-aufnahme-und-ausschluss).",
+    "'Firmen mit hohem Umsatz sind im ETF stärker gewichtet.' – Nein, nur der Börsenwert zählt.",
+    "'Eine Pleite kann meinen ETF ruinieren.' – Bei breiter Streuung trägt eine einzelne Firma nur wenige Prozent oder Bruchteile davon."
+  ],
+  "related": ["was-ist-ein-etf", "index-aufnahme-und-ausschluss", "diversifikation-vs-marktrisiko"],
+  "sources": [
+    {"title": "MSCI: Index-Methodik (Marktkapitalisierungs-Gewichtung)", "url": "https://www.msci.com/index-methodology"},
+    {"title": "S&P Dow Jones: Float-Adjusted Market Cap Weighting", "url": "https://www.spglobal.com/spdji/en/education/"}
+  ]
+}

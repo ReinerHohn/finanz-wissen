@@ -1,0 +1,28 @@
+{
+  "id": "index-aufnahme-und-ausschluss",
+  "name": "Rebalancing: Wann kauft und verkauft ein ETF wirklich?",
+  "aka": ["Index-Review", "Rebalancing", "Aufnahme und Ausschluss"],
+  "category": "ETF-Grundlagen",
+  "evidence_level": "A",
+  "tags": ["rebalancing", "index-review", "verkauf", "aufnahme", "kosten"],
+  "summary": "Ein ETF handelt aktiv nur zu festen Terminen (meist quartalsweise), wenn der Index-Anbieter seine Liste überarbeitet: Firmen, die zu klein/unbedeutend geworden sind, fliegen raus und werden verkauft; neue kommen rein und werden gekauft. Zwischen diesen Terminen passiert die Gewichtung automatisch über die Kurse (siehe marktkapitalisierung-gewichtung).",
+  "kernidee": "Verkauft wird eine abgestürzte Firma erst beim planmäßigen Index-Review – und dann ist ihr Gewicht längst fast null. Der eigentliche Verlust ist da schon 'durch'.",
+  "deep_dive": "Der Index-Anbieter (MSCI, S&P, FTSE) prüft in regelmäßigen Reviews, welche Firmen die Aufnahmekriterien noch erfüllen: Mindest-Börsenwert, Streubesitz (frei handelbarer Anteil), Handelsvolumen, Börsenland. Erfüllt eine Firma sie nicht mehr, wird sie zum Stichtag entfernt – der ETF verkauft dann die letzten (kleinen) Restbestände und kauft dafür den Neuzugang. Weil die abstürzende Firma bis dahin schon fast kein Gewicht mehr hat, kostet dieser Verkauf kaum noch etwas – der Wertverlust ist längst passiert, während der Kurs fiel. Genau deshalb hilft es nichts, auf ein 'rechtzeitiges Verkaufen durch den ETF' zu hoffen: Der Schutz kommt nicht aus dem Timing des Verkaufs, sondern aus der breiten Streuung. Kritische Sonderfälle (Übernahme, Insolvenz, Delisting) werden außerplanmäßig behandelt, damit der ETF sauber weiterläuft.",
+  "key_facts": [
+    {"label": "Termine", "value": "Große Indizes werden meist vierteljährlich überprüft (MSCI: Februar, Mai, August, November), manche jährlich."},
+    {"label": "Aufnahmekriterien", "value": "Mindest-Börsenwert, Streubesitz, Liquidität/Handelsvolumen, Börsensitz. Fällt eine Firma darunter, wird sie entfernt."},
+    {"label": "Verkauf = spät und klein", "value": "Beim Rauswurf ist das Gewicht der Firma meist schon winzig – der Verlust ist während des Kursverfalls entstanden, nicht erst beim Verkauf."},
+    {"label": "Umschichtungskosten", "value": "Häufiges Rebalancing verursacht Handelskosten. Deshalb sind ruhige, breite Indizes (wenig Umschlag) tendenziell günstiger und effizienter."},
+    {"label": "Sonderfälle", "value": "Übernahmen, Fusionen, Insolvenzen oder Delistings werden außerplanmäßig abgewickelt."}
+  ],
+  "misconceptions": [
+    "'Der ETF steigt clever aus, bevor eine Firma abstürzt.' – Nein, er reagiert erst beim planmäßigen Review, wenn das Gewicht schon fast null ist.",
+    "'Rebalancing macht mich reicher, weil billig gekauft/teuer verkauft wird.' – Bei cap-gewichteten Indizes ist Rebalancing überwiegend Wartung, kein Renditemotor; es verursacht sogar Kosten.",
+    "'Ich muss selbst umschichten.' – Nein, das erledigt der ETF automatisch nach der Index-Regel."
+  ],
+  "related": ["marktkapitalisierung-gewichtung", "was-ist-ein-etf", "diversifikation-vs-marktrisiko"],
+  "sources": [
+    {"title": "MSCI Index Review Termine & Methodik", "url": "https://www.msci.com/our-solutions/indexes/index-review"},
+    {"title": "S&P Dow Jones Indices – Methodology", "url": "https://www.spglobal.com/spdji/en/documents/methodologies/"}
+  ]
+}

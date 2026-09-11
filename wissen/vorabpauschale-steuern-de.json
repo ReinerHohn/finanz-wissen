@@ -1,0 +1,28 @@
+{
+  "id": "vorabpauschale-steuern-de",
+  "name": "ETF-Steuern in Deutschland: Abgeltungsteuer, Freibetrag & Vorabpauschale",
+  "aka": ["Abgeltungsteuer", "Sparerpauschbetrag", "Vorabpauschale", "Teilfreistellung"],
+  "category": "Steuern (DE)",
+  "evidence_level": "B",
+  "tags": ["steuern", "abgeltungsteuer", "vorabpauschale", "freibetrag", "deutschland"],
+  "summary": "In Deutschland fallen auf ETF-Gewinne rund 26,4 % Abgeltungsteuer an (25 % + Soli, ggf. + Kirchensteuer). Der Sparerpauschbetrag stellt 1.000 € Kapitalerträge pro Person und Jahr steuerfrei (2.000 € bei Paaren). Bei Aktien-ETFs sind zusätzlich 30 % der Erträge steuerfrei (Teilfreistellung). Für thesaurierende Fonds gibt es die 'Vorabpauschale', damit auch nicht ausgezahlte Erträge laufend – aber gering – besteuert werden.",
+  "kernidee": "Steuern erst beim Gewinn, ein Freibetrag hilft, und die Vorabpauschale ist meist ein kleiner Vorab-Happen, der später verrechnet wird. Kein Grund zur Angst, aber Freistellungsauftrag nicht vergessen.",
+  "deep_dive": "Gewinne aus ETFs (realisierte Kursgewinne + Ausschüttungen) unterliegen der Abgeltungsteuer von 25 % plus 5,5 % Soli darauf (= 26,375 %), ggf. plus Kirchensteuer. Zwei Erleichterungen: (1) Der Sparerpauschbetrag von 1.000 € je Person und Jahr bleibt steuerfrei – dafür beim Broker einen Freistellungsauftrag einrichten, sonst wird zu viel einbehalten. (2) Bei Aktienfonds sind 30 % der Erträge per Teilfreistellung steuerfrei, um die Vorbelastung im Fonds auszugleichen. Die Vorabpauschale betrifft vor allem thesaurierende Fonds: Da hier nichts ausgezahlt wird, würde ohne sie über Jahrzehnte gar keine Steuer anfallen. Deshalb wird jährlich ein kleiner fiktiver Mindestertrag (abgeleitet aus einem Basiszins × Fondswert, gedeckelt durch die tatsächliche Wertsteigerung) besteuert – oft nur wenige Euro, in Verlustjahren null. Diese bereits gezahlte Steuer wird beim späteren Verkauf angerechnet, du zahlst also nichts doppelt. Bei einem inländischen Broker wird das meist automatisch abgeführt. Hinweis: Steuerregeln ändern sich – das ist eine Orientierung, keine Steuerberatung.",
+  "key_facts": [
+    {"label": "Steuersatz", "value": "25 % Abgeltungsteuer + 5,5 % Soli = 26,375 % (ggf. + Kirchensteuer), auf Gewinne."},
+    {"label": "Sparerpauschbetrag", "value": "1.000 € pro Person/Jahr steuerfrei (2.000 € zusammenveranlagt) – Freistellungsauftrag beim Broker stellen!"},
+    {"label": "Teilfreistellung", "value": "Bei Aktien-ETFs sind 30 % der Erträge steuerfrei."},
+    {"label": "Vorabpauschale", "value": "Kleiner jährlicher Vorab-Steuerhappen auf thesaurierende Fonds (Basiszins-basiert, durch Wertzuwachs gedeckelt); null in Verlustjahren; wird beim Verkauf angerechnet."},
+    {"label": "Automatik", "value": "Inländische Broker führen Abgeltungsteuer und Vorabpauschale meist automatisch ab."}
+  ],
+  "misconceptions": [
+    "'Thesaurierend = steuerfrei bis zum Verkauf.' – Nein, die Vorabpauschale greift laufend (aber gering).",
+    "'Die Vorabpauschale ist eine Doppelbesteuerung.' – Nein, sie wird beim Verkauf angerechnet.",
+    "'Ohne Freistellungsauftrag ist es egal.' – Dann wird ab dem ersten Euro Steuer einbehalten, obwohl 1.000 € frei wären (rückholbar nur über die Steuererklärung)."
+  ],
+  "related": ["thesaurierend-vs-ausschuettend", "ter-und-kosten", "welt-etf-auswaehlen"],
+  "sources": [
+    {"title": "Bundesfinanzministerium: Investmentsteuerreform / Vorabpauschale", "url": "https://www.bundesfinanzministerium.de/"},
+    {"title": "Finanztip: ETF-Steuern & Vorabpauschale", "url": "https://www.finanztip.de/indexfonds-etf/etf-steuer/"}
+  ]
+}

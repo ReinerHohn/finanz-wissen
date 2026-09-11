@@ -1,0 +1,28 @@
+{
+  "id": "ter-und-kosten",
+  "name": "Kosten: TER, Spread & warum billig langfristig gewinnt",
+  "aka": ["Total Expense Ratio", "laufende Kosten", "Spread", "Tracking Difference"],
+  "category": "Kosten",
+  "evidence_level": "A",
+  "tags": ["ter", "kosten", "gebuehren", "spread", "tracking-difference"],
+  "summary": "Kosten sind das Einzige an der Geldanlage, das du sicher kontrollieren kannst – die Rendite nicht. Die wichtigste Zahl ist die TER (Gesamtkostenquote, laufende Fondskosten pro Jahr). Bei breiten ETFs liegt sie bei 0,1–0,25 %. Klingt winzig, macht aber über Jahrzehnte durch den Zinseszins einen großen Unterschied gegenüber aktiven Fonds (~1,5 %).",
+  "kernidee": "Rendite ist ungewiss, Kosten sind sicher. Jeder gesparte Prozentpunkt Gebühr landet direkt in deiner Rendite.",
+  "deep_dive": "Die TER wird laufend intern vom Fondsvermögen abgezogen – du siehst sie nicht als Rechnung, sie steckt schon im Kurs. Über 30 Jahre frisst 1 % mehr Gebühr grob 20–25 % des Endvermögens weg, weil die Kosten jedes Jahr auch auf den entgangenen Zinseszins wirken. Genau das ist der Hauptgrund, warum die meisten aktiven Fonds nach Kosten schlechter abschneiden als ein billiger Index-ETF: Sie müssten ihre höheren Gebühren erst durch Können wieder hereinholen, was langfristig kaum einem gelingt (siehe aktiv-vs-passiv). Neben der TER gibt es zwei weitere Kostenquellen: den Spread (Differenz zwischen Kauf- und Verkaufskurs, klein bei großen liquiden ETFs) und Ordergebühren des Brokers (viele bieten kostenlose Sparpläne). Ein oft besseres Maß als die TER ist die 'Tracking Difference' – wie weit der ETF tatsächlich hinter seinem Index zurückblieb; sie enthält alle realen Kosten und manchmal sogar Zusatzerträge (z. B. aus Wertpapierleihe).",
+  "key_facts": [
+    {"label": "TER breiter ETFs", "value": "0,10–0,25 % pro Jahr; aktive Aktienfonds oft ~1,5 %.", "source": "Anbieter-Factsheets"},
+    {"label": "Zinseszins-Effekt", "value": "Über ~30 Jahre kann 1 % mehr Gebühr grob 20–25 % weniger Endvermögen bedeuten."},
+    {"label": "Spread", "value": "Kauf-/Verkaufsdifferenz; bei großen, liquiden Welt-ETFs sehr klein – am größten außerhalb der Haupthandelszeiten."},
+    {"label": "Ordergebühr", "value": "Broker-abhängig; viele bieten kostenlose Sparpläne auf gängige ETFs."},
+    {"label": "Tracking Difference", "value": "Aussagekräftiger als TER: die reale Abweichung vom Index über ein Jahr, inkl. aller Effekte."}
+  ],
+  "misconceptions": [
+    "'0,2 % gegen 1,5 % ist doch egal.' – Über Jahrzehnte ist das ein großer Unterschied im Endvermögen.",
+    "'Teurer aktiver Fonds = bessere Leistung.' – Meist umgekehrt: Nach Kosten verliert die Mehrheit gegen den Index.",
+    "'Die TER ist eine Rechnung, die ich zahle.' – Nein, sie wird laufend intern abgezogen und steckt schon im Kurs."
+  ],
+  "related": ["was-ist-ein-etf", "aktiv-vs-passiv", "welt-etf-auswaehlen"],
+  "sources": [
+    {"title": "SPIVA – Aktive Fonds vs Index (S&P)", "url": "https://www.spglobal.com/spdji/en/research-insights/spiva/"},
+    {"title": "Verbraucherzentrale: ETF-Kosten", "url": "https://www.verbraucherzentrale.de/wissen/geldanlage/etf"}
+  ]
+}

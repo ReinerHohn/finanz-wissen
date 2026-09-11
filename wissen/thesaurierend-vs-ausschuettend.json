@@ -1,0 +1,27 @@
+{
+  "id": "thesaurierend-vs-ausschuettend",
+  "name": "Thesaurierend vs. ausschüttend",
+  "aka": ["Accumulating vs Distributing", "Acc vs Dist", "Dividenden-Wiederanlage"],
+  "category": "ETF-Grundlagen",
+  "evidence_level": "A",
+  "tags": ["thesaurierend", "ausschuettend", "dividenden", "zinseszins", "acc", "dist"],
+  "summary": "ETFs gibt es in zwei Varianten. Thesaurierend (acc): Dividenden werden automatisch im Fonds wieder angelegt – der Anteilswert wächst, du bekommst nichts ausgezahlt. Ausschüttend (dist): Dividenden werden dir aufs Konto überwiesen. Fürs langfristige Vermögensaufbauen ist thesaurierend meist bequemer (automatischer Zinseszins, kein Wiederanlegen nötig).",
+  "kernidee": "Gleicher Index, nur was mit den Dividenden passiert, unterscheidet sich: automatisch reinvestiert (acc) oder ausgezahlt (dist).",
+  "deep_dive": "Beide Varianten bilden denselben Index ab, die Rendite vor Steuern ist praktisch gleich. Der Unterschied ist der Umgang mit Dividenden. Thesaurierend legt sie sofort und kostenlos wieder an – das ist der Zinseszinseffekt auf Autopilot und ideal, wenn du in der Ansparphase bist und das Geld nicht brauchst. Ausschüttend zahlt sie aus – praktisch, wenn du später ein regelmäßiges Einkommen aus dem Depot ziehen willst, oder um in Deutschland gezielt den jährlichen Sparerpauschbetrag (1.000 €/Person steuerfrei) auszunutzen. Steuerlich (DE) gibt es seit 2018 kaum noch einen Nachteil für thesaurierende Fonds, weil die Vorabpauschale dafür sorgt, dass auch nicht ausgezahlte Erträge laufend versteuert werden (siehe vorabpauschale-steuern-de). Für die meisten in der Aufbauphase ist thesaurierend die einfachste Wahl.",
+  "key_facts": [
+    {"label": "Thesaurierend (acc)", "value": "Dividenden werden automatisch im Fonds reinvestiert; Anteilswert steigt, keine Auszahlung. Bequem fürs Ansparen."},
+    {"label": "Ausschüttend (dist)", "value": "Dividenden landen auf deinem Konto. Gut für regelmäßiges Einkommen oder zum Ausnutzen des Sparerpauschbetrags."},
+    {"label": "Rendite gleich", "value": "Vor Steuern liefern beide dasselbe – solange bei 'dist' die Ausschüttungen wieder angelegt werden."},
+    {"label": "Steuer DE", "value": "Seit 2018 kein echter Steuernachteil für acc: die Vorabpauschale besteuert laufend auch nicht ausgezahlte Erträge."},
+    {"label": "Erkennung", "value": "Im Namen oft 'Acc'/'(C)' vs 'Dist'/'(D)'; steht auch im Factsheet."}
+  ],
+  "misconceptions": [
+    "'Ausschüttend bringt mehr, weil ich Dividenden bekomme.' – Nein, bei 'acc' stecken sie im höheren Kurs; Gesamtrendite ist gleich.",
+    "'Thesaurierend spare ich Steuern.' – In DE seit 2018 nicht mehr wesentlich (Vorabpauschale).",
+    "'Dividenden sind Extra-Gewinn.' – Der Kurs sinkt am Ausschüttungstag um die Dividende; es ist keine geschenkte Rendite."
+  ],
+  "related": ["was-ist-ein-etf", "vorabpauschale-steuern-de", "ter-und-kosten"],
+  "sources": [
+    {"title": "Verbraucherzentrale: ETF – ausschüttend oder thesaurierend", "url": "https://www.verbraucherzentrale.de/wissen/geldanlage/etf"}
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "welt-etf-auswaehlen",
+  "name": "Einen breiten Welt-ETF auswählen (Praxis)",
+  "aka": ["MSCI World", "FTSE All-World", "ACWI", "1-ETF-Lösung"],
+  "category": "Praxis / Erste Schritte",
+  "evidence_level": "B",
+  "tags": ["msci-world", "ftse-all-world", "auswahl", "praxis", "index"],
+  "summary": "Für 'lange liegen lassen und breit gestreut' reicht in der Praxis oft ein einziger, breiter, weltweiter Aktien-ETF. Gängige Basis-Indizes: MSCI World (~1.500 Firmen, Industrieländer), FTSE All-World oder MSCI ACWI (inkl. Schwellenländer, ~3.700 bzw. ~2.900 Firmen). Achte auf: breiter Index, große Fondsgröße, niedrige TER, physisch replizierend, thesaurierend (fürs Ansparen).",
+  "kernidee": "Ein breiter Welt-ETF ist die einfache, robuste Standardlösung. Kompliziert wird es nur, wenn man es kompliziert macht.",
+  "deep_dive": "Die häufigste Einsteiger-Lösung ist ein einzelner Welt-ETF. MSCI World deckt ~23 Industrieländer ab (aber KEINE Schwellenländer und aktuell ~70 % USA-Gewicht). Wer auch Schwellenländer will, nimmt FTSE All-World oder MSCI ACWI – ein Produkt, das automatisch die ganze Welt inkl. China/Indien/Brasilien mitnimmt. Beides ist vertretbar; wichtiger als die Feinheit ist, überhaupt breit und günstig zu starten. Auswahl-Checkliste: (1) Index breit genug (Welt statt einzelnes Land/Branche). (2) Fondsvolumen groß (>500 Mio. €) – kleine ETFs werden eher geschlossen. (3) TER niedrig (≤0,25 %). (4) Replikation physisch (hält echte Aktien) statt synthetisch – einfacher zu verstehen. (5) Acc vs Dist nach Ziel (siehe thesaurierend-vs-ausschuettend). (6) Alter/Auflagedatum – ein paar Jahre Historie ist beruhigend. Achtung Modeprodukte: Themen-/Branchen-ETFs (KI, Wasserstoff, einzelne Länder) sind KEINE breite Streuung, sondern konzentrierte Wetten – für den Kern ungeeignet.",
+  "key_facts": [
+    {"label": "MSCI World", "value": "~1.500 Firmen, 23 Industrieländer, keine Schwellenländer, aktuell ~70 % USA."},
+    {"label": "FTSE All-World / MSCI ACWI", "value": "Inkl. Schwellenländer (~3.700 bzw. ~2.900 Firmen) – 'die ganze Welt in einem Produkt'."},
+    {"label": "Checkliste", "value": "Breiter Index · Volumen >500 Mio. € · TER ≤0,25 % · physisch replizierend · acc/dist nach Ziel · einige Jahre Historie."},
+    {"label": "Modeprodukte meiden", "value": "Themen-/Branchen-/Einzelland-ETFs sind Wetten, keine Streuung – nicht als Kern nehmen."},
+    {"label": "Optionaler Baustein", "value": "Wer Schwankung dämpfen will, ergänzt sichere Anlagen (Tagesgeld/kurze Anleihen) – die eigentliche Risiko-Stellschraube."}
+  ],
+  "misconceptions": [
+    "'Ich brauche viele verschiedene ETFs.' – Ein breiter Welt-ETF ist schon extrem gestreut; mehr Aktien-ETFs überlappen meist.",
+    "'Ein KI-/Themen-ETF ist besonders breit und modern.' – Nein, das ist eine konzentrierte Branchenwette.",
+    "'Der ETF mit der besten letzten Jahresrendite ist der beste.' – Vergangenheitsrendite ist kein verlässlicher Wegweiser."
+  ],
+  "related": ["diversifikation-vs-marktrisiko", "ter-und-kosten", "thesaurierend-vs-ausschuettend", "notgroschen-zuerst"],
+  "sources": [
+    {"title": "Finanztip: Welt-ETF / Basisanlage", "url": "https://www.finanztip.de/indexfonds-etf/"},
+    {"title": "Verbraucherzentrale: Mit ETF Vermögen aufbauen", "url": "https://www.verbraucherzentrale.de/wissen/geldanlage/etf"}
+  ]
+}

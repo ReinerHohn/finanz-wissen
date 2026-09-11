@@ -1,0 +1,28 @@
+{
+  "id": "sind-etfs-sicher",
+  "name": "Sind ETFs langfristig 'mathematisch sicher'?",
+  "aka": ["Renditedreieck", "langfristige Sicherheit", "Drawdown", "Aussitzen"],
+  "category": "Risiko & Sicherheit",
+  "evidence_level": "A",
+  "tags": ["sicherheit", "langfristig", "renditedreieck", "drawdown", "japan", "geduld"],
+  "summary": "Ehrliche Antwort: Nein, garantiert sicher sind ETFs nicht – aber breit gestreute Aktien-ETFs sind historisch die robusteste Form, langfristig real (nach Inflation) zu wachsen. Über sehr lange Zeiträume (15+ Jahre) hat ein breiter Welt-Index bisher immer Gewinn gemacht; auf kurze Sicht sind zwischenzeitliche Verluste von −40 bis −55 % völlig normal.",
+  "kernidee": "Nicht 'sicher wie ein Sparbuch', sondern 'sehr wahrscheinlich lohnend, WENN du lange genug (10–15+ Jahre) durchhältst'. Zeit ist der eigentliche Sicherheitsfaktor.",
+  "deep_dive": "Das 'Renditedreieck' des Deutschen Aktieninstituts zeigt für breite Indizes: Je länger die Haltedauer, desto seltener und kleiner die Verlustfälle. Für einen weltweit gestreuten Aktienindex gab es historisch keinen 15-Jahres-Zeitraum mit Verlust. Aber 'historisch' ist keine Garantie – und es gibt Warnbeispiele: Der japanische Nikkei erreichte sein Hoch von Ende 1989 erst wieder um 2024, also nach ~34 Jahren. Ein einzelnes Land kann also sehr lange am Boden liegen – genau deshalb streut man weltweit statt auf ein Land. Zwei Dinge machen das Risiko real: (1) Drawdowns – zwischenzeitliche Rückgänge von 40–55 % kamen mehrfach vor (2000, 2008, 2020) und fühlen sich schrecklich an; wer da panisch verkauft, macht den Verlust echt. (2) Sequenzrisiko – wann genau die Krise fällt, ist bei kurzem Horizont entscheidend. Fazit: 'Mathematisch sicher' im Sinne einer Garantie gibt es nicht. Was es gibt, ist eine sehr robuste Kombination: breit + billig + langfristig + Geld, das du nicht anfassen musst. Das ist der beste allgemein bekannte Kompromiss aus Rendite und Risiko.",
+  "key_facts": [
+    {"label": "Lange Haltedauer", "value": "Für einen breiten Welt-Aktienindex gab es historisch keinen 15-Jahres-Zeitraum mit Verlust – auf 1–5 Jahre sehr wohl.", "source": "Renditedreieck / MSCI-World-Historie"},
+    {"label": "Normale Drawdowns", "value": "Rückgänge von −40 bis −55 % traten mehrfach auf (2000–2003, 2007–2009, 2020) und erholten sich danach."},
+    {"label": "Langes-Leiden-Beispiel", "value": "Nikkei 225 (Japan): Hoch Ende 1989 erst um 2024 wieder erreicht – ein Grund, weltweit statt auf ein Land zu setzen."},
+    {"label": "Reale Rendite", "value": "Weltaktien lieferten langfristig grob ~5–7 % pro Jahr real (nach Inflation) – im Schnitt, nicht garantiert und nicht gleichmäßig.", "source": "Dimson/Marsh/Staunton, Credit Suisse/UBS Yearbook"},
+    {"label": "Das echte Risiko bist oft du", "value": "Der größte Renditeverlust entsteht durch Panikverkäufe im Tief und Nicht-durchhalten – nicht durch den Markt selbst."}
+  ],
+  "misconceptions": [
+    "'ETFs sind so sicher wie Tagesgeld.' – Nein, sie schwanken stark; das Sicherheitsgefühl kommt erst über lange Zeit.",
+    "'Wenn ich breit streue, kann ich nie verlieren.' – Das Marktrisiko bleibt; kurzfristig sind hohe Verluste möglich.",
+    "'Vergangene Rendite garantiert die Zukunft.' – Nein. Japan zeigt, dass Jahrzehnte Stillstand möglich sind – deshalb weltweit streuen."
+  ],
+  "related": ["diversifikation-vs-marktrisiko", "sparplan-vs-einmalanlage", "notgroschen-zuerst"],
+  "sources": [
+    {"title": "Deutsches Aktieninstitut – Renditedreieck", "url": "https://www.dai.de/rendite-dreieck/"},
+    {"title": "UBS Global Investment Returns Yearbook (Dimson/Marsh/Staunton)", "url": "https://www.ubs.com/global/en/investment-bank/in-focus/2023/global-investment-returns-yearbook.html"}
+  ]
+}

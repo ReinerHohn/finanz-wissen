@@ -1,0 +1,28 @@
+{
+  "id": "was-ist-ein-etf",
+  "name": "Was ist ein ETF?",
+  "aka": ["Exchange Traded Fund", "Indexfonds", "Passivfonds"],
+  "category": "ETF-Grundlagen",
+  "evidence_level": "A",
+  "tags": ["etf", "index", "grundlagen", "fonds", "diversifikation"],
+  "summary": "Ein ETF ist ein an der Börse handelbarer Korb aus vielen Aktien (oder Anleihen). Du kaufst mit einem einzigen Anteil einen winzigen Bruchteil von hunderten oder tausenden Firmen gleichzeitig. Ein ETF bildet meist einen Index nach (z. B. MSCI World, S&P 500) und wird deshalb 'passiv' verwaltet – kein Fondsmanager wählt Aktien aus, sondern eine feste Regel.",
+  "kernidee": "Ein Anteil = ein ganzer Firmenkorb. Du wettest nicht auf eine Firma, sondern besitzt einen Ausschnitt des ganzen Marktes.",
+  "deep_dive": "Ein Index (z. B. MSCI World) ist nur eine Liste von Firmen mit einer Rechenregel, wie stark jede Firma zählt. Der ETF-Anbieter (iShares, Vanguard, Xtrackers …) kauft die echten Aktien in genau diesen Verhältnissen und zerlegt das Ganze in viele kleine Anteile, die du wie eine einzelne Aktie an der Börse kaufst. Weil keine teuren Analysten Einzelaktien auswählen, sind die laufenden Kosten sehr niedrig (oft 0,1–0,25 % pro Jahr, siehe ter-und-kosten). Dein Anteil ist rechtlich Sondervermögen: geht der ETF-Anbieter pleite, gehören die Aktien weiter dir, sie sind vor den Gläubigern des Anbieters geschützt.",
+  "key_facts": [
+    {"label": "Streuung", "value": "Ein MSCI-World-ETF enthält ~1.400–1.500 Firmen aus 23 Industrieländern; ein FTSE All-World ~3.700 Firmen inkl. Schwellenländer."},
+    {"label": "Kosten", "value": "Typische Gesamtkostenquote (TER) 0,10–0,25 % pro Jahr – ein Bruchteil aktiver Fonds (~1,5 %).", "source": "TER-Angaben der Anbieter"},
+    {"label": "Handelbar", "value": "Kauf/Verkauf jederzeit während der Börsenzeiten, wie eine Aktie – anders als klassische Fonds, die nur einmal täglich abgerechnet werden."},
+    {"label": "Sondervermögen", "value": "Bei Anbieter-Pleite bleibt dein Anteil deiner – die Wertpapiere sind vom Vermögen des Anbieters getrennt."},
+    {"label": "Zwei Bauarten", "value": "Physisch (der ETF hält die echten Aktien) oder synthetisch (bildet den Index über einen Tauschvertrag/Swap nach). Für Einsteiger ist physisch üblicher und einfacher."}
+  ],
+  "misconceptions": [
+    "'Ein ETF ist eine Aktie.' – Nein, es ist ein Korb aus vielen Aktien.",
+    "'Ein Fondsmanager wählt clever die besten Aktien.' – Bei einem Index-ETF entscheidet eine feste Regel, kein Mensch.",
+    "'Wenn der ETF-Anbieter pleitegeht, ist mein Geld weg.' – Nein, es ist geschütztes Sondervermögen."
+  ],
+  "related": ["marktkapitalisierung-gewichtung", "diversifikation-vs-marktrisiko", "ter-und-kosten"],
+  "sources": [
+    {"title": "BaFin: Was sind ETFs?", "url": "https://www.bafin.de/DE/Verbraucher/GeldanlageWertpapiere/Investmentfonds/ETF/etf_node.html"},
+    {"title": "MSCI World Index (Übersicht)", "url": "https://www.msci.com/indexes/index/990100"}
+  ]
+}

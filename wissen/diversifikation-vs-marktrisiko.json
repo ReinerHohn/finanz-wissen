@@ -1,0 +1,28 @@
+{
+  "id": "diversifikation-vs-marktrisiko",
+  "name": "Was Streuung wegnimmt – und was nicht",
+  "aka": ["Diversifikation", "systematisches vs unsystematisches Risiko", "Klumpenrisiko"],
+  "category": "Risiko & Sicherheit",
+  "evidence_level": "A",
+  "tags": ["diversifikation", "risiko", "marktrisiko", "streuung", "korrelation"],
+  "summary": "Streuung über viele Firmen entfernt das Einzelfirmen-Risiko (eine Pleite tut kaum weh) – das ist der ganze Trick eines ETFs. Was Streuung NICHT entfernt, ist das Marktrisiko: Wenn der gesamte Markt fällt (Krise, Rezession, Zinsschock), fällt auch ein breiter ETF. Diese zweite Sorte Risiko lässt sich nur aussitzen, nicht wegdiversifizieren.",
+  "kernidee": "Diversifikation killt das vermeidbare Risiko (einzelne Firma) komplett – aber nicht das unvermeidbare (der ganze Markt).",
+  "deep_dive": "Man unterscheidet zwei Risiko-Arten. Das unsystematische (firmenspezifische) Risiko – schlechtes Management, Skandal, Pleite – lässt sich fast vollständig wegstreuen: Schon ab ~20–30 unterschiedlichen Firmen sinkt es stark, ein Welt-ETF mit >1.000 Firmen macht es praktisch bedeutungslos. Das systematische (Markt-)Risiko dagegen trifft alle gleichzeitig: In 2008 oder im März 2020 fiel fast jede Aktie, weil sich in der Krise die Kurse gemeinsam bewegen (Korrelationen gehen gegen 1). Genau deshalb kann dir ein ETF Drawdowns von −40 bis −55 % bescheren, obwohl er breit gestreut ist. Der einzige bekannte 'Schutz' dagegen ist Zeit (lange Haltedauer, siehe sind-etfs-sicher) und eine Aufteilung über Anlageklassen (z. B. Aktien + Anleihen/Tagesgeld), die sich nicht immer gleich bewegen. Mehr Aktien-ETFs zu kaufen hilft nicht – ein zweiter Welt-ETF streut nichts Neues.",
+  "key_facts": [
+    {"label": "Zwei Risiko-Arten", "value": "Unsystematisch (einzelne Firma) = wegstreubar. Systematisch (ganzer Markt) = bleibt."},
+    {"label": "Sättigung der Streuung", "value": "Der Großteil des Einzelfirmen-Risikos ist schon bei ~20–30 verschiedenen Firmen weg; darüber sinkt es nur noch langsam.", "source": "Portfoliotheorie (Markowitz/Statman)"},
+    {"label": "Krisen-Korrelation", "value": "In Crashs fallen fast alle Aktien gemeinsam – Streuung über Aktien allein hilft dann wenig."},
+    {"label": "Echte Streuung", "value": "Über Anlageklassen (Aktien + Anleihen/Tagesgeld) und Regionen, nicht über zwei ähnliche Aktien-ETFs."},
+    {"label": "Klumpenrisiko heute", "value": "Im MSCI World stecken ~70 % USA und die größten Tech-Firmen machen einen großen Teil aus – das ist ein realer Konzentrationspunkt, den viele unterschätzen."}
+  ],
+  "misconceptions": [
+    "'Mit einem ETF kann ich nichts verlieren.' – Doch: Das Marktrisiko bleibt, −50 % sind historisch möglich.",
+    "'Drei Aktien-ETFs streuen dreimal so gut.' – Meist überlappen sie sich stark; echte Streuung braucht andere Anlageklassen.",
+    "'Diversifikation erhöht die Rendite.' – Sie senkt das Risiko pro Renditeeinheit, sie ist kein Renditeverstärker."
+  ],
+  "related": ["marktkapitalisierung-gewichtung", "sind-etfs-sicher", "notgroschen-zuerst"],
+  "sources": [
+    {"title": "Statman: How Many Stocks Make a Diversified Portfolio?", "url": "https://www.jstor.org/stable/2330969"},
+    {"title": "BaFin: Risiken der Geldanlage", "url": "https://www.bafin.de/DE/Verbraucher/GeldanlageWertpapiere/geldanlage_node.html"}
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "notgroschen-zuerst",
+  "name": "Notgroschen zuerst – bevor du investierst",
+  "aka": ["Notreserve", "Emergency Fund", "Liquiditätspuffer"],
+  "category": "Praxis / Erste Schritte",
+  "evidence_level": "A",
+  "tags": ["notgroschen", "sicherheit", "tagesgeld", "erste-schritte", "liquiditaet"],
+  "summary": "Bevor Geld in einen ETF geht, gehört ein Notgroschen auf ein sicheres, jederzeit verfügbares Konto (Tagesgeld). Grund: Ein ETF kann genau dann tief im Minus stehen, wenn du das Geld dringend brauchst (Jobverlust, Reparatur). Der Notgroschen sorgt dafür, dass du nie im ungünstigsten Moment mit Verlust verkaufen musst.",
+  "kernidee": "Erst der Puffer, dann die Rendite. Der Notgroschen ist das, was dir erlaubt, den ETF in Ruhe liegen zu lassen und Krisen auszusitzen.",
+  "deep_dive": "Der häufigste Grund, warum Menschen mit ETFs Geld verlieren, ist erzwungenes Verkaufen im Tief. Wer keinen Puffer hat, muss bei einer unerwarteten Ausgabe genau dann Anteile verkaufen, wenn der Markt vielleicht gerade −40 % steht – der Papierverlust wird real. Ein Notgroschen von etwa 3–6 Monatsausgaben (bei unsicherem Einkommen mehr) auf Tagesgeld löst das: kein Kursrisiko, in ein bis zwei Tagen verfügbar, durch die gesetzliche Einlagensicherung bis 100.000 € je Bank/Kunde geschützt. Dieses Geld ist bewusst NICHT für Rendite da, sondern für Ruhe. Erst was darüber hinaus geht und was du 10+ Jahre nicht brauchst, ist Kandidat für einen ETF.",
+  "key_facts": [
+    {"label": "Höhe", "value": "Grob 3–6 Monatsausgaben; bei schwankendem/unsicherem Einkommen eher 6–12."},
+    {"label": "Wohin", "value": "Tagesgeld oder Festgeld mit kurzer Laufzeit – kein Kursrisiko, schnell verfügbar."},
+    {"label": "Einlagensicherung", "value": "In der EU gesetzlich bis 100.000 € je Kunde und Bank geschützt.", "source": "EU-Einlagensicherungsrichtlinie"},
+    {"label": "Zweck", "value": "Nicht Rendite, sondern die Freiheit, den ETF NIE im Tief verkaufen zu müssen."},
+    {"label": "Reihenfolge", "value": "1) teure Schulden tilgen 2) Notgroschen aufbauen 3) erst dann breit investieren."}
+  ],
+  "misconceptions": [
+    "'Tagesgeld ist Geldverschwendung, alles gehört in den ETF.' – Ohne Puffer wirst du irgendwann im Tief zum Verkauf gezwungen.",
+    "'Der Notgroschen soll auch Rendite bringen.' – Nein, seine Aufgabe ist Sicherheit und Verfügbarkeit."
+  ],
+  "related": ["sind-etfs-sicher", "sparplan-vs-einmalanlage", "welt-etf-auswaehlen"],
+  "sources": [
+    {"title": "Verbraucherzentrale: Notreserve / Geldanlage-Grundlagen", "url": "https://www.verbraucherzentrale.de/wissen/geldanlage"},
+    {"title": "BaFin: Einlagensicherung", "url": "https://www.bafin.de/DE/Verbraucher/Bank/Einlagensicherung/einlagensicherung_node.html"}
+  ]
+}
