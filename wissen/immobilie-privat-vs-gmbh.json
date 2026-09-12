@@ -1,0 +1,29 @@
+{
+  "id": "immobilie-privat-vs-gmbh",
+  "name": "Immobilie privat vs. vermögensverwaltende GmbH",
+  "aka": ["Immobilien-GmbH", "erweiterte Grundstückskürzung", "vermögensverwaltende GmbH"],
+  "category": "Immobilien & Steuerhebel",
+  "evidence_level": "A",
+  "tags": ["gmbh", "struktur", "grundstueckskuerzung", "koerperschaftsteuer", "steuer"],
+  "summary": "Hältst du Immobilien privat oder in einer GmbH? Die vermögensverwaltende Immobilien-GmbH senkt die laufende Steuer auf ~15,8 % (statt 42 %) und kann via erweiterter Grundstückskürzung die Gewerbesteuer auf ~0 drücken – ideal zum Thesaurieren/Reinvestieren. Der große Nachteil: Sie verliert den steuerfreien Verkauf nach 10 Jahren, den nur Privatpersonen haben.",
+  "kernidee": "GmbH = niedrige laufende Steuer + Reinvestieren (viele Objekte). Privat = steuerfreier Verkauf nach 10 Jahren (ein/wenige Objekte). Das ist die zentrale Abwägung.",
+  "deep_dive": "VERMÖGENSVERWALTENDE GmbH: Die Körperschaftsteuer beträgt 15 % (bis VZ 2027; inkl. Soli 15,825 %), unabhängig von deinem 42-%-Privatsatz. Über die ERWEITERTE GRUNDSTÜCKSKÜRZUNG (§ 9 Nr. 1 S. 2 GewStG) kann die Gewerbesteuer einer reinen Immobilien-GmbH faktisch auf null sinken – Voraussetzung ist das strenge Ausschließlichkeitsgebot (nur eigenen Grundbesitz verwalten). So bleiben ~84 % des Gewinns im Unternehmen zum Reinvestieren (Thesaurierungsvorteil; die Besteuerung auf Gesellschafterebene kommt erst bei Ausschüttung). Das lohnt bei MEHREREN Objekten und wenn Gewinne weiterarbeiten sollen. DER GROSSE NACHTEIL: Eine GmbH erzielt nach § 8 Abs. 2 KStG stets gewerbliche Einkünfte → Veräußerungsgewinne sind IMMER steuerpflichtig, egal wie lange gehalten. Der steuerfreie Verkauf nach 10 Jahren Spekulationsfrist (§ 23 EStG) ist ein Privileg NUR für Privatpersonen. Für 'kaufen, halten, nach 10 Jahren steuerfrei verkaufen' ist privat oft besser. WICHTIG (❌ verworfen): Die kursierende Faustregel 'GmbH lohnt erst ab 3 Mio. € Investition' wurde in der Prüfung als falsch verworfen – es gibt keine solche pauschale Schwelle; es hängt an Objektzahl, Thesaurierung und Verkaufsabsicht. Zeitbezug: Der KSt-Satz sinkt ab 2028 stufenweise bis 10 % (2032).",
+  "key_facts": [
+    {"label": "KSt der GmbH (✅)", "value": "15 % (bis VZ 2027, inkl. Soli 15,825 %) – statt bis zu 42/45 % privat.", "source": "§ 23 KStG"},
+    {"label": "Erw. Grundstückskürzung (✅)", "value": "Gewerbesteuer faktisch 0 – aber strenges Ausschließlichkeitsgebot.", "source": "§ 9 Nr. 1 S. 2 GewStG"},
+    {"label": "Thesaurierung (✅)", "value": "~84 % des Gewinns bleiben zum Reinvestieren im Unternehmen."},
+    {"label": "Kein steuerfreier Verkauf (✅)", "value": "GmbH-Verkaufsgewinne immer steuerpflichtig; § 23-Steuerfreiheit gilt nur privat.", "source": "§ 8 KStG / § 23 EStG"},
+    {"label": "Keine 3-Mio-Schwelle (❌)", "value": "Die Faustregel 'lohnt erst ab 3 Mio. €' wurde als falsch verworfen – hängt an Objektzahl/Absicht."}
+  ],
+  "misconceptions": [
+    "'Die GmbH spart immer Steuern.' – Laufend ja, aber du verlierst den steuerfreien Verkauf nach 10 Jahren.",
+    "'Eine GmbH lohnt erst ab Millionen.' – Als pauschale Regel widerlegt; kommt auf die Struktur an.",
+    "'Die erweiterte Kürzung gilt automatisch.' – Nur bei strikt ausschließlicher Grundbesitzverwaltung."
+  ],
+  "related": ["afa-abschreibung-hebel", "immobilien-finanzierungshebel", "immobilien-hebel-risiken"],
+  "sources": [
+    {"title": "§ 23 KStG (Körperschaftsteuersatz)", "url": "https://www.gesetze-im-internet.de/kstg/__23.html"},
+    {"title": "§ 9 GewStG (erweiterte Grundstückskürzung)", "url": "https://www.gesetze-im-internet.de/gewstg/__9.html"},
+    {"title": "Haufe: Vorteile der Immobilien-GmbH", "url": "https://www.haufe.de/steuern/steuerwissen-tipps/steuerliche-besonderheiten-und-vorteile-der-immobilien-gmbh_170_635508.html"}
+  ]
+}

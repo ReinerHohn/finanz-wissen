@@ -1,0 +1,29 @@
+{
+  "id": "afa-abschreibung-hebel",
+  "name": "AfA & Werbungskosten: der Steuerhebel der Vermietung",
+  "aka": ["Abschreibung", "AfA", "Denkmal-AfA", "Restnutzungsdauer", "degressive AfA"],
+  "category": "Immobilien & Steuerhebel",
+  "evidence_level": "A",
+  "tags": ["afa", "abschreibung", "werbungskosten", "denkmal", "steuer"],
+  "summary": "Bei vermieteten Immobilien darfst du Abschreibung (AfA) und Kreditzinsen steuerlich absetzen. Die AfA ist eine reine Buchungsgröße – du gibst kein echtes Geld aus, senkst aber deine Steuer. Zusammen mit den Zinsen kann ein steuerlicher Verlust entstehen, den du mit deinem Gehalt verrechnest (bei 42 % kommt viel zurück).",
+  "kernidee": "AfA + Zinsen erzeugen 'Papierverluste', die dein zu versteuerndes Einkommen senken. Der stärkste Hebel ist die Denkmal-/Sanierungs-AfA.",
+  "deep_dive": "AfA-Sätze (✅ § 7 EStG, Stand 2026): linear 3 % (Neubau, Fertigstellung ab 2023), 2 % (Baujahr 1925–2022), 2,5 % (vor 1925). NUR der Gebäudeanteil ist abschreibbar, NICHT Grund und Boden – der Kaufpreis muss aufgeteilt werden; anteilige Nebenkosten (Grunderwerbsteuer, Notar, Makler) erhöhen die AfA-Basis. Stärkere Hebel: (1) DENKMAL-/Sanierungs-AfA (§ 7i) – bei vermieteten Denkmälern sind die begünstigten Sanierungskosten mit 9 %/Jahr in den Jahren 1–8 und 7 %/Jahr in den Jahren 9–12 abschreibbar = 100 % über 12 Jahre. Der stärkste legale AfA-Hebel. (2) RESTNUTZUNGSDAUER-Gutachten (§ 7 Abs. 4 S. 2) – weist ein Gutachter eine kürzere Restnutzungsdauer nach (z. B. 25 statt 50 Jahre), verdoppelt sich der AfA-Satz; Nachweislast liegt beim Steuerpflichtigen, das restriktive BMF-Schreiben dazu wurde zum 01.12.2025 aufgehoben. (3) DEGRESSIVE AfA (§ 7 Abs. 5a) – 5 % vom Restwert für Neubauten mit Baubeginn 01.10.2023–30.09.2029, kombinierbar mit der Sonderabschreibung § 7b (bei EH40/QNG, Baukosten ≤ 5.200 €/m²). SO WIRD STEUER DARAUS: Miete minus Zinsen minus AfA minus Kosten ergibt oft einen steuerlichen Verlust aus Vermietung, der mit dem Arbeitslohn verrechnet wird (§ 21 i.V.m. § 2 EStG – gängige Praxis, in der Recherche aber nicht separat verifiziert). ACHTUNG: Ein kursierendes Denkmal-Rechenbeispiel (~9.366 €/Jahr Ersparnis) wurde in der Prüfung als falsch verworfen – die Sätze stimmen, das Beispiel nicht.",
+  "key_facts": [
+    {"label": "Lineare AfA (✅)", "value": "3 % (Neubau ab 2023), 2 % (1925–2022), 2,5 % (vor 1925). Nur Gebäude, nicht Grund/Boden.", "source": "§ 7 Abs. 4 EStG"},
+    {"label": "Denkmal-AfA (✅⭐)", "value": "§ 7i: 9 %/J. Jahre 1–8 + 7 %/J. Jahre 9–12 = 100 % Sanierungskosten über 12 J. (vermietet).", "source": "§ 7i EStG"},
+    {"label": "Restnutzungsdauer (✅)", "value": "Gutachten kann AfA-Satz erhöhen (25 statt 50 J. → 4 statt 2 %); Nachweislast beim Eigentümer.", "source": "§ 7 Abs. 4 S. 2 EStG"},
+    {"label": "Degressive AfA (✅)", "value": "5 % vom Restwert, Neubau Baubeginn 01.10.2023–30.09.2029; mit § 7b kombinierbar (EH40/QNG).", "source": "§ 7 Abs. 5a EStG"},
+    {"label": "Verlustverrechnung (📏)", "value": "Steuerlicher V+V-Verlust senkt das zu versteuernde Einkommen – gängige Praxis, hier nicht separat verifiziert."}
+  ],
+  "misconceptions": [
+    "'Auch Grund und Boden ist abschreibbar.' – Nein, nur das Gebäude.",
+    "'Die AfA kostet mich echtes Geld.' – Nein, sie ist eine Buchungsgröße ohne Zahlungsabfluss.",
+    "'Denkmal bringt garantiert ~9.000 €/Jahr.' – Das kursierende Beispiel wurde als falsch verworfen; nur die Sätze sind gesichert."
+  ],
+  "related": ["immobilien-finanzierungshebel", "immobilie-privat-vs-gmbh", "immobilien-hebel-risiken", "vorabpauschale-steuern-de"],
+  "sources": [
+    {"title": "§ 7 EStG (AfA)", "url": "https://www.gesetze-im-internet.de/estg/__7.html"},
+    {"title": "§ 7i EStG (Denkmal-AfA)", "url": "https://www.gesetze-im-internet.de/estg/__7i.html"},
+    {"title": "EY: Kürzere Restnutzungsdauer", "url": "https://www.ey.com/de_de/technical/steuernachrichten/kuerzere-restnutzungsdauer-eines-gebaeudes"}
+  ]
+}

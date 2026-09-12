@@ -1,0 +1,29 @@
+{
+  "id": "immobilien-hebel-risiken",
+  "name": "Risiken des Immobilien-Hebels & die Steuerspar-Falle",
+  "aka": ["Klumpenrisiko", "negativer Cashflow", "Schrottimmobilie", "Steuerfalle"],
+  "category": "Immobilien & Steuerhebel",
+  "evidence_level": "A",
+  "tags": ["risiko", "hebel", "cashflow", "klumpenrisiko", "steuerfalle"],
+  "summary": "Der Kredithebel macht Immobilien reich UND pleite. Eine einzelne fremdfinanzierte Wohnung ist ein Klumpen-, Zins-, Leerstands- und Liquiditätsrisiko in einem. Der wichtigste Satz: Steuern sparen ist Mittel, nicht Ziel – ein Objekt muss sich VOR Steuern rechnen. Sonst kaufst du dir mit der Steuerersparnis ein schlechtes Investment (die klassische Schrottimmobilien-Falle).",
+  "kernidee": "Der Hebel verstärkt Verluste genauso wie Gewinne. Und eine Steuerersparnis rettet kein schlechtes Objekt – erst muss die Rechnung ohne Steuervorteil stehen.",
+  "deep_dive": "Die zentralen Risiken: (1) HEBEL SYMMETRISCH – bei 70.000 € Eigenkapital auf ein 350.000-€-Objekt vernichtet ein Preisrückgang von 20 % dein gesamtes Eigenkapital, die Schuld bleibt (siehe immobilien-finanzierungshebel). (2) KLUMPENRISIKO – alles steckt in einem Gebäude, einer Lage, einem Mieter (ein Welt-ETF streut auf 1.500 Firmen). (3) ZINSÄNDERUNGSRISIKO – nach der Zinsbindung (10–15 J.) finanzierst du zum dann gültigen Zins neu; ein Sprung kann die Rechnung kippen. (4) LEERSTAND/MIETAUSFALL, INSTANDHALTUNG – laufende Ungewissheit, die den Cashflow frisst. (5) ILLIQUIDITÄT – du kannst kein Stück verkaufen; Verkauf dauert Monate und kostet ~10 % Nebenkosten. (6) NEGATIVER CASHFLOW – viele steuergetriebene Objekte kosten monatlich Geld; das ist eine reine Wette auf Wertsteigerung. DIE STEUERSPAR-FALLE: Vertriebe verkaufen überteuerte 'Vorsorgewohnungen' mit dem Argument Steuerersparnis. Aber 42 % Steuer auf einen schlechten Deal ergeben immer noch einen schlechten Deal. Merksatz: Steuern sparen ist Mittel, nicht Ziel – das Objekt muss sich VOR Steuern rechnen. Die Verbraucherzentrale ergänzt: Für reine Risikostreuung braucht man KEINE Immobilie (Aktien + Anleihen reichen); die Immobilie ist ein bewusster Hebel-/Renditeeinsatz, kein Diversifikationsbaustein.",
+  "key_facts": [
+    {"label": "Hebel symmetrisch", "value": "−20 % Objektwert kann 100 % deines Eigenkapitals vernichten; die Schuld bleibt."},
+    {"label": "Klumpenrisiko", "value": "Ein Gebäude/Lage/Mieter statt 1.500 Firmen im ETF."},
+    {"label": "Zins & Leerstand", "value": "Anschlussfinanzierung zum Zukunftszins; Leerstand/Reparaturen fressen den Cashflow."},
+    {"label": "Illiquidität", "value": "Kein Teilverkauf; Verkauf dauert Monate + ~10 % Nebenkosten."},
+    {"label": "Steuerfalle (✅)", "value": "Steuern sparen ist Mittel, nicht Ziel – das Objekt muss sich VOR Steuern rechnen.", "source": "Recherche-Kernaussage"},
+    {"label": "Keine Streuung", "value": "Für Diversifikation genügen Aktien + Anleihen – Immobilie ist bewusster Hebel.", "source": "Verbraucherzentrale"}
+  ],
+  "misconceptions": [
+    "'Betongold ist immer sicher.' – Mit Kredit ist das Eigenkapital-Risiko oft höher als beim ETF.",
+    "'Hauptsache ich spare Steuern.' – Eine Steuerersparnis rettet kein schlechtes Objekt.",
+    "'Immobilie streut mein Vermögen.' – Nein, sie konzentriert es (Klumpenrisiko)."
+  ],
+  "related": ["immobilien-finanzierungshebel", "afa-abschreibung-hebel", "immobilie-privat-vs-gmbh", "diversifikation-vs-marktrisiko"],
+  "sources": [
+    {"title": "Gerd Kommer: Risiko von Immobilien-Investments", "url": "https://gerd-kommer.de/blog/das-risiko-von-investments-in-immobilien/"},
+    {"title": "Verbraucherzentrale: Immobilienfonds/Streuung", "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/offene-immobilienfonds-eine-langfristig-sichere-anlage-11429"}
+  ]
+}

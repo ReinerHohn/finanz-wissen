@@ -1,0 +1,27 @@
+{
+  "id": "immobilien-finanzierungshebel",
+  "name": "Der Immobilien-Finanzierungshebel (Leverage)",
+  "aka": ["Leverage", "Eigenkapitalrendite", "gute Schulden", "Fremdkapitalhebel"],
+  "category": "Immobilien & Steuerhebel",
+  "evidence_level": "B",
+  "tags": ["hebel", "leverage", "finanzierung", "eigenkapitalrendite", "immobilie"],
+  "summary": "Bei der vermieteten Immobilie setzt du wenig Eigenkapital ein, die Bank finanziert den Rest, der Mieter tilgt. Solange die Objektrendite über dem Kreditzins liegt, steigt deine Eigenkapitalrendite überproportional ('positiver Leverage'). Genau dieser Hebel wirkt bei fallenden Preisen aber ebenso brutal gegen dich.",
+  "kernidee": "Fremdkapital vergrößert deine Rendite AUF das Eigenkapital – nach oben wie nach unten. Der Hebel ist Chance und Hauptrisiko zugleich.",
+  "deep_dive": "Kaufst du eine Wohnung für 350.000 € mit 70.000 € Eigenkapital und 280.000 € Kredit, kontrollierst du einen 350.000-€-Wert mit 70.000 €. Steigt der Wert um 10 % (+35.000 €), ist das gemessen an deinem Eigenkapital +50 % – das ist der positive Hebel. Bedingung: Die Objektrendite (Miete + Wertsteigerung) muss über dem Kreditzins liegen, sonst wird der Hebel negativ. 'Gute Schulden' heißen sie, weil ein Mieter den Kredit bedient und die Zinsen steuerlich absetzbar sind (bei Vermietung, siehe afa-abschreibung-hebel). ABER: Derselbe Hebel wirkt symmetrisch nach unten. Fällt der Wert um 20 % (−70.000 €), ist dein gesamtes Eigenkapital weg – während die Schuld von 280.000 € bleibt (siehe immobilien-hebel-risiken). Zum Vergleich: Ein Welt-ETF, der 20 % fällt, kostet dich 20 %, nicht 100 %. Faustzahlen (📏): Banken finanzieren oft bis ~80–90 % (LTV); Nebenkosten (Grunderwerbsteuer je nach Bundesland ~3,5–6,5 %, Notar/Grundbuch ~2 %, ggf. Makler) solltest du aus Eigenkapital zahlen. HINWEIS: Konkrete LTV-/Zinswerte 2026 und die Rendite-Mechanik wurden in der Recherche nicht durch verifizierte Claims belegt – als Orientierung behandeln.",
+  "key_facts": [
+    {"label": "Prinzip", "value": "Wenig Eigenkapital + Kredit steuern einen großen Wert; Mieter tilgt."},
+    {"label": "Positiver Hebel", "value": "Objektrendite > Kreditzins → Eigenkapitalrendite steigt überproportional."},
+    {"label": "Symmetrisch", "value": "−20 % Wert kann 100 % deines Eigenkapitals vernichten – die Schuld bleibt."},
+    {"label": "Nebenkosten (📏)", "value": "Grunderwerbsteuer ~3,5–6,5 % + Notar/Grundbuch ~2 % (+ ggf. Makler) – aus Eigenkapital."},
+    {"label": "'Gute Schulden'", "value": "Mieter bedient den Kredit, Zinsen sind bei Vermietung absetzbar."}
+  ],
+  "misconceptions": [
+    "'Der Hebel bringt nur Chancen.' – Er verstärkt Verluste genauso stark wie Gewinne.",
+    "'Immobilie ist sicherer als Aktien, weil real.' – Mit Kredit ist das Eigenkapital-Risiko oft höher als beim ETF.",
+    "'100 %-Finanzierung ist clever, spart Eigenkapital.' – Höherer Hebel = höheres Risiko und meist teurerer Zins."
+  ],
+  "related": ["afa-abschreibung-hebel", "immobilien-hebel-risiken", "immobilie-privat-vs-gmbh", "diversifikation-vs-marktrisiko"],
+  "sources": [
+    {"title": "Gerd Kommer: Der Leverage-Effekt", "url": "https://gerd-kommer.de/blog/leverage-effekt/"}
+  ]
+}

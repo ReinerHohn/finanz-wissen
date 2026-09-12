@@ -1,0 +1,28 @@
+{
+  "id": "fire-mathematik",
+  "name": "FIRE-Mathematik: die 25x-Regel & der Sparquoten-Hebel",
+  "aka": ["FIRE-Zahl", "25x-Regel", "finanzielle Unabhängigkeit", "Sparquote"],
+  "category": "Unabhängigkeit & Strategie",
+  "evidence_level": "A",
+  "tags": ["fire", "sparquote", "25x", "unabhaengigkeit", "mathematik"],
+  "summary": "Finanzielle Unabhängigkeit beruht auf zwei Zahlen: Deine Zielsumme ist grob 'Jahresausgaben × 25' (aus der 4-%-Entnahme). Und der stärkste Zeit-Hebel ist deine Sparquote – nicht die Rendite und nicht ein Steuertrick. Ausgaben zu senken wirkt doppelt: mehr gespart UND kleinere Zielsumme.",
+  "kernidee": "Zielsumme = Jahresausgaben × 25. Wie schnell du hinkommst, entscheidet fast allein deine Sparquote.",
+  "deep_dive": "Die 25x-Regel folgt direkt aus der 4-%-Entnahme (25 = 100/4): Wer jährlich 4 % eines Depots entnimmt, braucht das 25-fache seiner Jahresausgaben. Beispiele: 30.000 €/Jahr → 750.000 €; 36.000 € → 900.000 €; 40.000 € → 1.000.000 €. Wählt man die konservativere 3,5-%-Entnahme (für frühe/lange Ruhestände empfohlen, siehe sichere-entnahmerate-swr), steigt der Faktor auf ~28,6: dann 857.000 € bzw. 1.143.000 €. Der eigentliche Hammer ist die Sparquote (Anteil des Nettoeinkommens, den du sparst). Bei ~5 % Realrendite und Start bei null dauert es bei 25 % Sparquote ~32 Jahre, bei 50 % nur ~17 Jahre, bei zwei Dritteln ~10 Jahre. Grund: Eine höhere Sparquote erhöht den Sparbetrag UND senkt gleichzeitig die nötige Zielsumme (weil du mit weniger auskommst). Deshalb schlägt bei einem Hochverdiener das konsequente Investieren der Einkommensdifferenz jeden einzelnen Steuertrick. WICHTIG: Die 25x/4-%-Regel stammt aus US-Daten; deutsche Steuern und v. a. die Krankenversicherung (siehe krankenversicherung-fruehruhestand) erhöhen die real nötige Summe – realistisch die KV-Kosten separat einplanen und die Zielsumme eher höher ansetzen.",
+  "key_facts": [
+    {"label": "Zielsumme (✅ Faustregel)", "value": "Jahresausgaben × 25 (bei 4 %) bzw. × 28,6 (bei 3,5 %).", "source": "Frugalisten / Trinity-Herleitung"},
+    {"label": "Sparquote-Hebel (✅)", "value": "50 % Sparquote ≈ 17 Jahre, 67 % ≈ 10 Jahre (5 % Realrendite, Start null).", "source": "Frugalisten / Mr. Money Mustache"},
+    {"label": "Doppelwirkung", "value": "Ausgaben senken erhöht die Sparquote UND verkleinert die Zielsumme."},
+    {"label": "Rendite < Sparquote", "value": "In der Aufbauphase bewegt die Sparquote die Jahre stärker als kleine Renditeunterschiede."},
+    {"label": "DE-Zuschlag", "value": "US-Regel: deutsche Steuern + KV erhöhen die nötige Summe – Puffer einplanen."}
+  ],
+  "misconceptions": [
+    "'Ich brauche vor allem hohe Rendite.' – In der Aufbauphase zählt die Sparquote mehr.",
+    "'Ein Steuertrick bringt mich schneller ans Ziel.' – Er spart ein paar Prozent; die Sparquote verschiebt Jahrzehnte.",
+    "'4 % gelten 1:1 in Deutschland.' – US-Regel; Steuern und KV senken die real sichere Entnahme."
+  ],
+  "related": ["sichere-entnahmerate-swr", "entnahme-steuer-guenstigerpruefung", "krankenversicherung-fruehruhestand", "sparplan-als-automatik"],
+  "sources": [
+    {"title": "Frugalisten: So funktioniert finanzielle Unabhängigkeit", "url": "https://frugalisten.de/so-funktioniert-finanzielle-unabhaengigkeit/"},
+    {"title": "Trinity-Studie (Überblick)", "url": "https://www.fundresearch.de/altersvorsorge/was-die-trinity-studie-ueber-sichere-entnahmen-aus-dem-depot-zeigt.php"}
+  ]
+}

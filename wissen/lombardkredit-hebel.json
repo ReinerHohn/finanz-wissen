@@ -1,0 +1,28 @@
+{
+  "id": "lombardkredit-hebel",
+  "name": "Lombard-/Wertpapierkredit: Hebel aufs ETF-Depot",
+  "aka": ["Lombardkredit", "Wertpapierkredit", "Effektenkredit", "Margin"],
+  "category": "Immobilien & Steuerhebel",
+  "evidence_level": "B",
+  "tags": ["lombardkredit", "hebel", "margin-call", "etf", "steuer"],
+  "summary": "Du kannst dein ETF-Depot beleihen und mit dem Kredit mehr investieren (Hebel). Klingt effizient, hat aber zwei Haken: das Margin-Call-Risiko (Zwangsverkauf im Tief) und – anders als bei Immobilien – sind die Kreditzinsen beim ETF steuerlich meist NICHT absetzbar. Für die meisten Privatanleger eher zu vermeiden.",
+  "kernidee": "Depot beleihen vergrößert Gewinn UND Verlust – und der 'Zinsen absetzen'-Vorteil funktioniert hier NICHT (Abgeltungsteuer). Deshalb heikel.",
+  "deep_dive": "Beim Lombard-/Wertpapierkredit leihst du dir Geld gegen dein Depot als Sicherheit (Beleihungswert breiter ETFs typ. ~50–70 %) und investierst es zusätzlich. Der Hebel wirkt wie bei Immobilien in beide Richtungen. Das Kernrisiko ist der MARGIN CALL: Fällt dein Depot, sinkt der Beleihungswert – der Broker fordert Geld nach oder verkauft deine Anteile zwangsweise, typischerweise GENAU im Tief. Mit Hebel wird ein normaler Crash so existenzgefährdend. STEUER-ASYMMETRIE (wichtig): Kreditzinsen für eine vermietete Immobilie sind Werbungskosten und absetzbar. Zinsen für einen Aktien-/ETF-Kredit sind unter der Abgeltungsteuer dagegen GRUNDSÄTZLICH NICHT absetzbar (nur der Sparerpauschbetrag, keine echten Werbungskosten – § 20 Abs. 9 EStG). Der 'Steuern sparen durch Zinsen'-Hebel funktioniert also bei Immobilien, aber praktisch NICHT beim ETF-Depot. HINWEIS: Dieser Block wurde in der Recherche nicht durch verifizierte Claims abgedeckt; LTV-/Margin-Details und die Zinsabzugs-Regel gelten als etablierte Grundlagen, sind aber mit Steuerberater/Broker zu bestätigen. Fazit: Für den langfristigen Vermögensaufbau der meisten Privatanleger ist der Lombardhebel eher ein Risiko als ein Werkzeug.",
+  "key_facts": [
+    {"label": "Prinzip", "value": "Depot als Sicherheit beleihen (~50–70 % Beleihungswert) und zusätzlich investieren."},
+    {"label": "Margin-Call-Risiko", "value": "Bei fallenden Kursen Nachschuss/Zwangsverkauf – meist im Tief. Mit Hebel gefährlich."},
+    {"label": "Zinsen NICHT absetzbar (📏)", "value": "Unter Abgeltungsteuer kein Werbungskostenabzug (§ 20 Abs. 9 EStG) – anders als bei Immobilien."},
+    {"label": "Hebel symmetrisch", "value": "Vergrößert Gewinne und Verluste gleichermaßen."},
+    {"label": "Einordnung", "value": "Für die meisten eher zu meiden; nicht durch verifizierte Recherche-Claims gedeckt."}
+  ],
+  "misconceptions": [
+    "'Zinsen für den Wertpapierkredit kann ich absetzen.' – Beim ETF unter Abgeltungsteuer grundsätzlich nicht.",
+    "'Beleihung ist harmlos, ich verkaufe ja nichts.' – Der Margin Call kann dich zum Verkauf im Tief zwingen.",
+    "'Hebel ist ein einfacher Renditebooster.' – Er ist vor allem ein Risikoverstärker."
+  ],
+  "related": ["immobilien-finanzierungshebel", "immobilien-hebel-risiken", "entnahme-steuer-guenstigerpruefung", "diversifikation-vs-marktrisiko"],
+  "sources": [
+    {"title": "Finanztip: Lombardkredit", "url": "https://www.finanztip.de/wertpapierdepot/lombardkredit/"},
+    {"title": "Gerd Kommer: Leverage-Effekt", "url": "https://gerd-kommer.de/blog/leverage-effekt/"}
+  ]
+}

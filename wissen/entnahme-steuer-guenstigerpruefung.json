@@ -1,0 +1,28 @@
+{
+  "id": "entnahme-steuer-guenstigerpruefung",
+  "name": "Steuer beim Entsparen: Teilfreistellung, FIFO & Günstigerprüfung",
+  "aka": ["Günstigerprüfung", "FIFO", "Teilfreistellung", "Depotübertrag-Trick"],
+  "category": "Unabhängigkeit & Strategie",
+  "evidence_level": "A",
+  "tags": ["steuer", "entnahme", "guenstigerpruefung", "fifo", "teilfreistellung"],
+  "summary": "Beim Verkauf von ETF-Anteilen fallen 26,375 % Abgeltungsteuer an – aber bei Aktien-ETFs sind 30 % steuerfrei (Teilfreistellung). Für FIRE-Aussteiger mit niedrigem Einkommen ist die Günstigerprüfung ein starker Hebel: Liegt dein persönlicher Steuersatz unter 25 %, wird günstiger progressiv besteuert. Und der FIFO-Zwang lässt sich per Depotübertrag umgehen.",
+  "kernidee": "Als Aussteiger mit wenig Einkommen zahlst du oft WENIGER Kapitalertragsteuer als im Job – die Günstigerprüfung macht's möglich.",
+  "deep_dive": "Abgeltungsteuer: 25 % + 5,5 % Soli = 26,375 % (mit Kirchensteuer ~27,8–28 %). Bei Aktien-ETFs (MSCI World & Co.) bleiben durch die TEILFREISTELLUNG 30 % der Erträge steuerfrei → effektiv nur ~18,5 % auf Gewinne. GÜNSTIGERPRÜFUNG (§ 32d Abs. 6 EStG): Auf Antrag in der Steuererklärung werden Kapitalerträge mit deinem persönlichen (progressiven) Satz besteuert, wenn das billiger ist. Genau der FIRE-Fall: Wer ausgestiegen ist und wenig sonstiges Einkommen hat, liegt oft unter 25 % Grenzsteuersatz → er zahlt auf Kapitalerträge weniger als die pauschalen 26,375 %. Das kann die Steuerlast in der Entnahmephase deutlich senken. FIFO-FALLE: Deutsche Broker verkaufen zwingend die ÄLTESTEN Anteile zuerst (gesetzlich, depotbezogen) – die haben meist die größten aufgelaufenen Gewinne → höchste Steuer. TRICK: Ein Depotübertrag zwischen EIGENEN Depots (ohne Gläubigerwechsel) ist steuerfrei; so kannst du alte und junge Anteile auf getrennte Depots legen und steuern, welche du zuerst verkaufst. WICHTIG: nur ohne Gläubigerwechsel steuerfrei – ein entgeltlicher Übertrag an Dritte gilt als Verkauf.",
+  "key_facts": [
+    {"label": "Abgeltungsteuer (✅)", "value": "26,375 % (25 % + Soli); mit Kirchensteuer ~27,8–28 %.", "source": "§ 32d EStG"},
+    {"label": "Teilfreistellung (✅)", "value": "Aktien-ETF: 30 % der Erträge steuerfrei → effektiv ~18,5 %.", "source": "§ 20 InvStG"},
+    {"label": "Günstigerprüfung (✅⭐)", "value": "Persönlicher Satz < 25 % → auf Antrag günstiger als Abgeltungsteuer. Ideal für Aussteiger mit wenig Einkommen.", "source": "§ 32d Abs. 6 EStG"},
+    {"label": "FIFO-Zwang (✅)", "value": "Broker verkaufen älteste (gewinnreichste) Anteile zuerst – höchste Steuer."},
+    {"label": "Depotübertrag-Trick (✅)", "value": "Steuerfrei zwischen eigenen Depots (kein Gläubigerwechsel) → alte/junge Anteile trennen und Verkaufsreihenfolge steuern.", "source": "Finanztip"}
+  ],
+  "misconceptions": [
+    "'Kapitalerträge werden immer mit 26,375 % besteuert.' – Bei niedrigem Einkommen ist die Günstigerprüfung günstiger.",
+    "'Ich kann selbst wählen, welche Anteile verkauft werden.' – Nein, FIFO ist zwingend – nur per getrennter Depots steuerbar.",
+    "'Depotübertrag löst Steuer aus.' – Nur bei Gläubigerwechsel; zwischen eigenen Depots steuerfrei."
+  ],
+  "related": ["fire-mathematik", "vorabpauschale-steuern-de", "thesaurierend-vs-ausschuettend", "krankenversicherung-fruehruhestand"],
+  "sources": [
+    {"title": "§ 32d EStG (Abgeltungsteuer & Günstigerprüfung)", "url": "https://www.gesetze-im-internet.de/estg/__32d.html"},
+    {"title": "Finanztip: ETF-Steuern & Verkauf", "url": "https://www.finanztip.de/daily/etf-steuern-sparen-beim-verkauf/"}
+  ]
+}

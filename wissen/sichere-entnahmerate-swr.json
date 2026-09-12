@@ -1,0 +1,29 @@
+{
+  "id": "sichere-entnahmerate-swr",
+  "name": "Sichere Entnahmerate & Sequenzrisiko",
+  "aka": ["4-Prozent-Regel", "Safe Withdrawal Rate", "Trinity-Studie", "Guyton-Klinger"],
+  "category": "Unabhängigkeit & Strategie",
+  "evidence_level": "B",
+  "tags": ["entnahmerate", "swr", "trinity", "sequenzrisiko", "guardrails"],
+  "summary": "Wie viel darfst du jährlich aus dem Depot entnehmen, ohne dass es ausgeht? Die Trinity-Studie nennt 4 % über 30 Jahre als meist sicher (bei hohem Aktienanteil). Für frühen/langen Ruhestand in Deutschland raten Experten eher zu 3–3,5 %. Größte Gefahr: das Sequenzrisiko – ein Crash gleich zu Beginn.",
+  "kernidee": "4 % ist die grobe Orientierung; für früh + Deutschland eher 3–3,5 %. Und die Reihenfolge der Renditen (Sequenzrisiko) ist gefährlicher als der Durchschnitt.",
+  "deep_dive": "Trinity-Studie (US-Daten): Eine Anfangsentnahme von 4 %, jährlich an die Inflation angepasst, überstand 30 Jahre mit ~98 % Erfolg bei 75 % Aktien, 95 % bei 50 % Aktien – aber nur ~20 % bei reinen Anleihen. Aktien sind also nötig. Für FIRE gelten zwei Einschränkungen: (1) Dein Zeitraum ist länger als 30 Jahre → niedrigere Rate nötig. (2) Deutsche Steuern (Abgeltungsteuer) und Krankenversicherung senken die real verfügbare Entnahme. Deshalb die Faustregel (📏, keine Rechtslage) 3–3,5 %. SEQUENZRISIKO: Nicht der Durchschnitt zählt, sondern die Reihenfolge. Fällt der Markt in den ersten Entnahmejahren stark, verkaufst du Anteile im Tief – dieses Kapital fehlt für die Erholung, das Depot kann sich nie mehr fangen. Derselbe Crash spät ist meist harmlos. Gegenmittel: Cash-Puffer (1–3 Jahresausgaben), flexible Entnahme, in schlechten Jahren weniger. DYNAMISCHE REGELN (Guyton-Klinger-Guardrails): Passen die Entnahme an, wenn die Rate ±20 % von der Startrate abweicht. Ehrliche Grenze: In historischen Krisen erzwangen sie reale Ausgabenkürzungen von 28 % (2008) bis 54 % (Stagflation 1965) – man muss also bereit sein, im Ernstfall den Gürtel deutlich enger zu schnallen.",
+  "key_facts": [
+    {"label": "Trinity 4 % (✅)", "value": "30 J.: 98 % Erfolg bei 75 % Aktien, 95 % bei 50 %, nur ~20 % bei reinen Anleihen.", "source": "Trinity-Studie"},
+    {"label": "Für FIRE (📏)", "value": "Eher 3–3,5 % wegen längerem Horizont + deutschen Steuern/KV. Bank-Faustregel, keine Rechtslage."},
+    {"label": "Sequenzrisiko (✅)", "value": "Crash zu Beginn der Entnahme ist verheerend; spät meist harmlos."},
+    {"label": "Guardrails (✅)", "value": "Guyton-Klinger passt bei ±20 % Abweichung an – kann aber Kürzungen von 28–54 % erzwingen.", "source": "Kitces"},
+    {"label": "Aktien nötig", "value": "Ohne nennenswerten Aktienanteil scheitert die Entnahme historisch fast immer."}
+  ],
+  "misconceptions": [
+    "'4 % sind garantiert sicher.' – US-Faustregel für 30 J.; früh/DE eher 3–3,5 %.",
+    "'Nur die Durchschnittsrendite zählt.' – Die Reihenfolge (Sequenzrisiko) ist entscheidend.",
+    "'Dynamische Entnahme löst alles.' – Sie kann im Crash brutale Ausgabenkürzungen erzwingen."
+  ],
+  "related": ["fire-mathematik", "entnahmephase", "krankenversicherung-fruehruhestand", "anleihen-und-tagesgeld"],
+  "sources": [
+    {"title": "Trinity-Studie (Überblick)", "url": "https://www.fundresearch.de/altersvorsorge/was-die-trinity-studie-ueber-sichere-entnahmen-aus-dem-depot-zeigt.php"},
+    {"title": "Kitces: Guyton-Klinger Guardrails", "url": "https://www.kitces.com/blog/guyton-klinger-guardrails-retirement-income-rules-risk-based/"},
+    {"title": "Frugalisten: Sequence-of-Returns-Risiko", "url": "https://frugalisten.de/das-sequence-of-returns-risiko-entnahmestrategien-teil-2/"}
+  ]
+}

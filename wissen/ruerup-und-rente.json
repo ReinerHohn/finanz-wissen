@@ -1,0 +1,27 @@
+{
+  "id": "ruerup-und-rente",
+  "name": "Rürup & gesetzliche Rente: Steuerhebel, aber keine FIRE-Brücke",
+  "aka": ["Basisrente", "Rürup-Rente", "nachgelagerte Besteuerung"],
+  "category": "Unabhängigkeit & Strategie",
+  "evidence_level": "B",
+  "tags": ["ruerup", "basisrente", "altersvorsorge", "steuer", "rente"],
+  "summary": "Die Rürup-/Basisrente bietet Hochverdienern einen großen Sofort-Steuerabzug (2025 bis 29.344 € voll absetzbar), ist aber wegen Verrentungszwang als Brücke in den frühen Ruhestand ungeeignet: kein Kapital, keine Auszahlung vor ~62. Sie taugt nur für den klassischen Altersteil, nicht für FIRE vor Rentenalter.",
+  "kernidee": "Rürup = Steuerabzug jetzt gegen eine gebundene lebenslange Rente später. Guter Steuerhebel im Job, aber du kommst vor dem Rentenalter nicht dran – keine FIRE-Brücke.",
+  "deep_dive": "Rürup/Basisrente: Beiträge sind für Hochverdiener attraktiv, weil sie 2025 zu 100 % absetzbar sind (bis 29.344 € Ledige / 58.688 € Verheiratete; Wert steigt jährlich, wird aber mit gesetzlicher Rente/bAV geteilt). Bei ~42 % Grenzsteuersatz ist der Sofortvorteil erheblich. ABER die Kehrseite ist hart: Das Kapital ist gebunden – es gibt KEINE Kapitalauszahlung, keine Kündigung/Vererbung wie bei einem Depot, und du kommst frühestens ab ~62 (Vertragsabhängig) an eine dann lebenslange, monatliche Rente. Für jemanden, der mit 45 oder 50 finanziell unabhängig sein will, ist das nutzlos als Brücke – das Geld ist bis zum Rentenalter weggesperrt. Fazit: Rürup lohnt allenfalls für den TEIL des Vermögens, den man ohnehin erst im klassischen Rentenalter braucht, und nur bei hohem Steuersatz. Für die FIRE-Phase davor ist das flexible, jederzeit verfügbare ETF-Depot überlegen. Die gesetzliche Rente wiederum fällt trotz Frühausstieg später an (aus den bereits erworbenen Ansprüchen) – ein Zusatzbaustein, kein FIRE-Motor. HINWEIS: Die exakten Prozentsätze der nachgelagerten Besteuerung kursieren im Netz unterschiedlich und wurden in der Recherche nicht eindeutig bestätigt – Details mit Steuerberater klären.",
+  "key_facts": [
+    {"label": "Steuerabzug (✅)", "value": "2025 bis 29.344 € (Ledige) / 58.688 € (Verheiratete) voll absetzbar; keine Zulagen.", "source": "Verbraucherzentrale"},
+    {"label": "Bei 42 % Satz", "value": "Erheblicher Sofort-Steuervorteil auf die Beiträge."},
+    {"label": "Verrentungszwang", "value": "Kein Kapital, keine Auszahlung/Vererbung, Zugriff frühestens ~62 – nur lebenslange Rente."},
+    {"label": "Keine FIRE-Brücke", "value": "Für Unabhängigkeit VOR dem Rentenalter ungeeignet; nur für den klassischen Altersteil."},
+    {"label": "Gesetzliche Rente", "value": "Kommt trotz Frühausstieg später aus erworbenen Ansprüchen – Zusatzbaustein, kein Motor."}
+  ],
+  "misconceptions": [
+    "'Rürup ist der beste Steuerspar-Trick, nehme ich für alles.' – Nur für den Altersteil; das Geld ist bis Rente gebunden.",
+    "'Ich kann mir Rürup zur Not auszahlen lassen.' – Nein, es gibt nur die lebenslange Rente.",
+    "'Mit Frühausstieg verfällt meine gesetzliche Rente.' – Nein, bereits erworbene Ansprüche bleiben."
+  ],
+  "related": ["fire-mathematik", "krankenversicherung-fruehruhestand", "entnahme-steuer-guenstigerpruefung"],
+  "sources": [
+    {"title": "Verbraucherzentrale: Rürup-/Basisrente – Fallstricke", "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/altersvorsorge/rueruprente-auf-diese-fallstricke-sollten-sie-bei-der-basisrente-achten-110665"}
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "krankenversicherung-fruehruhestand",
+  "name": "Die Krankenversicherungs-Falle im Frühruhestand",
+  "aka": ["freiwillige GKV", "KV bei FIRE", "Beiträge auf Kapitalerträge", "KVdR"],
+  "category": "Unabhängigkeit & Strategie",
+  "evidence_level": "A",
+  "tags": ["krankenversicherung", "gkv", "fire", "beitraege", "kapitalertraege"],
+  "summary": "Der am häufigsten übersehene FIRE-Posten. Wer ohne Job aussteigt, ist meist freiwillig gesetzlich versichert – und dann zählen 2026 ALLE Einkünfte zur Beitragsberechnung, auch Kapitalerträge (ohne Sparerpauschbetrag!) und Mieteinnahmen, bis zur Bemessungsgrenze. Das sind mindestens ~270 €/Monat, bei höheren Erträgen über 1.200 €/Monat – eine dauerhafte Ausgabe, die deine Zielsumme stark erhöht.",
+  "kernidee": "Als freiwillig Versicherter zahlst du Kassenbeiträge auf deine Kapital- und Mieteinkünfte. Diese Kosten musst du in deine FIRE-Zahl einrechnen (×25) – sie kippen viele Pläne.",
+  "deep_dive": "Ein FIRE-Aussteiger ohne Arbeitseinkommen ist in der Regel FREIWILLIG gesetzlich versichert. Dann gilt (§ 240 SGB V): Zur Beitragsberechnung wird die 'gesamte wirtschaftliche Leistungsfähigkeit' herangezogen – also ALLE Einkunftsarten, inklusive Kapitalerträge (hier zählt der Sparerpauschbetrag NICHT, die Erträge gehen voll ein) und Mieteinnahmen (um AfA/Werbungskosten reduzierbar) – bis zur Beitragsbemessungsgrenze von 5.812,50 €/Monat (2026). Beitragssätze 2026: ermäßigter Satz 14,0 % + durchschn. Zusatzbeitrag 2,9 % = 16,9 % (ohne Krankengeld, für Aussteiger relevant) plus Pflegeversicherung 3,6 % (4,2 % für Kinderlose über 23). Mindestbemessungsgrundlage 1.318,33 €/Monat → MINDESTBEITRAG ~270–278 €/Monat, selbst ohne jedes Einkommen. HÖCHSTBEITRAG über 1.200 €/Monat. WARUM DAS DEINE ZIELSUMME SPRENGT: KV ist eine laufende Ausgabe – du musst sie ×25 rechnen. Nur Mindestbeitrag (~3.250 €/Jahr) → +81.000 € nötiges Vermögen. Bei hohen Kapitalerträgen Richtung Höchstbeitrag (~14.400 €/Jahr) → +360.000 €. Ausweg-Idee (📏, nicht in dieser Recherche verifiziert): Die KVdR (Krankenversicherung der Rentner, '9/10-Regel') ist im Rentenalter oft günstiger, weil dort Kapitalerträge NICHT beitragspflichtig sind – mit Krankenkasse prüfen.",
+  "key_facts": [
+    {"label": "Alle Einkünfte zählen (✅)", "value": "Freiwillig GKV: Kapitalerträge (ohne Sparerpauschbetrag) + Mieten sind beitragspflichtig, bis BBG 5.812,50 €/Monat (2026).", "source": "§ 240 SGB V"},
+    {"label": "Beitragssätze 2026 (✅)", "value": "16,9 % (ermäßigt, ohne Krankengeld) + Pflege 3,6 % / 4,2 % (kinderlos)."},
+    {"label": "Mindestbeitrag (✅)", "value": "~270–278 €/Monat – auch ohne jedes Einkommen (Mindestbemessung 1.318,33 €/Monat)."},
+    {"label": "Höchstbeitrag (✅)", "value": "über 1.200 €/Monat bei Einkünften an der BBG."},
+    {"label": "Wirkung auf FIRE-Zahl", "value": "Mindestbeitrag ≈ +81.000 €, Höchstbeitrag ≈ +360.000 € zusätzliches nötiges Vermögen (×25)."},
+    {"label": "KVdR später (📏)", "value": "Im Rentenalter oft günstiger (Kapitalerträge dann beitragsfrei) – 9/10-Regel, separat prüfen."}
+  ],
+  "misconceptions": [
+    "'Krankenversicherung ist im Ruhestand kein großer Posten.' – Für Frühaussteiger einer der größten und am meisten übersehenen.",
+    "'Auf Kapitalerträge zahle ich keine Kassenbeiträge.' – Als freiwillig Versicherter doch, in voller Höhe (kein Sparerpauschbetrag).",
+    "'Ohne Einkommen zahle ich nichts.' – Es gibt einen Mindestbeitrag von ~270 €/Monat."
+  ],
+  "related": ["fire-mathematik", "sichere-entnahmerate-swr", "entnahme-steuer-guenstigerpruefung", "ruerup-und-rente"],
+  "sources": [
+    {"title": "Verbraucherzentrale: Freiwillig in der GKV", "url": "https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/freiwillig-versichert-in-der-gesetzlichen-krankenkasse-das-muessen-sie-wissen-83661"},
+    {"title": "Mindestbemessungsgrundlage & Beiträge 2026", "url": "https://covago.de/mindestbemessungsgrundlage-2026/"}
+  ]
+}
